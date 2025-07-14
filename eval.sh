@@ -19,7 +19,7 @@ for domain in "${domains[@]}"; do
             full=("$version" "${doc_type[@]}")
             joined=$(IFS=_; echo "${full[*]}")
 
-            cmd="$seq conll_${version}/conll_${joined}.txt xlm_flert_${version}/xlm_flert_${joined}.txt"
+            cmd="$seq test_sets/conll_${version}/conll_${joined}.txt outputs/xlm_flert_${version}/xlm_flert_${joined}.txt"
             log="evals/xlm_flert/${version}/${joined}.txt"
 
             $cmd > $log
@@ -29,13 +29,13 @@ for domain in "${domains[@]}"; do
         full=("sharp" "${doc_type[@]}")
         joined=$(IFS=_; echo "${full[*]}")
 
-        cmd = "$seq conll_sharp/conll_sharp_${joined}.txt luke_sharp/luke_sharp_${joined}.txt"
+        cmd = "$seq test_sets/conll_sharp/conll_sharp_${joined}.txt outputs/luke_sharp/luke_sharp_${joined}.txt"
         log="evals/luke/sharp/${joined}.txt"
         $cmd > $log
 
 
         # Evaluate ASP for CoNLL#
-        cmd = "$seq conll_sharp_asp_order/conll_sharp_asp_order${joined}.txt asp_sharp/asp_sharp_${joined}.txt"
+        cmd = "$seq test_sets/conll_sharp_asp_order/conll_sharp_asp_order${joined}.txt outputs/asp_sharp/asp_sharp_${joined}.txt"
         log="evals/asp/sharp/${joined}.txt"
         $cmd > $log
 
