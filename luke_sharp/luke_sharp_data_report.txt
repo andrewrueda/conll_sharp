@@ -1,0 +1,13770 @@
+-DOCSTART- O
+ 
+FREESTYLE O
+SKIING O
+- O
+WORLD B-MISC
+CUP I-MISC
+MOGUL O
+RESULTS O
+. O
+ 
+TIGNES B-LOC
+, O
+France B-LOC
+1996-12-06 O
+ 
+Results O
+of O
+the O
+World B-MISC
+Cup I-MISC
+freestyle O
+skiing O
+moguls O
+competition O
+on O
+Friday O
+: O
+ 
+Men O
+ 
+1. O
+Jesper B-PER
+Ronnback I-PER
+( O
+Sweden B-LOC
+) O
+25.76 O
+points O
+ 
+2. O
+Andrei B-PER
+Ivanov I-PER
+( O
+Russia B-LOC
+) O
+24.88 O
+ 
+3. O
+Ryan B-PER
+Johnson I-PER
+( O
+Canada B-LOC
+) O
+24.57 O
+ 
+4. O
+Jean-Luc B-PER
+Brassard I-PER
+( O
+Canada B-LOC
+) O
+24.40 O
+ 
+5. O
+Korneilus B-PER
+Hole I-PER
+( O
+Norway B-LOC
+) O
+23.92 O
+ 
+6. O
+Jeremie B-PER
+Collomb-Patton I-PER
+( O
+France B-LOC
+) O
+23.87 O
+ 
+7. O
+Jim B-PER
+Moran I-PER
+( O
+U.S. B-LOC
+) O
+23.25 O
+ 
+8. O
+Dominick B-PER
+Gauthier I-PER
+( O
+Canada B-LOC
+) O
+22.73 O
+ 
+9. O
+Johann B-PER
+Gregoire I-PER
+( O
+France B-LOC
+) O
+22.58 O
+ 
+10. O
+Troy B-PER
+Benson I-PER
+( O
+U.S. B-LOC
+) O
+22.56 O
+ 
+Women O
+ 
+1. O
+Tatjana B-PER
+Mittermayer I-PER
+( O
+Germany B-LOC
+) O
+24.32 O
+ 
+2. O
+Candice B-PER
+Gilg I-PER
+( O
+France B-LOC
+) O
+24.31 O
+ 
+3. O
+Minna B-PER
+Karhu I-PER
+( O
+Finland B-LOC
+) O
+24.05 O
+ 
+4. O
+Tae B-PER
+Satoya I-PER
+( O
+Japan B-LOC
+) O
+23.75 O
+ 
+5. O
+Ann B-PER
+Battellle I-PER
+( O
+U.S. B-LOC
+) O
+23.56 O
+ 
+6. O
+Donna B-PER
+Weinbrecht I-PER
+( O
+U.S. B-LOC
+) O
+22.48 O
+ 
+7. O
+Liz B-PER
+McIntyre I-PER
+( O
+U.S. B-LOC
+) O
+22.00 O
+ 
+8. O
+Elena B-PER
+Koroleva I-PER
+( O
+Russia B-LOC
+) O
+21.77 O
+ 
+9. O
+Ljudmila B-PER
+Dymchenko I-PER
+( O
+Russia B-LOC
+) O
+21.59 O
+ 
+10. O
+Katleen B-PER
+Allais I-PER
+( O
+France B-LOC
+) O
+21.58 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ASIAN B-MISC
+CUP I-MISC
+GROUP O
+C O
+RESULTS O
+. O
+ 
+AL-AIN B-LOC
+, O
+United B-LOC
+Arab I-LOC
+Emirates I-LOC
+1996-12-06 O
+ 
+Results O
+of O
+Asian B-MISC
+Cup I-MISC
+group O
+C O
+matches O
+played O
+on O
+Friday O
+: O
+ 
+Japan B-LOC
+2 O
+Syria B-LOC
+1 O
+( O
+halftime O
+0-1 O
+) O
+ 
+Scorers O
+: O
+ 
+Japan B-LOC
+- O
+Hassan B-PER
+Abbas I-PER
+84 O
+own O
+goal O
+, O
+Takuya B-PER
+Takagi I-PER
+88 O
+. O
+ 
+Syria B-LOC
+- O
+Nader B-PER
+Jokhadar I-PER
+7 O
+ 
+Attendance O
+: O
+10,000 O
+. O
+ 
+China B-LOC
+0 O
+Uzbekistan B-LOC
+2 O
+( O
+halftime O
+0-0 O
+) O
+ 
+Scorers O
+: O
+Shkvyrin B-PER
+Igor I-PER
+78 O
+, O
+Shatskikh B-PER
+Oleg I-PER
+90 O
+ 
+Attendence O
+: O
+3,000 O
+ 
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+ 
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+Uzbekistan B-LOC
+1 O
+1 O
+0 O
+0 O
+2 O
+0 O
+3 O
+ 
+Japan B-LOC
+1 O
+1 O
+0 O
+0 O
+2 O
+1 O
+3 O
+ 
+Syria B-LOC
+1 O
+0 O
+0 O
+1 O
+1 O
+2 O
+0 O
+ 
+China B-LOC
+1 O
+0 O
+0 O
+1 O
+0 O
+2 O
+0 O
+ 
+-DOCSTART- O
+ 
+CRICKET O
+- O
+PAKISTAN B-LOC
+V O
+NEW B-LOC
+ZEALAND I-LOC
+ONE-DAY O
+SCOREBOARD O
+. O
+ 
+[ O
+CORRECTED O
+14:06 O
+GMT B-MISC
+] O
+ 
+SIALKOT B-LOC
+, O
+Pakistan B-LOC
+1996-12-06 O
+ 
+Scoreboard O
+in O
+the O
+second O
+one-day O
+cricket O
+international O
+between O
+Pakistan B-LOC
+and O
+New B-LOC
+Zealand I-LOC
+on O
+Friday O
+: O
+ 
+Pakistan B-LOC
+ 
+Saeed B-PER
+Anwar I-PER
+run O
+out O
+91 O
+( O
+corrects O
+from O
+90 O
+) O
+ 
+Zahoor B-PER
+Elahi I-PER
+b O
+Cairns B-PER
+86 O
+( O
+corrects O
+from O
+87 O
+) O
+ 
+Ijaz B-PER
+Ahmad I-PER
+c O
+Spearman B-PER
+b O
+Vaughan B-PER
+59 O
+ 
+Inzamamul B-PER
+Haq I-PER
+st O
+Germon B-PER
+b O
+Astle B-PER
+2 O
+ 
+Wasim B-PER
+Akram I-PER
+b O
+Harris B-PER
+4 O
+ 
+Shahid B-PER
+Afridi I-PER
+b O
+Harris B-PER
+2 O
+ 
+Moin B-PER
+Khan I-PER
+c O
+Astle B-PER
+b O
+Harris B-PER
+1 O
+ 
+Waqar B-PER
+Younis I-PER
+st O
+Germon B-PER
+b O
+Harris B-PER
+0 O
+ 
+Saqlain B-PER
+Mushtaq I-PER
+b O
+Harris B-PER
+2 O
+ 
+Mushtaq B-PER
+Ahmad I-PER
+not O
+out O
+5 O
+ 
+Salim B-PER
+Malik I-PER
+not O
+out O
+1 O
+ 
+Extras O
+( O
+lb-8 O
+nb-2 O
+w-14 O
+) O
+24 O
+ 
+Total O
+( O
+for O
+9 O
+wickets O
+in O
+47 O
+overs O
+) O
+277 O
+ 
+Fall O
+of O
+wicket O
+: O
+1-177 O
+( O
+corrects O
+from O
+1-178 O
+) O
+2-225 O
+3-240 O
+4-247 O
+5-252 O
+6-260 O
+7-261 O
+8-269 O
+9-276 O
+ 
+Bowling O
+: O
+Doull B-PER
+8-1-60-0 O
+( O
+w-3 O
+) O
+, O
+Kennedy B-PER
+3-0-24-0 O
+( O
+w-7 O
+nb-1 O
+) O
+, O
+ 
+Cairns B-PER
+8-1-35-1 O
+( O
+w-2 O
+) O
+, O
+Vaughan B-PER
+9-1-55-1 O
+, O
+Harris B-PER
+10-0-42-5 O
+( O
+w-1 O
+) O
+, O
+ 
+Astle B-PER
+9-0-53-1 O
+( O
+w-1 O
+nb-1 O
+) O
+ 
+New B-LOC
+Zealand I-LOC
+innings O
+ 
+B. B-PER
+Young I-PER
+c O
+Moin B-PER
+Khan I-PER
+b O
+Waqar B-PER
+5 O
+ 
+C. B-PER
+Spearman I-PER
+c O
+Moin B-PER
+Khan I-PER
+b O
+Wasim B-PER
+0 O
+ 
+A. B-PER
+Parore I-PER
+c O
+Ijaz B-PER
+Ahmad I-PER
+b O
+Saqlain B-PER
+37 O
+ 
+S. B-PER
+Fleming I-PER
+c O
+and O
+b O
+Afridi B-PER
+88 O
+ 
+C. B-PER
+Cairns I-PER
+b O
+Saqlain B-PER
+10 O
+ 
+N. B-PER
+Astle I-PER
+c O
+Ijaz B-PER
+Ahmad I-PER
+b O
+Salim B-PER
+Malik I-PER
+20 O
+ 
+C. B-PER
+Harris I-PER
+lbw O
+b O
+Wasim B-PER
+22 O
+ 
+L. B-PER
+Germon I-PER
+lbw O
+b O
+Afridi B-PER
+2 O
+ 
+J. B-PER
+Vaughan I-PER
+c O
+Moin B-PER
+Khan I-PER
+b O
+Wasim B-PER
+13 O
+ 
+S. B-PER
+Doull I-PER
+c O
+subs O
+( O
+M. B-PER
+Wasim I-PER
+) O
+b O
+Waqar B-PER
+1 O
+ 
+R. B-PER
+Kennedy I-PER
+not O
+out O
+7 O
+ 
+Extras O
+( O
+b-9 O
+lb-3 O
+w-12 O
+nb-2 O
+) O
+26 O
+ 
+Total O
+( O
+all O
+out O
+in O
+42.1 O
+overs O
+) O
+231 O
+ 
+Fall O
+of O
+wickets O
+: O
+1-3 O
+2-7 O
+3-125 O
+4-146 O
+5-170 O
+6-190 O
+7-195 O
+ 
+8-213 O
+9-216 O
+. O
+ 
+Bowling O
+: O
+Wasim B-PER
+Akram I-PER
+8.1-0-43-3 O
+( O
+9w O
+, O
+1nb O
+) O
+, O
+Waqar B-PER
+Younis I-PER
+ 
+6-0-32-2 O
+( O
+2w O
+, O
+1nb O
+) O
+, O
+Saqlain B-PER
+Mushtaq I-PER
+8-0-54-2 O
+, O
+Mushtaq B-PER
+Ahmad I-PER
+ 
+10-0-42-0 O
+( O
+1w O
+) O
+, O
+Shahid B-PER
+Afridi I-PER
+7-0-40-2 O
+, O
+Salim B-PER
+Malik I-PER
+2.5-0-8-1 O
+, O
+ 
+Ijaz B-PER
+Ahmad I-PER
+0.1-0-0-0 O
+. O
+ 
+Result O
+: O
+Pakistan B-LOC
+won O
+by O
+46 O
+runs O
+. O
+ 
+Third O
+one-day O
+match O
+: O
+December O
+8 O
+, O
+in O
+Karachi B-LOC
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ENGLISH B-MISC
+F.A. B-MISC
+CUP I-MISC
+SECOND O
+ROUND O
+RESULT O
+. O
+ 
+LONDON B-LOC
+1996-12-06 O
+ 
+Result O
+of O
+an O
+English B-MISC
+F.A. B-MISC
+Challenge I-MISC
+Cup I-MISC
+second O
+round O
+match O
+on O
+Friday O
+: O
+ 
+Plymouth B-ORG
+4 O
+Exeter B-ORG
+1 O
+ 
+-DOCSTART- O
+ 
+BASKETBALL O
+- O
+EUROLEAGUE B-MISC
+STANDINGS O
+. O
+ 
+LONDON B-LOC
+1996-12-06 O
+ 
+Standings O
+in O
+the O
+men O
+'s O
+EuroLeague B-MISC
+basketball O
+championship O
+after O
+Thursday O
+'s O
+matches O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+lost O
+, O
+points O
+) O
+: O
+ 
+Group O
+A O
+ 
+CSKA B-ORG
+Moscow I-ORG
+( O
+Russia B-LOC
+9 O
+6 O
+3 O
+15 O
+ 
+Stefanel B-ORG
+Milan I-ORG
+( O
+Italy B-LOC
+) O
+9 O
+6 O
+3 O
+15 O
+ 
+Maccabi B-ORG
+Tel I-ORG
+Aviv I-ORG
+( O
+Israel B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Ulker B-ORG
+Spor I-ORG
+( O
+Turkey B-LOC
+) O
+9 O
+4 O
+5 O
+13 O
+ 
+Limoges B-ORG
+( O
+France B-LOC
+) O
+9 O
+3 O
+6 O
+12 O
+ 
+Panionios B-ORG
+( O
+Greece B-LOC
+) O
+9 O
+3 O
+6 O
+12 O
+ 
+Group O
+B O
+ 
+Teamsystem B-ORG
+Bologna I-ORG
+( O
+Italy B-LOC
+) O
+9 O
+7 O
+2 O
+16 O
+ 
+Olympiakos B-ORG
+( O
+Greece B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Cibona B-ORG
+Zagreb I-ORG
+( O
+Croatia B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Alba B-ORG
+Berlin I-ORG
+( O
+Germany B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Estudiantes B-ORG
+Madrid I-ORG
+( O
+Spain B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Charleroi B-ORG
+( O
+Belgium B-LOC
+) O
+9 O
+0 O
+9 O
+9 O
+ 
+Group O
+C O
+ 
+Panathinaikos B-ORG
+( O
+Greece B-LOC
+) O
+9 O
+7 O
+2 O
+16 O
+ 
+Ljubljana B-ORG
+( O
+Slovenia B-LOC
+) O
+9 O
+6 O
+3 O
+15 O
+ 
+Villeurbanne B-ORG
+( O
+France B-LOC
+) O
+9 O
+6 O
+3 O
+15 O
+ 
+Barcelona B-ORG
+( O
+Spain B-LOC
+) O
+9 O
+4 O
+5 O
+13 O
+ 
+Split B-ORG
+( O
+Croatia B-LOC
+) O
+9 O
+4 O
+5 O
+13 O
+ 
+Bayer B-ORG
+Leverkusen I-ORG
+( O
+Germany B-LOC
+) O
+9 O
+0 O
+9 O
+9 O
+ 
+Group O
+D O
+ 
+Efes B-ORG
+Pilsen I-ORG
+( O
+Turkey B-LOC
+) O
+9 O
+7 O
+2 O
+16 O
+ 
+Pau-Orthez B-ORG
+( O
+France B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Partizan B-ORG
+Belgrade I-ORG
+( O
+Yugoslavia B-LOC
+) O
+9 O
+5 O
+4 O
+14 O
+ 
+Kinder B-ORG
+Bologna I-ORG
+( O
+Italy B-LOC
+) O
+9 O
+4 O
+5 O
+13 O
+ 
+Sevilla B-ORG
+( O
+Spain B-LOC
+) O
+9 O
+4 O
+5 O
+13 O
+ 
+Dynamo B-ORG
+Moscow I-ORG
+( O
+Russia B-LOC
+) O
+9 O
+2 O
+7 O
+11 O
+ 
+-DOCSTART- O
+ 
+GOLF O
+- O
+ZIMBABWE B-MISC
+OPEN I-MISC
+SECOND O
+ROUND O
+SCORES O
+. O
+ 
+HARARE B-LOC
+1996-12-06 O
+ 
+Leading O
+second O
+round O
+scores O
+in O
+the O
+Zimbabwe B-MISC
+Open I-MISC
+at O
+the O
+par-72 O
+Chapman B-LOC
+Golf I-LOC
+Club I-LOC
+on O
+Friday O
+( O
+South B-MISC
+African I-MISC
+unless O
+stated O
+) O
+: O
+132 O
+Des B-PER
+Terblanche I-PER
+65 O
+67 O
+133 O
+Mark B-PER
+McNulty I-PER
+( O
+Zimbabwe B-LOC
+) O
+72 O
+61 O
+134 O
+Steve B-PER
+van I-PER
+Vuuren I-PER
+65 O
+69 O
+136 O
+Nick B-PER
+Price I-PER
+( O
+Zimbabwe B-LOC
+) O
+68 O
+68 O
+, O
+Justin B-PER
+Hobday I-PER
+71 O
+65 O
+, O
+ 
+Andrew B-PER
+Pitts I-PER
+( O
+U.S. B-LOC
+) O
+69 O
+67 O
+138 O
+Mark B-PER
+Cayeux I-PER
+( O
+Zimbabwe B-LOC
+) O
+69 O
+69 O
+, O
+Mark B-PER
+Murless I-PER
+71 O
+67 O
+139 O
+Hennie B-PER
+Swart I-PER
+75 O
+64 O
+, O
+Andrew B-PER
+Park I-PER
+72 O
+67 O
+140 O
+Schalk B-PER
+van I-PER
+der I-PER
+Merwe I-PER
+( O
+Namibia B-LOC
+) O
+67 O
+73 O
+, O
+Desvonde B-PER
+Botes I-PER
+72 O
+68 O
+, O
+Greg B-PER
+Reid I-PER
+72 O
+68 O
+, O
+Clinton B-PER
+Whitelaw I-PER
+70 O
+ 
+70 O
+, O
+Brett B-PER
+Liddle I-PER
+75 O
+65 O
+, O
+Hugh B-PER
+Baiocchi I-PER
+73 O
+67 O
+141 O
+Adilson B-PER
+da I-PER
+Silva I-PER
+( O
+Brazil B-LOC
+) O
+72 O
+69 O
+, O
+Sammy B-PER
+Daniels I-PER
+73 O
+ 
+68 O
+, O
+Trevor B-PER
+Dodds I-PER
+( O
+Namibia B-LOC
+) O
+72 O
+69 O
+142 O
+Don B-PER
+Robertson I-PER
+( O
+U.S. B-LOC
+) O
+73 O
+69 O
+, O
+Dion B-PER
+Fourie I-PER
+69 O
+73 O
+, O
+ 
+Steve B-PER
+Waltman I-PER
+72 O
+70 O
+, O
+Ian B-PER
+Dougan I-PER
+73 O
+69 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+BRAZILIAN B-MISC
+CHAMPIONSHIP O
+RESULTS O
+. O
+ 
+RIO B-LOC
+DE I-LOC
+JANEIRO I-LOC
+1996-12-05 O
+ 
+Results O
+of O
+Brazilian B-MISC
+soccer O
+championship O
+semifinal O
+, O
+first O
+leg O
+matches O
+on O
+Thursday O
+. O
+ 
+Goias B-ORG
+1 O
+Gremio B-ORG
+3 O
+ 
+Portuguesa B-ORG
+1 O
+Atletico B-ORG
+Mineiro I-ORG
+0 O
+ 
+-DOCSTART- O
+ 
+CRICKET O
+- O
+AUSTRALIA B-LOC
+V O
+WEST B-LOC
+INDIES I-LOC
+WORLD B-MISC
+SERIES I-MISC
+SCOREBOARD O
+. O
+ 
+MELBOURNE B-LOC
+1996-12-06 O
+ 
+Scoreboard O
+in O
+the O
+World B-MISC
+Series I-MISC
+limited O
+overs O
+match O
+between O
+Australia B-LOC
+and O
+West B-LOC
+Indies I-LOC
+on O
+Friday O
+: O
+ 
+West B-LOC
+Indies I-LOC
+ 
+S. B-PER
+Campbell I-PER
+c O
+Healy B-PER
+b O
+Gillespie B-PER
+31 O
+ 
+R. B-PER
+Samuels I-PER
+c O
+M. B-PER
+Waugh I-PER
+b O
+Gillespie B-PER
+7 O
+ 
+B. B-PER
+Lara I-PER
+c O
+Warne B-PER
+b O
+Moody B-PER
+5 O
+ 
+S. B-PER
+Chanderpaul I-PER
+c O
+Healy B-PER
+b O
+Blewett B-PER
+54 O
+ 
+C. B-PER
+Hooper I-PER
+run O
+out O
+7 O
+ 
+J. B-PER
+Adams I-PER
+lbw O
+b O
+Moody B-PER
+5 O
+ 
+J. B-PER
+Murray I-PER
+c O
+Blewett B-PER
+b O
+Warne B-PER
+24 O
+ 
+N. B-PER
+McLean I-PER
+c O
+and O
+b O
+M. B-PER
+Waugh I-PER
+7 O
+ 
+K. B-PER
+Benjamin I-PER
+b O
+Warne B-PER
+8 O
+ 
+C. B-PER
+Ambrose I-PER
+run O
+out O
+2 O
+ 
+C. B-PER
+Walsh I-PER
+not O
+out O
+8 O
+ 
+Extras O
+( O
+lb-10 O
+w-1 O
+nb-3 O
+) O
+14 O
+ 
+Total O
+( O
+49.2 O
+overs O
+) O
+172 O
+ 
+Fall O
+of O
+wickets O
+: O
+1-11 O
+2-38 O
+3-64 O
+4-73 O
+5-81 O
+6-120 O
+7-135 O
+8-150 O
+ 
+9-153 O
+. O
+ 
+Bowling O
+: O
+Reiffel B-PER
+10-2-26-0 O
+( O
+nb-3 O
+) O
+, O
+Gillespie B-PER
+10-0-39-2 O
+, O
+ 
+Moody B-PER
+10-1-25-2 O
+, O
+Blewett B-PER
+6.2-0-27-1 O
+, O
+Warne B-PER
+10-0-34-2 O
+( O
+w-1 O
+) O
+, O
+ 
+M. B-PER
+Waugh I-PER
+3-0-11-1 O
+. O
+ 
+Australia B-LOC
+ 
+M. B-PER
+Taylor I-PER
+b O
+McLean B-PER
+29 O
+ 
+M. B-PER
+Waugh I-PER
+c O
+Murray B-PER
+b O
+Benjamin B-PER
+27 O
+ 
+R. B-PER
+Ponting I-PER
+lbw O
+McLean B-PER
+5 O
+ 
+G. B-PER
+Blewett I-PER
+not O
+out O
+57 O
+ 
+M. B-PER
+Bevan I-PER
+st O
+Murray B-PER
+b O
+Hooper B-PER
+3 O
+ 
+S. B-PER
+Law I-PER
+b O
+Hooper B-PER
+21 O
+ 
+T. B-PER
+Moody I-PER
+not O
+out O
+3 O
+ 
+Extras O
+( O
+lb-17 O
+nb-8 O
+w-3 O
+) O
+28 O
+ 
+Total O
+( O
+for O
+five O
+wickets O
+, O
+48.4 O
+overs O
+) O
+173 O
+ 
+Fall O
+of O
+wickets O
+: O
+1-59 O
+2-70 O
+3-78 O
+4-90 O
+5-160 O
+. O
+ 
+Did O
+not O
+bat O
+: O
+I. B-PER
+Healy I-PER
+, O
+P. B-PER
+Reiffel I-PER
+, O
+S. B-PER
+Warne I-PER
+, O
+J. B-PER
+Gillespie I-PER
+. O
+ 
+Bowling O
+: O
+Ambrose B-PER
+10-3-19-0 O
+( O
+2nb O
+1w O
+) O
+, O
+Walsh B-PER
+9-0-34-0 O
+( O
+4nb O
+) O
+, O
+ 
+Benjamin B-PER
+9.4-0-43-1 O
+( O
+1nb O
+1w O
+) O
+, O
+Hooper B-PER
+10-0-27-2 O
+( O
+1nb O
+) O
+, O
+McLean B-PER
+ 
+10-1-33-2 O
+( O
+1w O
+) O
+. O
+ 
+Result O
+: O
+Australia B-LOC
+won O
+by O
+five O
+wickets O
+. O
+ 
+-DOCSTART- O
+ 
+CRICKET O
+- O
+SHEFFIELD B-MISC
+SHIELD I-MISC
+SCORE O
+. O
+ 
+HOBART B-LOC
+, O
+Australia B-LOC
+1996-12-06 O
+ 
+Score O
+on O
+the O
+first O
+day O
+of O
+the O
+four-day O
+Sheffield B-MISC
+Shield I-MISC
+match O
+between O
+Tasmania B-LOC
+and O
+Victoria B-ORG
+at O
+Bellerive B-LOC
+Oval I-LOC
+on O
+Friday O
+: O
+ 
+Tasmania B-ORG
+352 O
+for O
+three O
+( O
+David B-PER
+Boon I-PER
+106 O
+not O
+out O
+, O
+Shaun B-PER
+Young I-PER
+86 O
+not O
+out O
+, O
+Michael B-PER
+DiVenuto I-PER
+119 O
+) O
+v O
+Victoria B-ORG
+. O
+ 
+-DOCSTART- O
+ 
+BADMINTON O
+- O
+WORLD B-MISC
+GRAND I-MISC
+PRIX I-MISC
+RESULTS O
+. O
+ 
+BALI B-LOC
+1996-12-06 O
+ 
+Results O
+in O
+last O
+of O
+the O
+group O
+matches O
+at O
+the O
+World B-MISC
+Grand I-MISC
+Prix I-MISC
+badminton O
+finals O
+on O
+Friday O
+: O
+ 
+Men O
+'s O
+singles O
+ 
+Group O
+B O
+ 
+Chen B-PER
+Gang I-PER
+( O
+China B-LOC
+) O
+beat O
+Martin B-PER
+Londgaard I-PER
+Hansen I-PER
+( O
+Denmark B-LOC
+) O
+15-12 O
+15-6 O
+ 
+Dong B-PER
+Jiong I-PER
+( O
+China B-LOC
+) O
+beat O
+Thomas B-PER
+Stuer-Lauridsen I-PER
+( O
+Denmark B-LOC
+) O
+15-10 O
+15-6 O
+ 
+Indra B-PER
+Wijaya I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+Ong B-PER
+Ewe I-PER
+Hock I-PER
+( O
+Malaysia B-LOC
+) O
+5-15 O
+15-11 O
+15-11 O
+ 
+Group O
+C O
+ 
+Sun B-PER
+Jun I-PER
+( O
+China B-LOC
+) O
+beat O
+Rashid B-PER
+Sidek I-PER
+( O
+Malaysia B-LOC
+) O
+15-12 O
+17-14 O
+ 
+Hermawan B-PER
+Susanto I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+Soren B-PER
+B. I-PER
+Nielsen I-PER
+( O
+Denmark B-LOC
+) O
+15-8 O
+15-2 O
+ 
+Group O
+D O
+ 
+Allan B-PER
+Budi I-PER
+Kuksuma I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+Poul-Erik B-PER
+Hoyer-Larsen I-PER
+( O
+Denmark B-LOC
+) O
+15-7 O
+15-4 O
+ 
+Budi B-PER
+Santoso I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+Hu B-PER
+Zhilan I-PER
+( O
+China B-LOC
+) O
+15-4 O
+15-5 O
+ 
+Semifinals O
+( O
+on O
+Saturday O
+) O
+: O
+Fung B-PER
+Permadi I-PER
+( O
+Taiwan B-LOC
+) O
+v O
+Indra B-PER
+Wijaya I-PER
+( O
+Indonesia B-LOC
+) O
+; O
+Sun B-PER
+Jun I-PER
+( O
+China B-LOC
+) O
+v O
+Allan B-PER
+Budi I-PER
+Kusuma I-PER
+ 
+( O
+Indonesia B-LOC
+) O
+ 
+Women O
+'s O
+singles O
+ 
+Group O
+A O
+ 
+Gong B-PER
+Zhichao I-PER
+( O
+China B-LOC
+) O
+beat O
+Mia B-PER
+Audina I-PER
+( O
+Indonesia B-LOC
+) O
+11-2 O
+12-10 O
+ 
+Group O
+B O
+ 
+Ye B-PER
+Zhaoying I-PER
+( O
+China B-LOC
+) O
+beat O
+Meiluawati B-PER
+( O
+Indonesia B-LOC
+) O
+11-6 O
+12-10 O
+ 
+Group O
+C O
+ 
+Camilla B-PER
+Martin I-PER
+( O
+Denmark B-LOC
+) O
+beat O
+Wang B-PER
+Chen I-PER
+( O
+China B-LOC
+) O
+11-0 O
+12-10 O
+ 
+Group O
+D O
+ 
+Susi B-PER
+Susanti I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+Han B-PER
+Jingna I-PER
+( O
+China B-LOC
+) O
+11-5 O
+11-4 O
+. O
+ 
+Semifinals O
+( O
+on O
+Saturday O
+) O
+: O
+Susi B-PER
+Susanti I-PER
+( O
+Indonesia B-LOC
+) O
+v O
+Camilla B-PER
+Martin I-PER
+( O
+Denmark B-LOC
+) O
+; O
+Ye B-PER
+Zhaoying I-PER
+( O
+China B-LOC
+) O
+v O
+Gong B-PER
+Zichao I-PER
+( O
+China B-LOC
+) O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ARAB B-ORG
+CONTRACTORS I-ORG
+WIN O
+AFRICAN B-MISC
+CUP I-MISC
+WINNERS I-MISC
+' I-MISC
+CUP I-MISC
+. O
+ 
+CAIRO B-LOC
+1996-12-06 O
+ 
+Result O
+of O
+the O
+second O
+leg O
+of O
+the O
+African B-MISC
+Cup I-MISC
+Winners I-MISC
+' I-MISC
+Cup I-MISC
+final O
+at O
+the O
+National B-LOC
+stadium O
+on O
+Friday O
+: O
+Arab B-ORG
+Contractors I-ORG
+( O
+Egypt B-LOC
+) O
+4 O
+Sodigraf B-ORG
+( O
+Zaire B-LOC
+) O
+0 O
+( O
+halftime O
+2-0 O
+) O
+ 
+Scorers O
+: O
+ 
+Aly B-PER
+Ashour I-PER
+7 O
+, O
+56 O
+penalty O
+, O
+Mohamed B-PER
+Ouda I-PER
+24 O
+, O
+73 O
+ 
+Contractors B-ORG
+won O
+4-0 O
+on O
+aggregate O
+. O
+ 
+-DOCSTART- O
+ 
+NHL B-ORG
+ICE O
+HOCKEY O
+- O
+STANDINGS O
+AFTER O
+THURSDAY O
+'S O
+GAMES O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+Standings O
+of O
+National B-MISC
+Hockey I-MISC
+League I-MISC
+teams O
+after O
+games O
+played O
+on O
+Thursday O
+( O
+tabulate O
+under O
+won O
+, O
+lost O
+, O
+tied O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+EASTERN B-MISC
+CONFERENCE I-MISC
+ 
+NORTHEAST B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+HARTFORD B-ORG
+12 O
+7 O
+6 O
+77 O
+76 O
+30 O
+ 
+BUFFALO B-ORG
+13 O
+12 O
+1 O
+77 O
+76 O
+27 O
+ 
+BOSTON B-ORG
+10 O
+11 O
+4 O
+74 O
+84 O
+24 O
+ 
+MONTREAL B-ORG
+10 O
+14 O
+4 O
+96 O
+103 O
+24 O
+ 
+PITTSBURGH B-ORG
+9 O
+13 O
+3 O
+81 O
+91 O
+21 O
+ 
+OTTAWA B-ORG
+7 O
+11 O
+6 O
+62 O
+72 O
+20 O
+ 
+ATLANTIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+FLORIDA B-ORG
+17 O
+4 O
+6 O
+83 O
+53 O
+40 O
+ 
+PHILADELPHIA B-ORG
+14 O
+12 O
+2 O
+75 O
+75 O
+30 O
+ 
+NEW B-ORG
+JERSEY I-ORG
+14 O
+10 O
+1 O
+61 O
+61 O
+29 O
+ 
+WASHINGTON B-ORG
+13 O
+12 O
+1 O
+69 O
+66 O
+27 O
+ 
+NY B-ORG
+RANGERS I-ORG
+10 O
+13 O
+5 O
+91 O
+81 O
+25 O
+ 
+NY B-ORG
+ISLANDERS I-ORG
+7 O
+11 O
+8 O
+65 O
+72 O
+22 O
+ 
+TAMPA B-ORG
+BAY I-ORG
+8 O
+15 O
+2 O
+69 O
+81 O
+18 O
+ 
+WESTERN B-MISC
+CONFERENCE I-MISC
+ 
+CENTRAL B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+DETROIT B-ORG
+15 O
+9 O
+4 O
+81 O
+53 O
+34 O
+ 
+DALLAS B-ORG
+16 O
+9 O
+1 O
+74 O
+60 O
+33 O
+ 
+CHICAGO B-ORG
+12 O
+12 O
+3 O
+71 O
+67 O
+27 O
+ 
+ST B-ORG
+LOUIS I-ORG
+13 O
+14 O
+0 O
+78 O
+81 O
+26 O
+ 
+TORONTO B-ORG
+11 O
+15 O
+0 O
+76 O
+89 O
+22 O
+ 
+PHOENIX B-ORG
+9 O
+13 O
+4 O
+61 O
+74 O
+22 O
+ 
+PACIFIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+COLORADO B-ORG
+17 O
+6 O
+4 O
+97 O
+56 O
+38 O
+ 
+VANCOUVER B-ORG
+14 O
+11 O
+1 O
+84 O
+83 O
+29 O
+ 
+EDMONTON B-ORG
+13 O
+14 O
+1 O
+94 O
+88 O
+27 O
+ 
+LOS B-ORG
+ANGELES I-ORG
+11 O
+13 O
+3 O
+72 O
+83 O
+25 O
+ 
+SAN B-ORG
+JOSE I-ORG
+10 O
+13 O
+4 O
+69 O
+87 O
+24 O
+ 
+CALGARY B-ORG
+10 O
+16 O
+2 O
+65 O
+77 O
+22 O
+ 
+ANAHEIM B-ORG
+9 O
+14 O
+4 O
+73 O
+86 O
+22 O
+ 
+FRIDAY O
+, O
+DECEMBER O
+6 O
+ 
+ANAHEIM B-ORG
+AT O
+BUFFALO B-LOC
+ 
+TORONTO B-ORG
+AT O
+NY B-ORG
+RANGERS I-ORG
+ 
+PITTSBURGH B-ORG
+AT O
+WASHINGTON B-LOC
+ 
+MONTREAL B-ORG
+AT O
+CHICAGO B-LOC
+ 
+PHILADELPHIA B-ORG
+AT O
+DALLAS B-LOC
+ 
+ST B-ORG
+LOUIS I-ORG
+AT O
+COLORADO B-LOC
+ 
+OTTAWA B-ORG
+AT O
+EDMONTON B-LOC
+ 
+-DOCSTART- O
+ 
+NHL B-ORG
+ICE O
+HOCKEY O
+- O
+THURSDAY O
+'S O
+RESULTS O
+. O
+ 
+[ O
+CORRECTED O
+08:40 O
+GMT B-MISC
+] O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+( O
+Corrects O
+headline O
+from O
+NBA B-ORG
+to O
+NHL B-ORG
+and O
+corrects O
+team O
+name O
+in O
+second O
+result O
+from O
+La B-ORG
+Clippers I-ORG
+to O
+Ny B-ORG
+Islanders I-ORG
+. O
+ 
+) O
+ 
+Results O
+of O
+National B-MISC
+Hockey I-MISC
+League I-MISC
+games O
+on O
+Thursday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+ 
+Hartford B-ORG
+4 O
+BOSTON B-ORG
+2 O
+ 
+FLORIDA B-ORG
+4 O
+Ny B-ORG
+Islanders I-ORG
+2 O
+ 
+NEW B-ORG
+JERSEY I-ORG
+2 O
+Calgary B-ORG
+1 O
+ 
+Phoenix B-ORG
+3 O
+ST B-ORG
+LOUIS I-ORG
+0 O
+ 
+Tampa B-ORG
+Bay I-ORG
+2 O
+LOS B-ORG
+ANGELES I-ORG
+1 O
+ 
+-DOCSTART- O
+ 
+NBA B-ORG
+BASKETBALL O
+- O
+STANDINGS O
+AFTER O
+THURSDAY O
+'S O
+GAMES O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+Standings O
+of O
+National B-ORG
+Basketball I-ORG
+Association I-ORG
+teams O
+after O
+games O
+played O
+on O
+Thursday O
+ 
+( O
+tabulate O
+under O
+won O
+, O
+lost O
+, O
+percentage O
+, O
+games O
+behind O
+) O
+: O
+ 
+EASTERN B-MISC
+CONFERENCE I-MISC
+ 
+ATLANTIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+MIAMI B-ORG
+14 O
+4 O
+.778 O
+- O
+ 
+NEW B-ORG
+YORK I-ORG
+10 O
+6 O
+.625 O
+3 O
+ 
+ORLANDO B-ORG
+8 O
+6 O
+.571 O
+4 O
+ 
+WASHINGTON B-ORG
+7 O
+9 O
+.438 O
+6 O
+ 
+PHILADELPHIA B-ORG
+7 O
+10 O
+.412 O
+6 O
+1/2 O
+ 
+BOSTON B-ORG
+4 O
+12 O
+.250 O
+9 O
+ 
+NEW B-ORG
+JERSEY I-ORG
+3 O
+10 O
+.231 O
+8 O
+1/2 O
+ 
+CENTRAL B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+CHICAGO B-ORG
+17 O
+1 O
+.944 O
+- O
+ 
+DETROIT B-ORG
+13 O
+3 O
+.813 O
+3 O
+ 
+CLEVELAND B-ORG
+11 O
+5 O
+.688 O
+5 O
+ 
+ATLANTA B-ORG
+10 O
+8 O
+.556 O
+7 O
+ 
+CHARLOTTE B-ORG
+8 O
+8 O
+.500 O
+8 O
+ 
+MILWAUKEE B-ORG
+8 O
+8 O
+.500 O
+8 O
+ 
+INDIANA B-ORG
+7 O
+8 O
+.467 O
+8 O
+1/2 O
+ 
+TORONTO B-ORG
+6 O
+11 O
+.353 O
+10 O
+1/2 O
+ 
+WESTERN B-MISC
+CONFERENCE I-MISC
+ 
+MIDWEST B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+HOUSTON B-ORG
+16 O
+2 O
+.889 O
+- O
+ 
+UTAH B-ORG
+14 O
+2 O
+.875 O
+1 O
+ 
+MINNESOTA B-ORG
+7 O
+10 O
+.412 O
+8 O
+1/2 O
+ 
+DALLAS B-ORG
+6 O
+11 O
+.353 O
+9 O
+1/2 O
+ 
+DENVER B-ORG
+5 O
+14 O
+.263 O
+11 O
+1/2 O
+ 
+SAN B-ORG
+ANTONIO I-ORG
+3 O
+13 O
+.188 O
+12 O
+ 
+VANCOUVER B-ORG
+2 O
+16 O
+.111 O
+14 O
+ 
+PACIFIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+SEATTLE B-ORG
+15 O
+5 O
+.750 O
+- O
+ 
+LA B-ORG
+LAKERS I-ORG
+13 O
+7 O
+.650 O
+2 O
+ 
+PORTLAND B-ORG
+11 O
+8 O
+.579 O
+3 O
+1/2 O
+ 
+LA B-ORG
+CLIPPERS I-ORG
+7 O
+11 O
+.389 O
+7 O
+ 
+GOLDEN B-ORG
+STATE I-ORG
+6 O
+12 O
+.333 O
+8 O
+ 
+SACRAMENTO B-ORG
+6 O
+12 O
+.333 O
+8 O
+ 
+PHOENIX B-ORG
+2 O
+14 O
+.125 O
+11 O
+ 
+FRIDAY O
+, O
+DECEMBER O
+6 O
+ 
+NEW B-ORG
+JERSEY I-ORG
+AT O
+BOSTON B-LOC
+ 
+CLEVELAND B-ORG
+AT O
+DETROIT B-LOC
+ 
+NEW B-ORG
+YORK I-ORG
+AT O
+MIAMI B-LOC
+ 
+PHOENIX B-ORG
+AT O
+SACRAMENTO B-LOC
+ 
+VANCOUVER B-ORG
+AT O
+SAN B-LOC
+ANTONIO I-LOC
+ 
+MINNESOTA B-ORG
+AT O
+UTAH B-LOC
+ 
+CHARLOTTE B-ORG
+AT O
+PORTLAND B-LOC
+ 
+INDIANA B-ORG
+AT O
+GOLDEN B-LOC
+STATE I-LOC
+ 
+ORLANDO B-ORG
+AT O
+LA B-LOC
+LAKERS I-LOC
+ 
+-DOCSTART- O
+ 
+NFL O
+AMERICAN O
+FOOTBALL O
+- O
+STANDINGS O
+AFTER O
+THURSDAY O
+'S O
+GAME O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-05 O
+ 
+National B-MISC
+Football I-MISC
+League I-MISC
+standings O
+after O
+Thursday O
+'s O
+game O
+( O
+tabulate O
+under O
+won O
+, O
+lost O
+, O
+ 
+tied O
+, O
+points O
+for O
+and O
+points O
+against O
+) O
+: O
+ 
+AMERICAN B-MISC
+FOOTBALL I-MISC
+CONFERENCE I-MISC
+ 
+EASTERN B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+PF O
+PA O
+ 
+NEW B-ORG
+ENGLAND I-ORG
+9 O
+4 O
+0 O
+355 O
+269 O
+ 
+BUFFALO B-ORG
+9 O
+4 O
+0 O
+267 O
+215 O
+ 
+INDIANAPOLIS B-ORG
+8 O
+6 O
+0 O
+269 O
+284 O
+ 
+MIAMI B-ORG
+6 O
+7 O
+0 O
+285 O
+266 O
+ 
+NY B-ORG
+JETS I-ORG
+1 O
+12 O
+0 O
+221 O
+368 O
+ 
+CENTRAL B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+PF O
+PA O
+ 
+PITTSBURGH B-ORG
+9 O
+4 O
+0 O
+299 O
+211 O
+ 
+HOUSTON B-ORG
+7 O
+6 O
+0 O
+291 O
+254 O
+ 
+JACKSONVILLE B-ORG
+6 O
+7 O
+0 O
+263 O
+288 O
+ 
+CINCINNATI B-ORG
+5 O
+8 O
+0 O
+299 O
+318 O
+ 
+BALTIMORE B-ORG
+4 O
+9 O
+0 O
+320 O
+369 O
+ 
+WESTERN B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+PF O
+PA O
+ 
+X O
+- O
+DENVER B-ORG
+12 O
+1 O
+0 O
+351 O
+199 O
+ 
+KANSAS B-ORG
+CITY I-ORG
+9 O
+4 O
+0 O
+262 O
+230 O
+ 
+SAN B-ORG
+DIEGO I-ORG
+7 O
+6 O
+0 O
+277 O
+323 O
+ 
+OAKLAND B-ORG
+6 O
+7 O
+0 O
+274 O
+234 O
+ 
+SEATTLE B-ORG
+5 O
+8 O
+0 O
+250 O
+317 O
+ 
+NATIONAL B-MISC
+FOOTBALL I-MISC
+CONFERENCE I-MISC
+ 
+EASTERN B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+PF O
+PA O
+ 
+DALLAS B-ORG
+8 O
+5 O
+0 O
+254 O
+201 O
+ 
+WASHINGTON B-ORG
+8 O
+5 O
+0 O
+291 O
+251 O
+ 
+PHILADELPHIA B-ORG
+8 O
+6 O
+0 O
+313 O
+302 O
+ 
+ARIZONA B-ORG
+6 O
+7 O
+0 O
+248 O
+332 O
+ 
+NY B-ORG
+GIANTS I-ORG
+5 O
+8 O
+0 O
+200 O
+250 O
+ 
+CENTRAL B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+PF O
+PA O
+ 
+Y O
+- O
+GREEN B-ORG
+BAY I-ORG
+10 O
+3 O
+0 O
+346 O
+191 O
+ 
+MINNESOTA B-ORG
+7 O
+6 O
+0 O
+243 O
+245 O
+ 
+CHICAGO B-ORG
+5 O
+8 O
+0 O
+202 O
+248 O
+ 
+DETROIT B-ORG
+5 O
+8 O
+0 O
+263 O
+289 O
+ 
+TAMPA B-ORG
+BAY I-ORG
+4 O
+9 O
+0 O
+153 O
+243 O
+ 
+WESTERN B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+PF O
+PA O
+ 
+SAN B-ORG
+FRANCISCO I-ORG
+10 O
+3 O
+0 O
+325 O
+198 O
+ 
+CAROLINA B-ORG
+9 O
+4 O
+0 O
+292 O
+164 O
+ 
+ST B-ORG
+LOUIS I-ORG
+4 O
+9 O
+0 O
+246 O
+334 O
+ 
+ATLANTA B-ORG
+2 O
+11 O
+0 O
+234 O
+393 O
+ 
+NEW B-ORG
+ORLEANS I-ORG
+2 O
+11 O
+0 O
+184 O
+291 O
+ 
+X O
+-- O
+CLINCHED B-MISC
+DIVISION I-MISC
+TITLE O
+ 
+Y O
+-- O
+CLINCHED O
+PLAYOFF O
+BERTH O
+ 
+SUNDAY O
+, O
+DECEMBER O
+8 O
+ 
+ST B-ORG
+LOUIS I-ORG
+AT O
+CHICAGO B-LOC
+ 
+BALTIMORE B-ORG
+AT O
+CINCINNATI B-LOC
+ 
+DENVER B-ORG
+AT O
+GREEN B-LOC
+BAY I-LOC
+ 
+JACKSONVILLE B-ORG
+AT O
+HOUSTON B-LOC
+ 
+NY B-ORG
+GIANTS I-ORG
+AT O
+MIAMI B-LOC
+ 
+ATLANTA B-ORG
+AT O
+NEW B-LOC
+ORLEANS I-LOC
+ 
+SAN B-ORG
+DIEGO I-ORG
+AT O
+PITTSBURGH B-LOC
+ 
+WASHINGTON B-ORG
+AT O
+TAMPA B-LOC
+BAY I-LOC
+ 
+DALLAS B-ORG
+AT O
+ARIZONA B-LOC
+ 
+NY B-ORG
+JETS I-ORG
+AT O
+NEW B-LOC
+ENGLAND I-LOC
+ 
+BUFFALO B-ORG
+AT O
+SEATTLE B-LOC
+ 
+CAROLINA B-ORG
+AT O
+SAN B-LOC
+FRANCISCO I-LOC
+ 
+MINNESOTA B-ORG
+AT O
+DETROIT B-LOC
+ 
+MONDAY O
+, O
+DECEMBER O
+9 O
+ 
+KANSAS B-ORG
+CITY I-ORG
+AT O
+OAKLAND B-LOC
+ 
+-DOCSTART- O
+ 
+NFL O
+AMERICAN O
+FOOTBALL O
+- O
+THURSDAY O
+'S O
+RESULT O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-05 O
+ 
+Result O
+of O
+National B-MISC
+Football I-MISC
+League I-MISC
+game O
+on O
+Thursday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+ 
+INDIANAPOLIS B-ORG
+37 O
+Philadelphia B-ORG
+10 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+DUTCH B-MISC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+ 
+AMSTERDAM B-LOC
+1996-12-06 O
+ 
+Result O
+of O
+Dutch B-MISC
+first O
+division O
+soccer O
+match O
+played O
+on O
+Friday O
+: O
+ 
+RKC B-ORG
+Waalwijk I-ORG
+1 O
+Willem B-ORG
+II I-ORG
+Tilburg I-ORG
+2 O
+ 
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+ 
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+PSV B-ORG
+Eindhoven I-ORG
+18 O
+13 O
+3 O
+2 O
+52 O
+14 O
+42 O
+ 
+Feyenoord B-ORG
+17 O
+11 O
+3 O
+3 O
+29 O
+20 O
+36 O
+ 
+Twente B-ORG
+Enschede I-ORG
+18 O
+10 O
+4 O
+4 O
+28 O
+15 O
+34 O
+ 
+Graafschap B-ORG
+Doetinchem I-ORG
+18 O
+9 O
+3 O
+6 O
+29 O
+22 O
+30 O
+ 
+Vitesse B-ORG
+Arnhem I-ORG
+18 O
+8 O
+5 O
+5 O
+29 O
+21 O
+29 O
+ 
+Ajax B-ORG
+Amsterdam I-ORG
+18 O
+7 O
+8 O
+3 O
+23 O
+16 O
+29 O
+ 
+Heerenveen B-ORG
+18 O
+7 O
+7 O
+4 O
+30 O
+20 O
+28 O
+ 
+Roda B-ORG
+JC I-ORG
+Kerkrade I-ORG
+17 O
+7 O
+6 O
+4 O
+19 O
+21 O
+27 O
+ 
+Utrecht B-ORG
+18 O
+4 O
+10 O
+4 O
+26 O
+24 O
+22 O
+ 
+Volendam B-ORG
+18 O
+5 O
+6 O
+7 O
+20 O
+23 O
+21 O
+ 
+Sparta B-ORG
+Rotterdam I-ORG
+19 O
+6 O
+3 O
+10 O
+21 O
+25 O
+21 O
+ 
+NAC B-ORG
+Breda I-ORG
+18 O
+6 O
+3 O
+9 O
+17 O
+29 O
+21 O
+ 
+Willem B-ORG
+II I-ORG
+Tilburg I-ORG
+18 O
+5 O
+4 O
+9 O
+19 O
+31 O
+19 O
+ 
+Groningen B-ORG
+18 O
+4 O
+6 O
+8 O
+20 O
+31 O
+18 O
+ 
+AZ B-ORG
+Alkmaar I-ORG
+18 O
+5 O
+2 O
+11 O
+16 O
+23 O
+17 O
+ 
+Fortuna B-ORG
+Sittard I-ORG
+17 O
+3 O
+7 O
+7 O
+14 O
+28 O
+16 O
+ 
+NEC B-ORG
+Nijmegen I-ORG
+18 O
+3 O
+7 O
+8 O
+19 O
+32 O
+16 O
+ 
+RKC B-ORG
+Waalwijk I-ORG
+19 O
+3 O
+5 O
+11 O
+18 O
+33 O
+14 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+GERMAN B-MISC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+ 
+BONN B-LOC
+1996-12-06 O
+ 
+Results O
+of O
+German B-MISC
+first O
+division O
+soccer O
+matches O
+played O
+on O
+Friday O
+: O
+ 
+Bochum B-ORG
+2 O
+Bayer B-ORG
+Leverkusen I-ORG
+2 O
+ 
+Werder B-ORG
+Bremen I-ORG
+1 O
+1860 B-ORG
+Munich I-ORG
+1 O
+ 
+Karlsruhe B-ORG
+3 O
+Freiburg B-ORG
+0 O
+ 
+Schalke B-ORG
+2 O
+Hansa B-ORG
+Rostock I-ORG
+0 O
+ 
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+ 
+for O
+goals O
+against O
+points O
+) O
+: O
+ 
+Bayer B-ORG
+Leverkusen I-ORG
+17 O
+10 O
+4 O
+3 O
+38 O
+22 O
+34 O
+ 
+Bayern B-ORG
+Munich I-ORG
+16 O
+9 O
+6 O
+1 O
+26 O
+14 O
+33 O
+ 
+VfB B-ORG
+Stuttgart I-ORG
+16 O
+9 O
+4 O
+3 O
+39 O
+17 O
+31 O
+ 
+Borussia B-ORG
+Dortmund I-ORG
+16 O
+9 O
+4 O
+3 O
+33 O
+17 O
+31 O
+ 
+Karlsruhe B-ORG
+17 O
+8 O
+4 O
+5 O
+30 O
+20 O
+28 O
+ 
+VfL B-ORG
+Bochum I-ORG
+16 O
+7 O
+6 O
+3 O
+23 O
+21 O
+27 O
+ 
+1. O
+FC B-ORG
+Cologne I-ORG
+16 O
+8 O
+2 O
+6 O
+31 O
+27 O
+26 O
+ 
+Schalke B-ORG
+04 O
+17 O
+7 O
+4 O
+6 O
+25 O
+26 O
+25 O
+ 
+Werder B-ORG
+Bremen I-ORG
+17 O
+6 O
+4 O
+7 O
+29 O
+28 O
+22 O
+ 
+MSV B-ORG
+Duisburg I-ORG
+16 O
+5 O
+4 O
+7 O
+16 O
+22 O
+19 O
+ 
+SV B-ORG
+1860 I-ORG
+Munich I-ORG
+17 O
+4 O
+6 O
+7 O
+25 O
+31 O
+18 O
+ 
+FC B-ORG
+St. I-ORG
+Pauli I-ORG
+15 O
+5 O
+3 O
+7 O
+21 O
+28 O
+18 O
+ 
+Fortuna B-ORG
+Dusseldorf I-ORG
+16 O
+5 O
+3 O
+8 O
+13 O
+24 O
+18 O
+ 
+Hamburger B-ORG
+SV I-ORG
+16 O
+4 O
+5 O
+7 O
+20 O
+25 O
+17 O
+ 
+Arminia B-ORG
+Bielefeld I-ORG
+16 O
+4 O
+4 O
+8 O
+18 O
+28 O
+16 O
+ 
+FC B-ORG
+Hansa I-ORG
+Rostock I-ORG
+17 O
+4 O
+3 O
+10 O
+19 O
+26 O
+15 O
+ 
+Borussia B-ORG
+Monchengladbach I-ORG
+16 O
+4 O
+3 O
+9 O
+12 O
+22 O
+15 O
+ 
+SC B-ORG
+Freiburg I-ORG
+17 O
+4 O
+1 O
+12 O
+20 O
+40 O
+13 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+FRENCH B-MISC
+LEAGUE O
+SUMMARIES O
+. O
+ 
+PARIS B-LOC
+1996-12-06 O
+ 
+Summaries O
+of O
+French B-MISC
+first O
+division O
+matches O
+on O
+Friday O
+: O
+ 
+Lens B-ORG
+0 O
+Nantes B-ORG
+4 O
+( O
+Japhet B-PER
+N'Doram I-PER
+7 O
+, O
+Claude B-PER
+Makelele I-PER
+42 O
+, O
+Jocelyn B-PER
+Gourvennec I-PER
+67 O
+, O
+Christophe B-PER
+Pignol I-PER
+72 O
+) O
+. O
+ 
+Halftime O
+0-2 O
+. O
+ 
+Attendance O
+: O
+ 
+15,000 O
+. O
+ 
+Paris B-ORG
+St I-ORG
+Germain I-ORG
+1 O
+( O
+Bruno B-PER
+N'Gotty I-PER
+2 O
+) O
+Nancy B-ORG
+2 O
+( O
+Paul B-PER
+Fischer I-PER
+ 
+70 O
+, O
+Phil B-PER
+Gray I-PER
+89 O
+) O
+. O
+ 
+1-0 O
+. O
+ 
+30,000 O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+DUTCH B-MISC
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+ 
+AMSTERDAM B-LOC
+1996-12-06 O
+ 
+Summary O
+of O
+Dutch B-MISC
+first O
+division O
+soccer O
+match O
+played O
+on O
+Friday O
+: O
+ 
+RKC B-ORG
+Waalwijk I-ORG
+1 O
+( O
+Starbuck B-PER
+76 O
+) O
+Willem B-ORG
+II I-ORG
+Tilburg I-ORG
+2 O
+( O
+Konterman B-PER
+45 O
+, O
+ 
+Van B-PER
+der I-PER
+Vegt I-PER
+77 O
+) O
+. O
+ 
+Halftime O
+0-1 O
+. O
+ 
+Attendance O
+5,300 O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+FRENCH B-MISC
+LEAGUE O
+STANDINGS O
+. O
+ 
+PARIS B-LOC
+1996-12-06 O
+ 
+Standings O
+in O
+the O
+French B-MISC
+first O
+division O
+after O
+Friday O
+'s O
+matches O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+ 
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+ 
+Paris B-ORG
+Saint-Germain I-ORG
+21 O
+12 O
+6 O
+3 O
+34 O
+15 O
+42 O
+ 
+Monaco B-ORG
+20 O
+12 O
+5 O
+3 O
+36 O
+16 O
+41 O
+ 
+Bordeaux B-ORG
+20 O
+9 O
+7 O
+4 O
+29 O
+21 O
+34 O
+ 
+Strasbourg B-ORG
+20 O
+11 O
+1 O
+8 O
+27 O
+27 O
+34 O
+ 
+Bastia B-ORG
+20 O
+9 O
+6 O
+5 O
+27 O
+22 O
+33 O
+ 
+Auxerre B-ORG
+20 O
+8 O
+8 O
+4 O
+26 O
+12 O
+32 O
+ 
+Metz B-ORG
+20 O
+8 O
+7 O
+5 O
+21 O
+16 O
+31 O
+ 
+Nantes B-ORG
+21 O
+7 O
+9 O
+5 O
+41 O
+25 O
+30 O
+ 
+Guingamp B-ORG
+20 O
+7 O
+7 O
+6 O
+18 O
+18 O
+28 O
+ 
+Lille B-ORG
+20 O
+7 O
+7 O
+6 O
+22 O
+28 O
+28 O
+ 
+Marseille B-ORG
+20 O
+6 O
+8 O
+6 O
+18 O
+17 O
+26 O
+ 
+Lyon B-ORG
+20 O
+6 O
+8 O
+6 O
+24 O
+31 O
+26 O
+ 
+Rennes B-ORG
+20 O
+7 O
+4 O
+9 O
+23 O
+28 O
+25 O
+ 
+Lens B-ORG
+21 O
+7 O
+4 O
+10 O
+25 O
+34 O
+25 O
+ 
+Le B-ORG
+Havre I-ORG
+20 O
+5 O
+7 O
+8 O
+20 O
+21 O
+22 O
+ 
+Cannes B-ORG
+20 O
+5 O
+7 O
+8 O
+13 O
+22 O
+22 O
+ 
+Montpellier B-ORG
+20 O
+3 O
+9 O
+8 O
+17 O
+24 O
+18 O
+ 
+Caen B-ORG
+20 O
+3 O
+7 O
+10 O
+12 O
+23 O
+16 O
+ 
+Nancy B-ORG
+21 O
+3 O
+7 O
+11 O
+14 O
+26 O
+16 O
+ 
+Nice B-ORG
+20 O
+3 O
+4 O
+13 O
+17 O
+38 O
+13 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+FRENCH B-MISC
+LEAGUE O
+RESULTS O
+. O
+ 
+PARIS B-LOC
+1996-12-06 O
+ 
+Results O
+of O
+French B-MISC
+first O
+division O
+matches O
+on O
+Friday O
+: O
+ 
+Lens B-ORG
+0 O
+Nantes B-ORG
+4 O
+ 
+Paris B-ORG
+St I-ORG
+Germain I-ORG
+1 O
+Nancy B-ORG
+2 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+GERMAN B-MISC
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+ 
+BONN B-LOC
+1996-12-06 O
+ 
+Summaries O
+of O
+matches O
+played O
+in O
+the O
+German B-MISC
+first O
+division O
+on O
+Friday O
+: O
+ 
+Bochum B-ORG
+2 O
+( O
+Stickroth B-PER
+30th O
+pen O
+, O
+Wosz B-PER
+89th O
+) O
+Bayer B-ORG
+Leverkusen I-ORG
+2 O
+( O
+Kirsten B-PER
+18th O
+, O
+Ramelow B-PER
+56th O
+) O
+. O
+ 
+Halftime O
+1-1 O
+. O
+ 
+Attendance O
+: O
+24,602 O
+ 
+Werder B-ORG
+Bremen I-ORG
+1 O
+( O
+Bode B-PER
+85th O
+) O
+1860 B-ORG
+Munich I-ORG
+1 O
+( O
+Bormirow B-PER
+8th O
+) O
+. O
+ 
+Halftime O
+0-1 O
+. O
+ 
+Attendance O
+33,000 O
+ 
+Karlsruhe B-ORG
+3 O
+( O
+Reich B-PER
+29th O
+, O
+Carl B-PER
+44th O
+, O
+Dundee B-PER
+69th O
+) O
+Freiburg B-ORG
+0 O
+. O
+ 
+Halftime O
+2-0 O
+. O
+ 
+Attendance O
+33,000 O
+ 
+Schalke B-ORG
+2 O
+( O
+Mulder B-PER
+2nd O
+and O
+27th O
+) O
+Hansa B-ORG
+Rostock I-ORG
+0 O
+. O
+ 
+Halftime O
+2-0 O
+. O
+ 
+Attendance O
+29,300 O
+ 
+-DOCSTART- O
+ 
+TENNIS O
+- O
+GRAND B-MISC
+SLAM I-MISC
+CUP I-MISC
+QUARTER-FINAL O
+RESULTS O
+. O
+ 
+MUNICH B-LOC
+, O
+Germany B-LOC
+1996-12-06 O
+ 
+Quarter-final O
+results O
+at O
+the O
+$ O
+6 O
+million O
+Grand B-MISC
+Slam I-MISC
+Cup I-MISC
+tennis O
+tournament O
+on O
+Friday O
+: O
+Goran B-PER
+Ivanisevic I-PER
+( O
+Croatia B-LOC
+) O
+beat O
+Mark B-PER
+Woodforde I-PER
+( O
+Australia B-LOC
+) O
+6-4 O
+6-4 O
+ 
+Yevgeny B-PER
+Kafelnikov I-PER
+( O
+Russia B-LOC
+) O
+beat O
+Jim B-PER
+Courier I-PER
+( O
+U.S. B-LOC
+) O
+2-6 O
+6-4 O
+8-6 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+SHOWCASE O
+- O
+BETTING O
+ON O
+REAL B-ORG
+MADRID I-ORG
+V O
+BARCELONA B-ORG
+. O
+ 
+MADRID B-LOC
+1996-12-06 O
+ 
+William B-ORG
+Hill I-ORG
+betting O
+on O
+Saturday O
+'s O
+Spanish B-MISC
+first O
+division O
+match O
+between O
+Real B-ORG
+Madrid I-ORG
+and O
+Barcelona B-ORG
+: O
+ 
+To O
+win O
+: O
+6-5 O
+Real B-ORG
+Madrid I-ORG
+; O
+7-4 O
+Barcelona B-ORG
+ 
+Draw O
+: O
+9-4 O
+ 
+Correct O
+score O
+: O
+ 
+Real B-ORG
+Madrid I-ORG
+to O
+win O
+Barcelona B-ORG
+to O
+win O
+ 
+1-0 O
+13-2 O
+1-0 O
+15-2 O
+ 
+2-0 O
+9-1 O
+2-0 O
+12-1 O
+ 
+2-1 O
+8-1 O
+2-1 O
+10-1 O
+ 
+3-0 O
+20-1 O
+3-0 O
+28-1 O
+ 
+3-1 O
+16-1 O
+3-1 O
+22-1 O
+ 
+3-2 O
+25-1 O
+3-2 O
+25-1 O
+ 
+4-0 O
+50-1 O
+4-0 O
+100-1 O
+ 
+4-1 O
+40-1 O
+4-1 O
+80-1 O
+ 
+4-2 O
+50-1 O
+4-2 O
+80-1 O
+ 
+Draw O
+: O
+ 
+0-0 O
+8-1 O
+ 
+1-1 O
+11-2 O
+ 
+2-2 O
+14-1 O
+ 
+3-3 O
+50-1 O
+ 
+Double O
+result O
+: O
+ 
+half-time O
+full-time O
+ 
+5-2 O
+Real B-ORG
+Madrid I-ORG
+Real B-ORG
+Madrid I-ORG
+ 
+14-1 O
+Real B-ORG
+Madrid I-ORG
+Draw O
+ 
+28-1 O
+Real B-ORG
+Madrid I-ORG
+Barcelona B-ORG
+ 
+5-1 O
+Draw O
+Real B-ORG
+Madrid I-ORG
+ 
+4-1 O
+Draw O
+Draw O
+ 
+11-2 O
+Draw O
+Barcelona B-ORG
+ 
+25-1 O
+Barcelona B-ORG
+Real B-ORG
+Madrid I-ORG
+ 
+14-1 O
+Barcelona B-ORG
+Draw O
+ 
+4-1 O
+Barcelona B-ORG
+Barcelona B-ORG
+ 
+First O
+goalscorer O
+of O
+match O
+: O
+ 
+Real B-ORG
+Madrid I-ORG
+Barcelona B-ORG
+ 
+9-2 O
+Davor B-PER
+Suker I-PER
+9-2 O
+Ronaldo B-PER
+ 
+5-1 O
+Pedrag B-PER
+Mijatovic I-PER
+7-1 O
+Luis B-PER
+Figo I-PER
+ 
+7-1 O
+Raul B-PER
+Gonzalez I-PER
+7-1 O
+Juan B-PER
+Pizzi I-PER
+ 
+12-1 O
+Fernando B-PER
+Redondo I-PER
+9-1 O
+Giovanni B-PER
+ 
+14-1 O
+Victor B-PER
+Sanchez I-PER
+12-1 O
+Guillermo B-PER
+Amor I-PER
+ 
+16-1 O
+Jose B-PER
+Amavisca I-PER
+14-1 O
+Roger B-PER
+Garcia I-PER
+ 
+16-1 O
+Manolo B-PER
+Sanchis I-PER
+14-1 O
+Gheorghe B-PER
+Popescu I-PER
+ 
+16-1 O
+Roberto B-PER
+Carlos I-PER
+16-1 O
+ 
+Josep B-PER
+Guardiola I-PER
+ 
+20-1 O
+Fernando B-PER
+Hierro I-PER
+20-1 O
+Ivan B-PER
+de I-PER
+laPena I-PER
+ 
+20-1 O
+Luis B-PER
+Milla I-PER
+25-1 O
+Luis B-PER
+Enrique I-PER
+ 
+33-1 O
+Fernando B-PER
+Sanz I-PER
+25-1 O
+ 
+Abelardo B-PER
+Fernandez I-PER
+ 
+40-1 O
+Carlos B-PER
+Secretario I-PER
+28-1 O
+Sergi B-PER
+Barjuan I-PER
+ 
+40-1 O
+Rafael B-PER
+Alkorta I-PER
+33-1 O
+Albert B-PER
+Ferrer I-PER
+ 
+40-1 O
+Chendo B-PER
+Porlan I-PER
+33-1 O
+Miguel B-PER
+Nadal I-PER
+ 
+40-1 O
+ 
+Laurent B-PER
+Blanc I-PER
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+SPANISH B-MISC
+FIRST O
+DIVISION O
+STANDINGS O
+. O
+ 
+MADRID B-LOC
+1996-12-06 O
+ 
+Standings O
+in O
+the O
+Spanish B-MISC
+first O
+division O
+ahead O
+of O
+this O
+weekend O
+'s O
+games O
+. O
+ 
+( O
+tabulate O
+under O
+games O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+ 
+against O
+, O
+points O
+) O
+: O
+ 
+Real B-ORG
+Madrid I-ORG
+15 O
+10 O
+5 O
+0 O
+31 O
+12 O
+35 O
+ 
+Barcelona B-ORG
+15 O
+10 O
+4 O
+1 O
+46 O
+19 O
+34 O
+ 
+Deportivo B-ORG
+Coruna I-ORG
+15 O
+9 O
+6 O
+0 O
+23 O
+7 O
+33 O
+ 
+Real B-ORG
+Betis I-ORG
+15 O
+8 O
+5 O
+2 O
+28 O
+13 O
+29 O
+ 
+Atletico B-ORG
+Madrid I-ORG
+15 O
+8 O
+3 O
+4 O
+26 O
+17 O
+27 O
+ 
+Athletic B-ORG
+Bilbao I-ORG
+15 O
+7 O
+4 O
+4 O
+28 O
+22 O
+25 O
+ 
+Real B-ORG
+Sociedad I-ORG
+15 O
+7 O
+3 O
+5 O
+20 O
+18 O
+24 O
+ 
+Valladolid B-ORG
+15 O
+7 O
+3 O
+5 O
+19 O
+18 O
+24 O
+ 
+Racing B-ORG
+Santander I-ORG
+15 O
+5 O
+7 O
+3 O
+15 O
+15 O
+22 O
+ 
+Rayo B-ORG
+Vallecano I-ORG
+15 O
+5 O
+5 O
+5 O
+21 O
+19 O
+20 O
+ 
+Valencia B-ORG
+15 O
+6 O
+2 O
+7 O
+23 O
+22 O
+20 O
+ 
+Celta B-ORG
+Vigo I-ORG
+15 O
+5 O
+5 O
+5 O
+17 O
+17 O
+20 O
+ 
+Tenerife B-ORG
+15 O
+5 O
+4 O
+6 O
+23 O
+17 O
+19 O
+ 
+Espanyol B-ORG
+15 O
+4 O
+4 O
+7 O
+17 O
+20 O
+16 O
+ 
+Oviedo B-ORG
+15 O
+4 O
+4 O
+7 O
+17 O
+21 O
+16 O
+ 
+Sporting B-ORG
+Gijon I-ORG
+15 O
+4 O
+4 O
+7 O
+15 O
+22 O
+16 O
+ 
+Logrones B-ORG
+15 O
+4 O
+3 O
+8 O
+11 O
+33 O
+15 O
+ 
+Zaragoza B-ORG
+15 O
+2 O
+8 O
+5 O
+18 O
+23 O
+14 O
+ 
+Sevilla B-ORG
+15 O
+4 O
+2 O
+9 O
+13 O
+20 O
+14 O
+ 
+Compostela B-ORG
+15 O
+3 O
+4 O
+8 O
+13 O
+28 O
+13 O
+ 
+Hercules B-ORG
+15 O
+2 O
+2 O
+11 O
+11 O
+29 O
+8 O
+ 
+Extremadura B-ORG
+15 O
+1 O
+3 O
+11 O
+8 O
+30 O
+6 O
+ 
+-DOCSTART- O
+ 
+BASKETBALL O
+- O
+EUROLEAGUE B-MISC
+RESULT O
+. O
+ 
+BRUSSELS B-LOC
+1996-12-06 O
+ 
+Result O
+of O
+a O
+EuroLeague B-MISC
+basketball O
+match O
+on O
+Thursday O
+: O
+ 
+Group O
+B O
+ 
+In O
+Charleroi B-LOC
+: O
+ 
+Charleroi B-ORG
+( O
+Belgium B-LOC
+) O
+75 O
+Estudiantes B-ORG
+Madrid I-ORG
+( O
+Spain B-LOC
+) O
+82 O
+( O
+34-35 O
+) O
+ 
+Leading O
+scorers O
+: O
+ 
+Charleroi B-ORG
+- O
+Eric B-PER
+Cleymans I-PER
+18 O
+, O
+Ron B-PER
+Ellis I-PER
+18 O
+, O
+Jacques B-PER
+Stas I-PER
+14 O
+ 
+Estudiantes B-ORG
+- O
+Harper B-PER
+Williams I-PER
+20 O
+, O
+Chadler B-PER
+Thompson I-PER
+17 O
+, O
+Juan B-PER
+Aisa I-PER
+14 O
+ 
+Group O
+D O
+ 
+In O
+Belgrade B-LOC
+: O
+ 
+Partizan B-ORG
+Belgrade I-ORG
+( O
+Yugoslavia B-LOC
+) O
+78 O
+Kinder B-ORG
+Bologna I-ORG
+( O
+Italy B-LOC
+) O
+70 O
+( O
+halftime O
+44-35 O
+) O
+ 
+Leading O
+scorers O
+: O
+ 
+Partizan B-ORG
+- O
+Dejan B-PER
+Koturovic I-PER
+21 O
+ 
+Kinder B-ORG
+- O
+Zoran B-PER
+Savic I-PER
+18 O
+ 
+-DOCSTART- O
+ 
+SQUASH O
+- O
+MAHINDRA B-MISC
+INTERNATIONAL I-MISC
+SEMIFINAL O
+RESULTS O
+. O
+ 
+BOMBAY B-LOC
+, O
+India B-LOC
+1996-12-06 O
+ 
+Results O
+of O
+semifinals O
+in O
+the O
+Mahindra B-MISC
+International I-MISC
+squash O
+tournament O
+on O
+Friday O
+: O
+ 
+Peter B-PER
+Nicol I-PER
+( O
+Scotland B-LOC
+) O
+beat O
+Simon B-PER
+Parke I-PER
+( O
+England B-LOC
+) O
+15-7 O
+15-12 O
+15-12 O
+Rodney B-PER
+Eyles I-PER
+( O
+Australia B-LOC
+) O
+beat O
+Mark B-PER
+Cairns I-PER
+( O
+England B-LOC
+) O
+15-7 O
+15-6 O
+15-8 O
+. O
+ 
+Final O
+: O
+Nicol B-PER
+v O
+Eyles B-PER
+, O
+on O
+Saturday O
+. O
+ 
+-DOCSTART- O
+ 
+Manitoba O
+Pork O
+forward O
+contract O
+PM O
+prices O
+- O
+Dec O
+6 O
+. O
+ 
+WINNIPEG B-LOC
+1996-12-06 O
+ 
+Manitoba O
+Pork O
+closing O
+forward O
+contract O
+prices O
+in O
+Canadian B-MISC
+dollars O
+per O
+hundred O
+lbs O
+( O
+Cwt O
+) O
+for O
+Dec O
+6 O
+including O
+minimum O
+guaranteed O
+price O
+-- O
+ 
+CONTRACT O
+PREVIOUS O
+CLOSE O
+PM O
+CLOSE O
+PM O
+CLOSING O
+RANGE O
+ 
+DATE O
+PM O
+CLOSE O
+FIXED O
+MINIMUM O
+AT O
+1230 O
+CST B-MISC
+ 
+Feb O
+97 O
+79.94 O
+79.67 O
+75.55 O
+77.01-81.80 O
+ 
+Mar O
+97 O
+76.37 O
+76.12 O
+72.02 O
+73.47-78.24 O
+ 
+Apr O
+97 O
+74.13 O
+74.69 O
+70.59 O
+72.04-76.81 O
+ 
+May O
+97 O
+76.51 O
+77.07 O
+72.97 O
+74.42-79.19 O
+ 
+Jun O
+97 O
+77.53 O
+77.24 O
+73.17 O
+74.62-79.35 O
+ 
+Jul O
+97 O
+74.45 O
+74.01 O
+69.95 O
+71.39-76.12 O
+ 
+Aug O
+97 O
+72.41 O
+72.07 O
+68.01 O
+69.45-74.18 O
+ 
+Sep O
+97 O
+69.18 O
+69.24 O
+65.17 O
+66.61-71.34 O
+ 
+Oct O
+97 O
+68.00 O
+68.05 O
+63.98 O
+65.43-70.16 O
+ 
+Nov O
+97 O
+68.00 O
+68.05 O
+63.98 O
+65.43-70.16 O
+ 
+Note O
+: O
+Manitoba B-MISC
+Government I-MISC
+Price I-MISC
+Index I-MISC
+( O
+C$ B-MISC
+per O
+cwt O
+) O
+- O
+ 
+Dec O
+4 O
+87.16 O
+ 
+Manitoba B-LOC
+'s O
+Hog O
+Price O
+Range O
+: O
+84.00-86.00 O
+per O
+cwt O
+ 
+CAN B-LOC
+/ O
+U.S. B-LOC
+DOLLAR O
+EXCHANGE O
+RATE O
+: O
+1.3570 O
+ 
+Source O
+: O
+Manitoba B-ORG
+Pork I-ORG
+. O
+ 
+( O
+( O
+Winnipeg B-LOC
+bureau O
+204-947-3548 O
+) O
+) O
+ 
+-DOCSTART- O
+ 
+Canadian B-LOC
+West I-LOC
+Coast I-LOC
+Vessel O
+Loadings O
+- O
+CWB B-ORG
+. O
+ 
+WINNIPEG B-LOC
+1996-12-06 O
+ 
+The O
+Canadian B-ORG
+Wheat I-ORG
+Board I-ORG
+reported O
+six O
+ships O
+loading O
+, O
+10 O
+waiting O
+and O
+four O
+due O
+at O
+the O
+Canadian B-LOC
+West I-LOC
+Coast I-LOC
+, O
+as O
+of O
+Friday O
+. O
+ 
+The O
+longest O
+wait O
+to O
+load O
+on O
+the O
+West B-LOC
+Coast I-LOC
+was O
+13 O
+days O
+. O
+ 
+Two O
+ship O
+loaded O
+in O
+Thunder B-LOC
+Bay I-LOC
+, O
+one O
+waited O
+and O
+seven O
+were O
+due O
+. O
+ 
+Two O
+ships O
+loaded O
+on O
+the O
+East B-LOC
+Coast I-LOC
+, O
+three O
+waited O
+to O
+load O
+, O
+six O
+were O
+due O
+. O
+ 
+Port O
+Loading O
+Waiting O
+ 
+Vancouver B-LOC
+5 O
+7 O
+ 
+Prince B-LOC
+Rupert I-LOC
+1 O
+3 O
+ 
+( O
+( O
+Gilbert B-PER
+Le I-PER
+Gras I-PER
+204 O
+947 O
+3548 O
+) O
+) O
+ 
+-DOCSTART- O
+ 
+New B-LOC
+York I-LOC
+coal O
+/ O
+ore O
+/ O
+scrap O
+fixtures O
+- O
+Dec O
+6 O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+ORE B-ORG
+- O
+Maritime B-MISC
+Queen I-MISC
+70,000 O
+tonnes O
+Dampier O
+/ O
+Kaohsiung O
+20-30/12 O
+$ O
+5.25 O
+fio O
+35,000 O
+/ O
+30,000 O
+China B-ORG
+Steel I-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
++1 O
+212 O
+859 O
+1640 O
+ 
+-DOCSTART- O
+ 
+Clean O
+tankers O
+fixtures O
+and O
+enquiries O
+- O
+2321 O
+GMT B-MISC
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+FIXTURES O
+- O
+ 
+WESTERN B-LOC
+HEMISPHERE I-LOC
+- O
+ 
+Danila B-ORG
+28.5 O
+16/12 O
+Caribs B-LOC
+/ O
+up O
+W224 O
+Mobil B-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
+, O
+212-859-1640 O
+ 
+-DOCSTART- O
+ 
+Dirty O
+tanker O
+fixtures O
+and O
+enquiries O
+- O
+2317 O
+GMT B-MISC
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+MIDEAST B-LOC
+/ O
+RED B-LOC
+SEA I-LOC
+- O
+ 
+Thai B-MISC
+Resource O
+264 O
+31/12 O
+Ras B-LOC
+Tanura I-LOC
+/ O
+Red B-LOC
+Sea I-LOC
+W46.50 O
+Mobil B-ORG
+. O
+ 
+MEDITERRANEAN B-MISC
+- O
+ 
+Lula B-PER
+I I-PER
+85 O
+25/12 O
+Sidi B-LOC
+Kreir I-LOC
+/ O
+Augusta B-LOC
+W100 O
+Exxon B-ORG
+. O
+ 
+Spetses O
+139 O
+17/12 O
+Sidi B-LOC
+Kreir I-LOC
+/ O
+Augusta B-LOC
+W97.50 O
+Exxon B-ORG
+. O
+ 
+Mesipia B-ORG
+77.5 O
+17/12 O
+Bajaia B-LOC
+/ O
+Fos B-LOC
+W105 O
+Exxon B-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
++1 O
+212 O
+859 O
+1640 O
+ 
+-DOCSTART- O
+ 
+Daily O
+Argentine B-MISC
+grain O
+fixings O
+- O
+Camaras B-ORG
+Arbitrales I-ORG
+. O
+ 
+BUENOS B-LOC
+AIRES I-LOC
+1996-12-06 O
+ 
+Avg O
+December O
+5 O
+price O
+fix O
+: O
+ 
+Buenos B-LOC
+Aires I-LOC
+Quequen O
+Rosario O
+Bahia O
+Blanca O
+ 
+Oats O
+unq O
+unq O
+unq O
+unq O
+ 
+Wheat O
+121 O
+130 O
+121.3 O
+121 O
+ 
+Maize O
+( O
+Flint B-PER
+) O
+113 O
+114 O
+113.7 O
+112 O
+ 
+Maize O
+( O
+Dent B-PER
+) O
+113 O
+114 O
+113.7 O
+112 O
+ 
+Sorghum O
+unq O
+unq O
+unq O
+unq O
+ 
+Millet O
+unq O
+unq O
+90 O
+unq O
+ 
+Soybeans O
+283 O
+unq O
+283 O
+unq O
+ 
+Sunseeds O
+219 O
+216 O
+220 O
+216 O
+ 
+-- O
+Buenos B-ORG
+Aires I-ORG
+Newsroom I-ORG
++541 O
+318-0655 O
+ 
+-DOCSTART- O
+ 
+USDA B-ORG
+daily O
+cattle O
+and O
+hog O
+slaughter O
+- O
+Dec O
+6 O
+. O
+ 
+Est O
+daily O
+livestock O
+slaughter O
+under O
+Fed B-ORG
+inspection O
+- O
+USDA B-ORG
+ 
+CATTLE O
+CALVES O
+HOGS O
+ 
+Friday O
+12/06/96 O
+( O
+est O
+) O
+132,000 O
+7,000 O
+359,000 O
+ 
+Week O
+ago O
+( O
+est O
+) O
+130,000 O
+6,000 O
+346,000 O
+ 
+Year O
+ago O
+( O
+act O
+) O
+132,000 O
+6,000 O
+336,000 O
+ 
+Saturday O
+12/07/96 O
+( O
+est O
+) O
+38,000 O
+0 O
+18,000 O
+ 
+Week O
+to O
+date O
+( O
+est O
+) O
+688,000 O
+31,000 O
+1,810,000 O
+ 
+Same O
+Period O
+Last O
+Week O
+( O
+est O
+) O
+601,000 O
+26,000 O
+1,547,000 O
+ 
+Same O
+Period O
+Last O
+Year* O
+( O
+act O
+) O
+685,000 O
+31,000 O
+1,914,000 O
+ 
+1996 O
+Year O
+to O
+date O
+33,549,000 O
+1,589,000 O
+84,894,000 O
+ 
+1995 O
+Year O
+to O
+date* O
+32,970,000 O
+1,305,000 O
+88,800,000 O
+ 
+Percent O
+change O
+1.8 O
+% O
+21.8 O
+% O
+- O
+4.4 O
+% O
+ 
+*1995 O
+totals O
+adjusted O
+to O
+reflect O
+NASS B-MISC
+revisions O
+1996 O
+Totals O
+are O
+subject O
+to O
+revision O
+Yearly O
+totals O
+may O
+not O
+add O
+due O
+to O
+rounding O
+. O
+ 
+Previous O
+day O
+estimated O
+Steer O
+and O
+Heifer O
+Cow O
+and O
+Bull O
+ 
+Thursday O
+100,000 O
+33,000 O
+ 
+-DOCSTART- O
+ 
+BALANCE O
+- O
+Hartford B-LOC
+, O
+Conn B-LOC
+. O
+ 
+, O
+$ O
+11 O
+mln O
+. O
+ 
+CITY B-LOC
+OF I-LOC
+HARTFORD I-LOC
+, O
+CONNECTICUT B-LOC
+ 
+RE O
+: O
+$ O
+25,000,000 O
+ 
+GENERAL O
+OBLIGATION O
+BONDS O
+ 
+MOODY B-ORG
+'S I-ORG
+: O
+Aaa O
+/ O
+A1 O
+S&P B-ORG
+: O
+AAA O
+/ O
+AA- O
+ 
+Delivery O
+Date O
+: O
+12/16/1996 O
+ 
+FSA B-ORG
+INSURED O
+ 
+Maturity O
+Balance O
+Coupon O
+List O
+ 
+12/15/2000 O
+1,250M O
+6.25 O
+4.10 O
+ 
+12/15/2001 O
+575M O
+4.60 O
+4.20 O
+ 
+12/15/2003 O
+265M O
+4.40 O
+4.40 O
+ 
+12/15/2004 O
+625M O
+4.50 O
+4.50 O
+ 
+12/15/2005 O
+55M O
+4.60 O
+4.60 O
+ 
+12/15/2006 O
+145M O
+4.70 O
+4.70 O
+ 
+12/15/2007 O
+850M O
+4.85 O
+4.85 O
+ 
+12/15/2008 O
+1,200M O
+4.95 O
+4.95 O
+ 
+12/15/2009 O
+1,240M O
+5.05 O
+5.05 O
+ 
+12/15/2010 O
+1,250M O
+5.15 O
+5.15 O
+ 
+12/15/2011 O
+1,240M O
+5.25 O
+5.25 O
+ 
+12/15/2012 O
+1,200M O
+5.25 O
+5.30 O
+ 
+12/15/2013 O
+1,135M O
+5.30 O
+5.35 O
+ 
+12/15/2014 O
+850M O
+5.30 O
+5.35 O
+ 
+Total O
+: O
+11,880M O
+ 
+State B-ORG
+Street I-ORG
+Bank I-ORG
+and I-ORG
+Trust I-ORG
+Company I-ORG
+ 
+Prudential B-ORG
+Securities I-ORG
+Incorporated I-ORG
+ 
+PaineWebber B-ORG
+Incorporated I-ORG
+ 
+First B-ORG
+Union I-ORG
+Capital I-ORG
+Markets I-ORG
+Corp. I-ORG
+- O
+NJ B-LOC
+ 
+-- O
+U.S. B-ORG
+Municipal I-ORG
+Desk I-ORG
+, O
+212-859-1650 O
+ 
+-DOCSTART- O
+ 
+New B-LOC
+York I-LOC
+grain O
+freight O
+fixtures O
+- O
+Dec O
+5 O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+Mana O
+50,000 O
+tonnes O
+soybeans O
+USG O
+/ O
+China B-LOC
+10-15/12 O
+$ O
+23.50 O
+10,000 O
+/ O
+4,000 O
+GeePee O
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
++1 O
+212 O
+859 O
+1640 O
+ 
+-DOCSTART- O
+ 
+Canadian B-MISC
+grain O
+statistics O
+weekly O
+. O
+ 
+CHICAGO B-LOC
+, O
+Dec O
+6 O
+( O
+Reuter B-PER
+) O
+Statistics O
+for O
+the O
+week O
+ending O
+December O
+1 O
+in O
+000 O
+'s O
+tonnes O
+. O
+ 
+- O
+Canadian B-ORG
+Grain I-ORG
+Commission I-ORG
+ 
+Visible O
+Supplies O
+Farmers O
+Deliveries O
+ 
+Curr O
+Wk O
+Yr O
+Ago O
+Curr O
+Wk O
+Yr O
+to O
+Date O
+Yr O
+Ago O
+ 
+Wheat O
+4320.2 O
+3909.3 O
+288.5 O
+6278.9 O
+5580.0 O
+ 
+Durum B-ORG
+1168.9 O
+1225.0 O
+44.3 O
+965.3 O
+1069.6 O
+ 
+Oats O
+286.5 O
+284.6 O
+31.9 O
+937.3 O
+581.2 O
+ 
+Barley O
+1074.0 O
+1104.8 O
+178.0 O
+2531.4 O
+1897.1 O
+ 
+Rye O
+44.6 O
+86.3 O
+2.3 O
+108.2 O
+119.2 O
+ 
+Flax O
+165.2 O
+181.9 O
+14.9 O
+231.4 O
+332.9 O
+ 
+Canola B-ORG
+646.6 O
+769.4 O
+60.5 O
+1902.0 O
+2147.6 O
+ 
+Corn O
+79.6 O
+163.5 O
+9.4 O
+95.7 O
+252.0 O
+ 
+Total O
+7785.8 O
+7724.8 O
+629.8 O
+13050.2 O
+11979.6 O
+ 
+Exports O
+Domestic O
+Disappearance O
+ 
+Curr O
+Wk O
+YTD O
+Yr O
+Ago O
+Curr O
+Wk O
+YTD O
+Yr O
+Ago O
+ 
+Wheat O
+387.4 O
+4677.8 O
+4553.6 O
+55.2 O
+1039.7 O
+846.1 O
+ 
+Durum B-ORG
+129.0 O
+1515.9 O
+1220.6 O
+4.6 O
+75.8 O
+73.3 O
+ 
+Oats O
+40.0 O
+561.0 O
+391.9 O
+4.8 O
+149.6 O
+115.0 O
+ 
+Barley O
+110.8 O
+1203.4 O
+506.0 O
+48.2 O
+941.0 O
+786.6 O
+ 
+Rye O
+4.1 O
+60.7 O
+57.9 O
+3.0 O
+10.7 O
+18.9 O
+ 
+Flax O
+7.2 O
+154.1 O
+235.7 O
+1.1 O
+22.2 O
+15.7 O
+ 
+Canola O
+47.1 O
+988.1 O
+1135.5 O
+46.7 O
+894.9 O
+822.0 O
+ 
+Corn O
+4.4 O
+15.1 O
+87.0 O
+0.6 O
+22.1 O
+11.1 O
+ 
+Total O
+730.0 O
+9176.1 O
+8188.2 O
+164.2 O
+3156.0 O
+2686.7 O
+ 
+In O
+addition O
+, O
+Statistics B-ORG
+Canada I-ORG
+indicated O
+the O
+following O
+exports O
+to O
+the O
+U.S. B-LOC
+between O
+August O
+and O
+September O
+1996 O
+, O
+in O
+tonnes O
+: O
+ 
+Oats O
+Rye O
+Flaxseed O
+Canola O
+Corn O
+ 
+Exports O
+29,200 O
+17,200 O
+7,700 O
+100 O
+59,400 O
+ 
+Year O
+Ago O
+47,000 O
+24,300 O
+8,700 O
+8,200 O
+12,200 O
+ 
+( O
+Chicago B-LOC
+newsdesk O
+312 O
+408 O
+8720 O
+) O
+ 
+-DOCSTART- O
+ 
+London B-LOC
+coal O
+/ O
+ore O
+fixtures O
+. O
+ 
+LONDON B-LOC
+1996-12-06 O
+ 
+COAL O
+- O
+Lantau B-MISC
+Peak I-MISC
+- O
+120,000 O
+tones O
+coal O
+Hay B-LOC
+Point I-LOC
+or O
+Newcastle B-LOC
+/ O
+Kaohsiung B-LOC
+20-30/1 O
+$ O
+5.25 O
+and O
+$ O
+5.85 O
+fio O
+respectively O
+40,000-35,000 O
+/ O
+28,000 O
+shinc O
+China B-ORG
+Steel I-ORG
+. O
+ 
+Royal B-ORG
+Clipper I-ORG
+- O
+77,000 O
+tonnes O
+coal O
+Maracaibo B-LOC
+/ O
+Fos B-LOC
+19/12-2/1 O
+$ O
+9.90 O
+fio O
+20,000 O
+shinc O
+/ O
+25,000 O
+shinc O
+Coe O
+and O
+Clerici O
+. O
+ 
+ORE B-ORG
+- O
+IMC O
+TBN O
+- O
+70,000 O
+tonnes O
+Dampier B-LOC
+/ O
+Kaohsiung B-LOC
+20-30/12 O
+$ O
+5.25 O
+fio O
+35,000 O
+shinc O
+/ O
+30,000 O
+shinc O
+China B-ORG
+Steel I-ORG
+. O
+ 
+-DOCSTART- O
+ 
+Delphis B-ORG
+Hanover I-ORG
+weekly O
+municipal O
+bond O
+yields O
+. O
+ 
+Delphis B-ORG
+Hanover I-ORG
+weekly O
+muni O
+bond O
+yields O
+calculated O
+Dec O
+5 O
+ 
+Aaa O
+Aa O
+A O
+Baa O
+ 
+1997 O
+3.50 O
+3.60* O
+3.70 O
+3.75 O
+4.00 O
+4.00 O
+4.30 O
+4.35 O
+ 
+2001 O
+4.20 O
+4.20 O
+4.35 O
+4.40 O
+4.65 O
+4.65 O
+5.00 O
+5.00 O
+ 
+2006 O
+4.70 O
+4.70 O
+4.85 O
+4.85 O
+5.15 O
+5.15 O
+5.50 O
+5.50 O
+ 
+2011 O
+5.15 O
+5.15 O
+5.30 O
+5.30 O
+5.60 O
+5.60 O
+5.90 O
+5.90 O
+ 
+2016 O
+5.35 O
+5.30 O
+5.50 O
+5.45 O
+5.80 O
+5.75 O
+6.10 O
+6.05 O
+ 
+2021 O
+5.45 O
+5.40 O
+5.60 O
+5.55 O
+5.90 O
+5.85 O
+6.20 O
+6.15 O
+ 
+2026 O
+5.50 O
+5.45 O
+5.65 O
+5.60 O
+5.95 O
+5.90 O
+6.25 O
+6.20 O
+ 
+*from O
+previous O
+calculation O
+on O
+Nov O
+27 O
+ 
+-- O
+U.S. B-ORG
+Municipal I-ORG
+Desk I-ORG
+, O
+212-859-1650 O
+ 
+-DOCSTART- O
+ 
+Thai B-MISC
+rice O
+vessels O
+loading O
+and O
+movements O
+at O
+Dec O
+06 O
+. O
+ 
+BANGKOK B-LOC
+1996-11-29 O
+ 
+The O
+Thai B-MISC
+Commerce O
+Ministry O
+detailed O
+rice O
+loading O
+at O
+Thai B-MISC
+ports O
+as O
+follows O
+( O
+in O
+tonnes O
+) O
+: O
+ 
+Vessel O
+Date O
+of O
+Arrival O
+Quantity O
+Destination O
+ 
+Iran B-LOC
+Sabr B-MISC
+19/11/96 O
+9,000 O
+Iran B-LOC
+ 
+Princess B-PER
+of I-PER
+Loine I-PER
+19/11/96 O
+10,000 O
+Philippines B-LOC
+ 
+Deligst B-MISC
+20/11/96 O
+5,500 O
+Indonesia B-LOC
+ 
+Seagramd B-MISC
+ace I-MISC
+20/11/96 O
+5,000 O
+Japan B-LOC
+ 
+Lucky B-MISC
+Emdldm I-MISC
+20/11/96 O
+5,000 O
+Japan B-LOC
+ 
+Algoa B-MISC
+Day I-MISC
+21/11/96 O
+6,000 O
+Africa B-LOC
+ 
+Sangthai B-MISC
+Glory I-MISC
+22/11/96 O
+3,000 O
+Singapore B-LOC
+ 
+Myos B-PER
+Yang I-PER
+5 O
+22/11/96 O
+4,000 O
+Indonesia B-LOC
+ 
+Budisuryana B-MISC
+22/11/96 O
+3,800 O
+Malaysia B-LOC
+ 
+King B-PER
+Ace I-PER
+22/11/96 O
+5,000 O
+Japan B-LOC
+ 
+Tong B-PER
+Shun I-PER
+25/11/96 O
+3,000 O
+Vietnam B-LOC
+ 
+But B-PER
+2 O
+27/11/96 O
+5,000 O
+Burma B-LOC
+ 
+-- O
+Bangkok B-LOC
+newsroom O
+( O
+662 O
+) O
+652-0642 O
+ 
+-DOCSTART- O
+ 
+Sangetsu B-ORG
+- O
+96/97 O
+parent O
+forecast O
+. O
+ 
+TOKYO B-LOC
+1996-12-06 O
+ 
+Year O
+to O
+March O
+31 O
+, O
+1997 O
+ 
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+ 
+LATEST O
+ACTUAL O
+ 
+( O
+Parent O
+) O
+FORECAST O
+YEAR-AGO O
+ 
+Sales O
+128.00 O
+117.56 O
+ 
+Current O
+12.00 O
+9.94 O
+ 
+Net O
+6.20 O
+5.36 O
+ 
+EPS O
+143.56 O
+yen O
+127.64 O
+yen O
+ 
+Ord O
+div O
+30.00 O
+yen O
+30.00 O
+yen O
+ 
+NOTE O
+- O
+Sangetsu B-ORG
+Co I-ORG
+Ltd I-ORG
+is O
+a O
+trader O
+specialising O
+in O
+interiors O
+. O
+ 
+-DOCSTART- O
+ 
+ALPINE O
+SKIING O
+- O
+WOMEN O
+'S O
+WORLD B-MISC
+CUP I-MISC
+SUPER O
+G O
+WINNER O
+PROFILE O
+. O
+ 
+VAIL B-LOC
+, O
+Colorado B-LOC
+1996-12-07 O
+ 
+Profile O
+of O
+the O
+winner O
+of O
+Saturday O
+'s O
+women O
+'s O
+World B-MISC
+Cup I-MISC
+super O
+G O
+race O
+: O
+ 
+Name O
+: O
+Svetlana B-PER
+Gladishiva I-PER
+ 
+Age O
+: O
+25 O
+ 
+Nation O
+: O
+Russia B-LOC
+ 
+Previous O
+World B-MISC
+Cup I-MISC
+victories O
+: O
+None O
+ 
+Other O
+Facts O
+: O
+Gladishiva B-PER
+won O
+a O
+silver O
+medal O
+in O
+super O
+G O
+at O
+the O
+1994 O
+Lillehammer B-MISC
+Winter I-MISC
+Olympics I-MISC
+and O
+a O
+bronze O
+medal O
+in O
+downhill O
+at O
+the O
+1991 O
+World B-MISC
+Championships I-MISC
+. O
+ 
+-DOCSTART- O
+ 
+ALPINE O
+SKIING O
+- O
+WOMEN O
+'S O
+WORLD B-MISC
+CUP I-MISC
+SUPER O
+G O
+RESULTS O
+. O
+ 
+VAIL B-LOC
+, O
+Colorado B-LOC
+1996-12-07 O
+ 
+Provisional O
+results O
+from O
+Saturday O
+'s O
+women O
+'s O
+World B-MISC
+Cup I-MISC
+super O
+G O
+race O
+: O
+ 
+1. O
+Svetlana B-PER
+Gladishiva I-PER
+( O
+Russia B-LOC
+) O
+one O
+minute O
+17.76 O
+seconds O
+ 
+2. O
+Pernila B-PER
+Wiberg I-PER
+( O
+Sweden B-LOC
+) O
+1:17.97 O
+ 
+3. O
+Carole B-PER
+Montillet I-PER
+( O
+France B-LOC
+) O
+1:18.11 O
+ 
+4. O
+Hilde B-PER
+Gerg I-PER
+( O
+Germany B-LOC
+) O
+1:18.15 O
+ 
+5. O
+Isolde B-PER
+Kostner I-PER
+( O
+Italy B-LOC
+) O
+1:18.19 O
+ 
+6. O
+Warwara B-PER
+Zelenskaja I-PER
+( O
+Russia B-LOC
+) O
+1:18.21 O
+ 
+7. O
+Madlen B-PER
+Brigger-Summermatter I-PER
+( O
+Switzerland B-LOC
+) O
+1:18.23 O
+ 
+8. O
+Florence B-PER
+Masnada I-PER
+( O
+France B-LOC
+) O
+1:18.31 O
+ 
+9. O
+Katja B-PER
+Seizinger I-PER
+( O
+Germany B-LOC
+) O
+1:18.32 O
+ 
+10= O
+Martina B-PER
+Ertl I-PER
+( O
+Germany B-LOC
+) O
+1:18.48 O
+ 
+10= O
+Stefanie B-PER
+Schuster I-PER
+( O
+Austria B-LOC
+) O
+1:18.48 O
+ 
+12. O
+Bibiana B-PER
+Perez I-PER
+( O
+Italy B-LOC
+) O
+1:18.52 O
+ 
+13. O
+Barbara B-PER
+Merlin I-PER
+( O
+Italy B-LOC
+) O
+1:18.67 O
+ 
+14. O
+Sybille B-PER
+Brauner I-PER
+( O
+Germany B-LOC
+) O
+1:18.81 O
+ 
+15. O
+Katharina B-PER
+Gutensohn I-PER
+( O
+Germany B-LOC
+) O
+1:18.92 O
+ 
+16. O
+Leatitia B-PER
+Dalloz I-PER
+( O
+France B-LOC
+) O
+1:18.96 O
+ 
+17. O
+Renate B-PER
+Goetschl I-PER
+( O
+Austria B-LOC
+) O
+1:18.98 O
+ 
+18. O
+Marianne B-PER
+Brechu I-PER
+( O
+France B-LOC
+) O
+1:19.02 O
+ 
+19. O
+Heidi B-PER
+Zurbriggen I-PER
+( O
+Switzerland B-LOC
+) O
+1:19.03 O
+ 
+20. O
+Spela B-PER
+Bracun I-PER
+( O
+Slovenia B-LOC
+) O
+1:19.07 O
+ 
+21. O
+Shannon B-PER
+Nobis I-PER
+( O
+U.S. B-LOC
+) O
+1:19.08 O
+ 
+22= O
+Regine B-PER
+Cavagnoud I-PER
+( O
+France B-LOC
+) O
+1:19.21 O
+ 
+22= O
+Anita B-PER
+Wachter I-PER
+( O
+Austria B-LOC
+) O
+1:19.21 O
+ 
+24. O
+Megan B-PER
+Gerety I-PER
+( O
+U.S. B-LOC
+) O
+1:19.39 O
+ 
+25. O
+Hilary B-PER
+Lindh I-PER
+( O
+U.S. B-LOC
+) O
+1:19.41 O
+ 
+26= O
+Catherine B-PER
+Borghi I-PER
+( O
+Switzerland B-LOC
+) O
+1:19.44 O
+ 
+26= O
+Michaela B-PER
+Dorfmeister I-PER
+( O
+Austria B-LOC
+) O
+1:19.44 O
+ 
+28. O
+Alexandra B-PER
+Meissnitzer I-PER
+( O
+Austria B-LOC
+) O
+1:19.53 O
+ 
+29. O
+Ingeborg B-PER
+Helen I-PER
+Marken I-PER
+( O
+Norway B-LOC
+) O
+1:19.54 O
+ 
+30. O
+Monika B-PER
+Tschirky I-PER
+( O
+Switzerland B-LOC
+) O
+1:19.60 O
+ 
+The O
+results O
+were O
+declared O
+official O
+. O
+ 
+-DOCSTART- O
+ 
+ALPINE O
+SKIING O
+- O
+WOMEN O
+'S O
+DOWNHILL O
+WINNER O
+PROFILE O
+. O
+ 
+VAIL B-LOC
+, O
+Colorado B-LOC
+1996-12-07 O
+ 
+Profile O
+of O
+the O
+winner O
+of O
+Saturday O
+'s O
+women O
+'s O
+World B-MISC
+Cup I-MISC
+downhill O
+race O
+: O
+ 
+Name O
+: O
+Renate B-PER
+Goetschl I-PER
+ 
+Age O
+: O
+20 O
+ 
+Nation O
+: O
+Austria B-LOC
+ 
+Previous O
+victories O
+( O
+two O
+) O
+: O
+slalom O
+, O
+Lillehammer B-LOC
+Norway B-LOC
+, O
+1993 O
+; O
+super O
+G O
+, O
+Flachau B-LOC
+, O
+Austria B-LOC
+, O
+1995 O
+. O
+ 
+Other O
+facts O
+: O
+As O
+a O
+qualifier O
+for O
+the O
+1993 O
+World B-MISC
+Cup I-MISC
+finals O
+through O
+Europa B-MISC
+Cup I-MISC
+results O
+, O
+16-year-old O
+Goetschl B-PER
+won O
+the O
+slalom O
+to O
+become O
+history O
+'s O
+youngest O
+World B-MISC
+Cup I-MISC
+victor O
+. O
+ 
+-DOCSTART- O
+ 
+ALPINE O
+SKIING O
+- O
+WOMEN O
+'S O
+WORLD B-MISC
+CUP I-MISC
+STANDINGS O
+. O
+ 
+VAIL B-LOC
+, O
+Colorado B-LOC
+1996-12-07 O
+ 
+Women O
+'s O
+World B-MISC
+Cup I-MISC
+standings O
+after O
+Saturday O
+'s O
+downhill O
+race O
+: O
+ 
+Downhill O
+Standings O
+ 
+1. O
+Katja B-PER
+Seizinger I-PER
+( O
+Germany B-LOC
+) O
+180 O
+points O
+ 
+2. O
+Renate B-PER
+Goetschl I-PER
+( O
+Austria B-LOC
+) O
+132 O
+ 
+3. O
+Carole B-PER
+Montillet I-PER
+( O
+France B-LOC
+) O
+86 O
+ 
+4. O
+Pernilla B-PER
+Wiberg I-PER
+( O
+Sweden B-LOC
+) O
+75 O
+ 
+5. O
+Heidi B-PER
+Zurbriggen I-PER
+( O
+Switzerland B-LOC
+) O
+69 O
+ 
+6. O
+Regina B-PER
+Haeusl I-PER
+( O
+Germany B-LOC
+) O
+66 O
+ 
+7. O
+Alexandra B-PER
+Meissnitzer I-PER
+( O
+Austria B-LOC
+) O
+65 O
+ 
+8. O
+Isolde B-PER
+Kostner I-PER
+( O
+Italy B-LOC
+) O
+60 O
+ 
+9. O
+Ingeborg B-PER
+Helen I-PER
+Markein I-PER
+( O
+Norway B-LOC
+) O
+58 O
+ 
+10= O
+Megan B-PER
+Gerety I-PER
+( O
+U.S. B-LOC
+) O
+51 O
+ 
+10= O
+Warwara B-PER
+Zelenskaja I-PER
+( O
+Russia B-LOC
+) O
+51 O
+ 
+10= O
+Florence B-PER
+Masnada I-PER
+( O
+France B-LOC
+) O
+51 O
+ 
+13= O
+Picabo B-PER
+Street I-PER
+( O
+U.S. B-LOC
+) O
+50 O
+ 
+13= O
+Stefanie B-PER
+Schuster I-PER
+( O
+Austria B-LOC
+) O
+50 O
+ 
+15. O
+Miriam B-PER
+Vogt I-PER
+( O
+Germany B-LOC
+) O
+47 O
+ 
+16. O
+Bibiana B-PER
+Perez I-PER
+( O
+Italy B-LOC
+) O
+45 O
+ 
+17. O
+Hilde B-PER
+Gerg I-PER
+( O
+Germany B-LOC
+) O
+42 O
+ 
+18. O
+Barbara B-PER
+Merlin I-PER
+( O
+Germany B-LOC
+) O
+38 O
+ 
+19= O
+Kate B-PER
+Pace I-PER
+Lindsay I-PER
+( O
+Canada B-LOC
+) O
+23 O
+ 
+19= O
+Svetlana B-PER
+Gladishiva I-PER
+( O
+Russia B-LOC
+) O
+23 O
+ 
+19= O
+Regine B-PER
+Cavagnoud I-PER
+( O
+France B-LOC
+) O
+23 O
+ 
+Overall O
+women O
+'s O
+World B-MISC
+Cup I-MISC
+standings O
+leaders O
+after O
+ 
+Saturday O
+'s O
+downhill O
+and O
+super O
+G O
+races O
+: O
+ 
+1. O
+Katja B-PER
+Seizinger I-PER
+( O
+Germany B-LOC
+) O
+414 O
+points O
+ 
+2. O
+Pernilla B-PER
+Wiberg I-PER
+( O
+Sweden B-LOC
+) O
+353 O
+ 
+3. O
+Hide B-PER
+Gerg I-PER
+( O
+Germany B-LOC
+) O
+276 O
+ 
+4. O
+Anita B-PER
+Wachter I-PER
+( O
+Austria B-LOC
+) O
+180 O
+ 
+5. O
+Isolde B-PER
+Kostner I-PER
+( O
+Italy B-LOC
+) O
+157 O
+ 
+6. O
+Heidi B-PER
+Zurbriggen I-PER
+( O
+Switzerland B-LOC
+) O
+153 O
+ 
+7. O
+Warwara B-PER
+Zelenskaja I-PER
+( O
+Russia B-LOC
+) O
+151 O
+ 
+8= O
+Renate B-PER
+Goetschl I-PER
+( O
+Austria B-LOC
+) O
+146 O
+ 
+8= O
+Carole B-PER
+Montillet I-PER
+( O
+France B-LOC
+) O
+146 O
+ 
+10. O
+Svetlana B-PER
+Gladishiva I-PER
+( O
+Russia B-LOC
+) O
+137 O
+ 
+11. O
+Florence B-PER
+Masnada I-PER
+( O
+France B-LOC
+) O
+133 O
+ 
+12. O
+Deborah B-PER
+Compagnoni I-PER
+( O
+Italy B-LOC
+) O
+120 O
+ 
+13. O
+Martina B-PER
+Ertl I-PER
+( O
+Germany B-LOC
+) O
+119 O
+ 
+14. O
+Alexandra B-PER
+Meissnitzer I-PER
+( O
+Austria B-LOC
+) O
+118 O
+ 
+15. O
+Urska B-PER
+Horvat I-PER
+( O
+Slovenia B-LOC
+) O
+108 O
+ 
+16= O
+Claudia B-PER
+Riegler I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+100 O
+ 
+16= O
+Sabina B-PER
+Panzanini I-PER
+( O
+Italy B-LOC
+) O
+100 O
+ 
+18. O
+Barbara B-PER
+Merlin I-PER
+( O
+Italy B-LOC
+) O
+92 O
+ 
+19. O
+Stefanie B-PER
+Schuster I-PER
+( O
+Austria B-LOC
+) O
+89 O
+ 
+20. O
+Miriam B-PER
+Vogt I-PER
+( O
+Germany B-LOC
+) O
+76 O
+ 
+Super B-MISC
+G I-MISC
+standings O
+: O
+ 
+1. O
+Pernilla B-PER
+Wiberg I-PER
+( O
+Sweden B-LOC
+) O
+180 O
+ 
+2. O
+Hilde B-PER
+Gerg I-PER
+( O
+Germany B-LOC
+) O
+130 O
+ 
+3. O
+Svetland B-PER
+Gladishiva I-PER
+( O
+Russia B-LOC
+) O
+114 O
+ 
+4. O
+Warwara B-PER
+Zelenskaja I-PER
+( O
+Russia B-LOC
+) O
+100 O
+ 
+5. O
+Florence B-PER
+Masnada I-PER
+( O
+France B-LOC
+) O
+82 O
+ 
+6. O
+Katja B-PER
+Seizinger I-PER
+( O
+Germany B-LOC
+) O
+74 O
+ 
+7. O
+Isolde B-PER
+Kostner I-PER
+( O
+Italy B-LOC
+) O
+65 O
+ 
+8. O
+Carole B-PER
+Montillet I-PER
+( O
+France B-LOC
+) O
+60 O
+ 
+9. O
+Martina B-PER
+Ertl I-PER
+( O
+Germany B-LOC
+) O
+58 O
+ 
+10. O
+Anita B-PER
+Wachter I-PER
+( O
+Austria B-LOC
+) O
+49 O
+ 
+11. O
+Heidi B-PER
+Zurbriggen I-PER
+( O
+Switzerland B-LOC
+) O
+43 O
+ 
+12= O
+Madlen B-PER
+Brigger-Summermatter I-PER
+( O
+Switzerland B-LOC
+) O
+42 O
+ 
+12= O
+Barbara B-PER
+Merlin I-PER
+( O
+Italy B-LOC
+) O
+42 O
+ 
+12= O
+Katharina B-PER
+Gutensohn I-PER
+( O
+Germany B-LOC
+) O
+42 O
+ 
+15. O
+Stefanie B-PER
+Schuster I-PER
+( O
+Austria B-LOC
+) O
+39 O
+ 
+16. O
+Leatitia B-PER
+Dalloz I-PER
+( O
+France B-LOC
+) O
+33 O
+ 
+17. O
+Bibiana B-PER
+Perez I-PER
+( O
+Italy B-LOC
+) O
+30 O
+ 
+18= O
+Miriam B-PER
+Vogt I-PER
+( O
+Germany B-LOC
+) O
+29 O
+ 
+18= O
+Marianne B-PER
+Brechu I-PER
+( O
+France B-LOC
+) O
+29 O
+ 
+20. O
+Alexandra B-PER
+Meissnitzer I-PER
+( O
+Austria B-LOC
+) O
+27 O
+ 
+Nation B-MISC
+'s I-MISC
+Cup I-MISC
+standings O
+: O
+ 
+1. O
+Austria B-LOC
+1,973 O
+points O
+ 
+2. O
+Germany B-LOC
+1,135 O
+ 
+3. O
+Switzerland B-LOC
+972 O
+ 
+4. O
+Italy B-LOC
+887 O
+ 
+5. O
+France B-LOC
+853 O
+ 
+6. O
+Norway B-LOC
+746 O
+ 
+7. O
+Sweden B-LOC
+673 O
+ 
+8. O
+Slovenia B-LOC
+432 O
+ 
+9. O
+Russia B-LOC
+288 O
+ 
+10. O
+United B-LOC
+States I-LOC
+164 O
+ 
+-DOCSTART- O
+ 
+ALPINE O
+SKIING O
+- O
+WOMEN O
+'S O
+WORLD B-MISC
+CUP I-MISC
+DOWNHILL O
+RESULTS O
+. O
+ 
+VAIL B-LOC
+, O
+Colorado B-LOC
+1996-12-07 O
+ 
+Provisional O
+results O
+from O
+Saturday O
+'s O
+women O
+'s O
+World B-MISC
+Cup I-MISC
+downhill O
+race O
+: O
+ 
+1. O
+Renate B-PER
+Goetschl I-PER
+( O
+Austria B-LOC
+) O
+one O
+minute O
+47.71 O
+seconds O
+ 
+2. O
+Katja B-PER
+Seizinger I-PER
+( O
+Germany B-LOC
+) O
+1:48.53 O
+ 
+3. O
+Isolde B-PER
+Kostner I-PER
+( O
+Italy B-LOC
+) O
+1:48.91 O
+ 
+4. O
+Alexandra B-PER
+Meissnitzer I-PER
+( O
+Austria B-LOC
+) O
+1:49.13 O
+ 
+5. O
+Megan B-PER
+Gerety I-PER
+( O
+U.S. B-LOC
+) O
+1:49.26 O
+ 
+6. O
+Miriam B-PER
+Vogt I-PER
+( O
+Germany B-LOC
+) O
+1:49.28 O
+ 
+7. O
+Stefanie B-PER
+Schuster I-PER
+( O
+Austria B-LOC
+) O
+1:49.38 O
+ 
+8. O
+Ingeborg B-PER
+Helen I-PER
+Marken I-PER
+( O
+Norway B-LOC
+) O
+1:49.41 O
+ 
+9. O
+Florence B-PER
+Masnada I-PER
+( O
+France B-LOC
+) O
+1:49.51 O
+ 
+10. O
+Regina B-PER
+Haeusl I-PER
+( O
+Germany B-LOC
+) O
+1:49.53 O
+ 
+11. O
+Heidi B-PER
+Zurbriggen I-PER
+( O
+Switzerland B-LOC
+) O
+1:49.65 O
+ 
+12. O
+Warwara B-PER
+Zelenskaja I-PER
+( O
+Russia B-LOC
+) O
+1:49.66 O
+ 
+13. O
+Barbara B-PER
+Merlin I-PER
+( O
+Italy B-LOC
+) O
+1:49.76 O
+ 
+14. O
+Hilde B-PER
+Gerg I-PER
+( O
+Germany B-LOC
+) O
+1:49.84 O
+ 
+15. O
+Martina B-PER
+Ertl I-PER
+( O
+Germany B-LOC
+) O
+1:49.85 O
+ 
+16. O
+Pernilla B-PER
+Wiberg I-PER
+( O
+Sweden B-LOC
+) O
+1:49.88 O
+ 
+17. O
+Svetlana B-PER
+Gladishiva I-PER
+( O
+Russia B-LOC
+) O
+1:50.03 O
+ 
+18. O
+Anita B-PER
+Wachter I-PER
+( O
+Austria B-LOC
+) O
+1:50.10 O
+ 
+19. O
+Spela B-PER
+Bracun I-PER
+( O
+Slovenia B-LOC
+) O
+1:50.40 O
+ 
+20. O
+Regine B-PER
+Cavagnoud I-PER
+( O
+France B-LOC
+) O
+1:50.51 O
+ 
+21. O
+Kate B-PER
+Pace I-PER
+Lindsay I-PER
+( O
+Canada B-LOC
+) O
+1:50.54 O
+ 
+22. O
+Bibiana B-PER
+Perez I-PER
+( O
+Italy B-LOC
+) O
+1:50.65 O
+ 
+23. O
+Hilary B-PER
+Lindh I-PER
+( O
+United B-LOC
+States I-LOC
+) O
+1:50.69 O
+ 
+24. O
+Catherine B-PER
+Borghi I-PER
+( O
+Switzerland B-LOC
+) O
+1:50.72 O
+ 
+25. O
+Carole B-PER
+Montillet I-PER
+( O
+France B-LOC
+) O
+1:50.91 O
+ 
+26. O
+Brigitte B-PER
+Obermoser I-PER
+( O
+Austria B-LOC
+) O
+1:50.99 O
+ 
+27. O
+Sybille B-PER
+Brauner I-PER
+( O
+Germay B-LOC
+) O
+1:51.04 O
+ 
+28. O
+Grete B-PER
+Stroem I-PER
+( O
+Norway B-LOC
+) O
+1:51.07 O
+ 
+29. O
+Patrizia B-PER
+Bassis I-PER
+( O
+Italy B-LOC
+) O
+1:51.13 O
+ 
+30. O
+Alessandra B-PER
+Merlin I-PER
+( O
+Italy B-LOC
+) O
+1:51.16 O
+ 
+The O
+results O
+were O
+declared O
+official O
+. O
+ 
+-DOCSTART- O
+ 
+NORDIC B-MISC
+SKIING O
+- O
+WORLD B-MISC
+CUP I-MISC
+BIATHLON O
+RESULTS O
+. O
+ 
+OESTERSUND B-LOC
+, O
+Sweden B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+Saturday O
+'s O
+World B-MISC
+Cup I-MISC
+biathlon O
+races O
+: O
+ 
+Men O
+'s O
+10 O
+kms O
+ 
+1. O
+Vadim B-PER
+Sashurin I-PER
+( O
+Belarus B-LOC
+) O
+26 O
+minutes O
+17.2 O
+seconds O
+( O
+no O
+penalty O
+ 
+rounds O
+) O
+ 
+2. O
+Frode B-PER
+Andresen I-PER
+( O
+Norway B-LOC
+) O
+26:17.8 O
+( O
+2 O
+) O
+ 
+3. O
+Ole B-PER
+Einar I-PER
+Bjorndalen I-PER
+( O
+Norway B-LOC
+) O
+26:24.9 O
+( O
+2 O
+) O
+ 
+4. O
+Sven B-PER
+Fischer I-PER
+( O
+Germany B-LOC
+) O
+26:28.2 O
+( O
+1 O
+) O
+ 
+5. O
+Ricco B-PER
+Gross I-PER
+( O
+Germany B-LOC
+) O
+26:33.0 O
+( O
+1 O
+) O
+ 
+World B-MISC
+Cup I-MISC
+standings O
+ 
+1. O
+Fischer B-PER
+( O
+Germany B-LOC
+) O
+82 O
+points O
+ 
+2. O
+Pavel B-PER
+Muslimov I-PER
+( O
+Russia B-LOC
+) O
+82 O
+ 
+3. O
+Sashurin B-PER
+68 O
+. O
+ 
+Women O
+'s O
+7.5 O
+kms O
+ 
+1. O
+Olga B-PER
+Melnik I-PER
+( O
+Russia B-LOC
+) O
+23:13.3 O
+( O
+0 O
+) O
+ 
+2. O
+Svetlana B-PER
+Paramygina I-PER
+( O
+Belorus B-LOC
+) O
+23:58.6 O
+( O
+0 O
+) O
+ 
+3. O
+Gunn B-PER
+Margit I-PER
+Andreassen I-PER
+( O
+Norway B-LOC
+) O
+24:00.4 O
+( O
+0 O
+) O
+ 
+4. O
+Simone B-PER
+Greiner-Petter-Memm I-PER
+( O
+Germany B-LOC
+) O
+24:09.5 O
+( O
+1 O
+) O
+ 
+5. O
+Petra B-PER
+Behle I-PER
+( O
+Germany B-LOC
+) O
+24:15.4 O
+( O
+2 O
+) O
+ 
+World B-MISC
+Cup I-MISC
+standings O
+ 
+1. O
+Behle B-PER
+89 O
+ 
+2. O
+Paramygina B-PER
+79 O
+ 
+3. O
+Greiner-Petter-Memm B-PER
+78 O
+ 
+-DOCSTART- O
+ 
+BOBSLEIGH O
+- O
+WORLD B-MISC
+CUP I-MISC
+TWO-MAN O
+RESULTS O
+. O
+ 
+IGLS B-LOC
+, O
+Austria B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+a O
+World B-MISC
+Cup I-MISC
+two-man O
+bobsleigh O
+event O
+on O
+Saturday O
+: O
+ 
+1. O
+United B-LOC
+States I-LOC
+III O
+( O
+Brian B-PER
+Shimer I-PER
+, O
+Randy B-PER
+Jones I-PER
+) O
+one O
+ 
+minute O
+45.91 O
+seconds O
+( O
+52.90 O
+/ O
+53.01 O
+) O
+ 
+2. O
+Italy B-LOC
+I O
+( O
+Guenther B-PER
+Huber I-PER
+, O
+Antonio B-PER
+Tartaglia I-PER
+) O
+1:45.93 O
+ 
+( O
+52.74 O
+/ O
+53.19 O
+) O
+ 
+3. O
+Canada B-LOC
+I O
+( O
+Pierre B-PER
+Lueders I-PER
+, O
+Dave B-PER
+MacEachern I-PER
+) O
+1:45.94 O
+ 
+( O
+52.76 O
+/ O
+53.18 O
+) O
+ 
+4. O
+German B-MISC
+I O
+( O
+Sepp B-PER
+Dostthaler I-PER
+, O
+Thomas B-PER
+Lebsa I-PER
+) O
+1:45.95 O
+ 
+( O
+52.82 O
+/ O
+53.13 O
+) O
+ 
+5. O
+Switzerland B-LOC
+I O
+( O
+Reto B-PER
+Goetschi I-PER
+, O
+Guido B-PER
+Acklin I-PER
+) O
+1:45.98 O
+ 
+( O
+52.91 O
+/ O
+53.07 O
+) O
+ 
+6. O
+Germany B-LOC
+III O
+( O
+Dirk B-PER
+Wiese I-PER
+, O
+Jakobs B-PER
+Marco I-PER
+) O
+1:46.02 O
+ 
+( O
+52.89 O
+/ O
+53.13 O
+) O
+ 
+7. O
+Czech B-LOC
+Republic I-LOC
+I O
+( O
+Jiri B-PER
+Dzmura I-PER
+, O
+Pavel B-PER
+Polomsky I-PER
+) O
+ 
+1:46.06 O
+( O
+53.01 O
+/ O
+53.05 O
+) O
+ 
+8. O
+Austria B-LOC
+I O
+( O
+Hubert B-PER
+Schoesser I-PER
+, O
+Erwin B-PER
+Arnold I-PER
+) O
+1:46.13 O
+ 
+( O
+52.92 O
+/ O
+53.21 O
+) O
+ 
+9. O
+Britain B-LOC
+I O
+( O
+Sean B-PER
+Olsson I-PER
+, O
+Dean B-PER
+Ward I-PER
+) O
+1:46.26 O
+( O
+52.97/ O
+ 
+53.29 O
+) O
+ 
+10 O
+equal O
+. O
+ 
+United B-LOC
+States I-LOC
+I O
+( O
+Jim B-PER
+Herberich I-PER
+, O
+Garrett B-PER
+Hines I-PER
+) O
+1:46.34 O
+( O
+53.14 O
+/ O
+53.20 O
+) O
+and O
+Austria B-LOC
+III O
+ 
+( O
+Hannes B-PER
+Conti I-PER
+, O
+Georg B-PER
+Kuttner I-PER
+) O
+1:46.34 O
+( O
+53.30/ O
+ 
+53.04). O
+ 
+-DOCSTART- O
+ 
+FREESTYLE O
+SKIING O
+- O
+WORLD B-MISC
+CUP I-MISC
+AERIALS O
+RESULTS O
+. O
+ 
+TIGNES B-LOC
+, O
+France B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+the O
+World B-MISC
+Cup I-MISC
+freestyle O
+skiing O
+aerials O
+competition O
+on O
+Saturday O
+: O
+ 
+Men O
+: O
+ 
+1. O
+Alexis B-PER
+Blanc I-PER
+( O
+France B-LOC
+) O
+238.36 O
+points O
+ 
+2. O
+Sebastien B-PER
+Foucras I-PER
+( O
+France B-LOC
+) O
+223.60 O
+ 
+3. O
+Jeff B-PER
+Bean I-PER
+( O
+Canada B-LOC
+) O
+209.96 O
+ 
+4. O
+Eric B-PER
+Bergoust I-PER
+( O
+U.S B-LOC
+) O
+207.15 O
+ 
+5. O
+Christian B-PER
+Rijavec I-PER
+( O
+Austria B-LOC
+) O
+204.17 O
+ 
+6. O
+Alexandre B-PER
+Mikhailov I-PER
+( O
+Russia B-LOC
+) O
+202.59 O
+ 
+7. O
+Ales B-PER
+Valenta I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+194.02 O
+ 
+8. O
+Andy B-PER
+Capicik I-PER
+( O
+Canada B-LOC
+) O
+193.82 O
+ 
+9. O
+Trace B-PER
+Worthington I-PER
+( O
+U.S. B-LOC
+) O
+192.36 O
+ 
+10. O
+Dmitri B-PER
+Dashinski I-PER
+Belarus B-LOC
+) O
+190.70 O
+ 
+Women O
+: O
+ 
+1. O
+Veronica B-PER
+Brenner I-PER
+( O
+Canada B-LOC
+) O
+170.42 O
+ 
+2. O
+Karin B-PER
+Kuster I-PER
+( O
+Switzerland B-LOC
+) O
+160.55 O
+ 
+3. O
+Evelyne B-PER
+Leu I-PER
+( O
+Switzerland B-LOC
+) O
+160.36 O
+ 
+4. O
+Caroline B-PER
+Olivier I-PER
+( O
+Canada B-LOC
+) O
+157.10 O
+ 
+5. O
+Jacqui B-PER
+Cooper I-PER
+( O
+Australia B-LOC
+) O
+156.52 O
+ 
+6. O
+Marie B-PER
+Lindgren I-PER
+( O
+Sweden B-LOC
+) O
+154.82 O
+ 
+7. O
+Dan B-PER
+Cuo I-PER
+( O
+China B-LOC
+) O
+154.61 O
+ 
+8. O
+Kristie B-PER
+Marshall I-PER
+( O
+Australia B-LOC
+) O
+154.60 O
+ 
+9. O
+Xu B-PER
+Nannan I-PER
+( O
+China B-LOC
+) O
+152.08 O
+ 
+10. O
+Hilde B-PER
+Synnove I-PER
+Lid I-PER
+( O
+Norway B-LOC
+) O
+148.20 O
+ 
+-DOCSTART- O
+ 
+SKI O
+JUMPING O
+- O
+LEADING O
+WORLD B-MISC
+CUP I-MISC
+RESULTS O
+/ O
+STANDINGS O
+. O
+ 
+KUUSAMO B-LOC
+, O
+Finland B-LOC
+1996-12-07 O
+ 
+Leading O
+results O
+in O
+a O
+World B-MISC
+Cup I-MISC
+high O
+hill O
+( O
+120-metre O
+) O
+ski O
+jumping O
+event O
+on O
+Saturday O
+: O
+ 
+1. O
+Takanobu B-PER
+Okabe I-PER
+( O
+Japan B-LOC
+) O
+303.4 O
+points O
+( O
+first O
+jump O
+ 
+145.4 O
+/ O
+second O
+jump O
+158 O
+) O
+ 
+2. O
+Kazuyoshi B-PER
+Funaki I-PER
+( O
+Japan B-LOC
+) O
+295.4 O
+( O
+151.5 O
+/ O
+143.9 O
+) O
+ 
+3. O
+Andreas B-PER
+Goldberger I-PER
+( O
+Austria B-LOC
+) O
+274.4 O
+( O
+144.4 O
+/ O
+130 O
+) O
+ 
+4. O
+Dieter B-PER
+Thoma I-PER
+( O
+Germany B-LOC
+) O
+267 O
+( O
+141.6 O
+/ O
+124.4 O
+) O
+ 
+5. O
+Ari-Pekka B-PER
+Nikkola I-PER
+( O
+Finland B-LOC
+) O
+256.4 O
+( O
+126 O
+/ O
+130.4 O
+) O
+ 
+6. O
+Reinhard B-PER
+Schwarzenberger I-PER
+( O
+Austria B-LOC
+) O
+252.6 O
+( O
+119.7 O
+/ O
+132.9 O
+) O
+ 
+7. O
+Noriaki B-PER
+Kasai I-PER
+( O
+Japan B-LOC
+) O
+242 O
+( O
+124.2 O
+/ O
+117.8 O
+) O
+ 
+8. O
+Hiroya B-PER
+Saitoh I-PER
+( O
+Japan B-LOC
+) O
+234.7 O
+( O
+124.6 O
+/ O
+110.1 O
+) O
+ 
+9. O
+Jani B-PER
+Soininen I-PER
+( O
+Finland B-LOC
+) O
+231.5 O
+( O
+115 O
+/ O
+116.5 O
+) O
+ 
+10. O
+Kristian B-PER
+Brenden I-PER
+( O
+Norway B-LOC
+) O
+228.1 O
+( O
+129.4 O
+/ O
+98.7 O
+) O
+ 
+Leading O
+World B-MISC
+Cup I-MISC
+standings O
+( O
+after O
+three O
+events O
+) O
+: O
+ 
+1. O
+Thoma B-PER
+210 O
+points O
+ 
+2. O
+Brenden B-PER
+206 O
+ 
+3. O
+Goldberger B-PER
+160 O
+ 
+4. O
+Okabe B-PER
+146 O
+ 
+5. O
+Funaki B-PER
+143 O
+ 
+6. O
+Saitoh B-PER
+121 O
+ 
+7. O
+Espen B-PER
+Bredesen I-PER
+( O
+Norway B-LOC
+) O
+112 O
+ 
+8. O
+Nikkola B-PER
+101 O
+ 
+9. O
+Soininen B-PER
+85 O
+ 
+10. O
+Primoz B-PER
+Peterka I-PER
+( O
+Slovakia B-LOC
+) O
+76 O
+ 
+-DOCSTART- O
+ 
+BADMINTON O
+- O
+WORLD B-MISC
+GRAND I-MISC
+PRIX I-MISC
+SEMIFINAL O
+RESULTS O
+. O
+ 
+TEMBAU B-LOC
+DENPASAR I-LOC
+, O
+Bali B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+semifinals O
+at O
+the O
+World B-MISC
+Grand I-MISC
+Prix I-MISC
+finals O
+on O
+Saturday O
+: O
+ 
+Men O
+'s O
+singles O
+ 
+Fung B-PER
+Permadi I-PER
+( O
+Taiwan B-LOC
+) O
+beat O
+Indra B-PER
+Wijaya I-PER
+( O
+Indonesia B-LOC
+) O
+15-6 O
+15-8 O
+ 
+Sun B-PER
+Jun I-PER
+( O
+China B-LOC
+) O
+beat O
+Allan B-PER
+Budi I-PER
+Kusuma I-PER
+( O
+Indonesia B-LOC
+) O
+15-9 O
+15-10 O
+ 
+Women O
+'s O
+singles O
+ 
+Susi B-PER
+Susanti I-PER
+( O
+Indonesia B-LOC
+) O
+beat O
+Camilla B-PER
+Martin I-PER
+( O
+Denmark B-LOC
+) O
+11-1 O
+ 
+11-3 O
+ 
+Ye B-PER
+Zhaoying I-PER
+( O
+China B-LOC
+) O
+beat O
+Gong B-PER
+Zhichao I-PER
+( O
+China B-LOC
+) O
+11-8 O
+11-3 O
+ 
+-DOCSTART- O
+ 
+SPEED O
+SKATING O
+- O
+RESULTS O
+OF O
+WORLD B-MISC
+CUP I-MISC
+SPEED O
+SKATING O
+RACES O
+. O
+ 
+CHONJU B-LOC
+, O
+South B-LOC
+Korea I-LOC
+1996-12-07 O
+ 
+Results O
+on O
+the O
+first O
+day O
+of O
+the O
+World B-MISC
+Cup I-MISC
+speed O
+skating O
+races O
+here O
+on O
+Saturday O
+. O
+ 
+Men O
+'s O
+500 O
+metres O
+first O
+round O
+: O
+1 O
+. O
+ 
+Horii B-PER
+Manabu I-PER
+( O
+Japan B-LOC
+) O
+37.23 O
+seconds O
+; O
+2 O
+. O
+ 
+Jaegal B-PER
+Sung-Yeol I-PER
+( O
+South B-LOC
+Korea I-LOC
+) O
+37.46 O
+; O
+3 O
+. O
+ 
+Grunde B-PER
+Njos I-PER
+( O
+Norway B-LOC
+) O
+37.49 O
+; O
+4 O
+. O
+ 
+Shimizu B-PER
+Hiroyasu I-PER
+( O
+Japan B-LOC
+) O
+37.68 O
+; O
+5 O
+. O
+ 
+Sergey B-PER
+Klevchenya I-PER
+( O
+Russia B-LOC
+) O
+37.86 O
+; O
+6 O
+. O
+ 
+Yamakage B-PER
+Hiroaki I-PER
+( O
+Japan B-LOC
+) O
+37.93 O
+; O
+7 O
+. O
+ 
+Casey B-PER
+Fitzrandolph I-PER
+( O
+US B-LOC
+) O
+37.97 O
+; O
+8 O
+. O
+ 
+Sylvain B-PER
+Bouchard I-PER
+( O
+Canada B-LOC
+) O
+38.00 O
+; O
+9 O
+. O
+ 
+Kim B-PER
+Yoon-man I-PER
+( O
+South B-LOC
+Korea I-LOC
+) O
+38.05 O
+; O
+10 O
+. O
+ 
+Inoue B-PER
+Junichi I-PER
+( O
+Japan B-LOC
+) O
+38.08 O
+. O
+ 
+Women O
+'s O
+500 O
+metres O
+first O
+round O
+: O
+1 O
+. O
+ 
+Xuc B-PER
+Rulhong I-PER
+( O
+China B-LOC
+) O
+40.78 O
+; O
+2 O
+. O
+ 
+Svetlana B-PER
+Jhurova I-PER
+( O
+Russia B-LOC
+) O
+41.08 O
+; O
+3 O
+. O
+ 
+Franziska B-PER
+Schenk I-PER
+( O
+Germany B-LOC
+) O
+41.13 O
+; O
+4 O
+. O
+ 
+Okazaki B-PER
+Tomomi I-PER
+( O
+Japan B-LOC
+) O
+41.19 O
+; O
+5 O
+. O
+ 
+Shimazaki B-PER
+Kyoko I-PER
+( O
+Japan B-LOC
+) O
+41.45 O
+; O
+6 O
+. O
+ 
+Marianne B-PER
+Timmer I-PER
+( O
+Netherlands B-LOC
+) O
+41.58 O
+; O
+7 O
+. O
+ 
+Jin B-PER
+Hua I-PER
+( O
+China B-LOC
+) O
+41.59 O
+; O
+8 O
+. O
+ 
+Alena B-PER
+Koroleva I-PER
+( O
+Russia B-LOC
+) O
+41.64 O
+; O
+9 O
+. O
+ 
+Chris B-PER
+Witty I-PER
+( O
+US B-LOC
+) O
+41.75 O
+; O
+10 O
+. O
+ 
+Anke B-PER
+Baler I-PER
+( O
+Germany B-LOC
+) O
+41.76 O
+. O
+ 
+Men O
+'s O
+1,000 O
+metres O
+first O
+round O
+: O
+ 
+1. O
+Sylvain B-PER
+Bouchard I-PER
+( O
+Canada B-LOC
+) O
+1 O
+minute O
+16.24 O
+seconds O
+ 
+2. O
+Sergey B-PER
+Klevchenya I-PER
+( O
+Russia B-LOC
+) O
+1:16.31 O
+ 
+3. O
+Jan B-PER
+Bos I-PER
+( O
+Netherlands B-LOC
+) O
+1:16.38 O
+ 
+4. O
+Grunde B-PER
+Njos I-PER
+( O
+Norway B-LOC
+) O
+1:16.44 O
+ 
+5. O
+Lee B-PER
+Kyou-hyuk I-PER
+( O
+South B-LOC
+Korea I-LOC
+) O
+1:16.47 O
+ 
+6. O
+Inoue B-PER
+Junichi I-PER
+( O
+Japan B-LOC
+) O
+1:16.61 O
+ 
+7. O
+Gerard B-PER
+Van I-PER
+Velde I-PER
+( O
+Netherlands B-LOC
+) O
+1:16.63 O
+ 
+8. O
+Kim B-PER
+Yoon-man I-PER
+( O
+South B-LOC
+Korea I-LOC
+) O
+1:16.75 O
+ 
+9. O
+Jeremy B-PER
+Wotherspoon I-PER
+( O
+Canada B-LOC
+) O
+1:16.75 O
+ 
+10. O
+Miyabe B-PER
+Yasunori I-PER
+( O
+Japan B-LOC
+) O
+1:16.86 O
+ 
+Women O
+'s O
+1,000 O
+metres O
+first O
+round O
+: O
+ 
+1. O
+Franziska B-PER
+Schenk I-PER
+( O
+Germany B-LOC
+) O
+1:23.17 O
+ 
+2. O
+Kusunose B-PER
+Shiho I-PER
+( O
+Japan B-LOC
+) O
+1:24.77 O
+ 
+3. O
+Marianne B-PER
+Timmer I-PER
+( O
+Netherlands B-LOC
+) O
+1:24.86 O
+ 
+4. O
+Anka B-PER
+Baier I-PER
+( O
+Germany B-LOC
+) O
+1:25.16 O
+ 
+5. O
+Becky B-PER
+Sundstrom I-PER
+( O
+U.S. B-LOC
+) O
+1:25.39 O
+ 
+6. O
+Shimazaki B-PER
+Kyoko I-PER
+( O
+Japan B-LOC
+) O
+1:25.51 O
+ 
+7. O
+Oksana B-PER
+Ravllova I-PER
+( O
+Russia B-LOC
+) O
+1:25.55 O
+ 
+8. O
+Sammiya B-PER
+Eriko I-PER
+( O
+Japan B-LOC
+) O
+1:25.79 O
+ 
+9. O
+Chris B-PER
+Witty I-PER
+( O
+U.S. B-LOC
+) O
+1:25.85 O
+ 
+10. O
+Xue B-PER
+Rulhong I-PER
+( O
+China B-LOC
+) O
+1:25.89 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+LEADING O
+SCOTTISH B-MISC
+PREMIER O
+DIVISION O
+SCORERS O
+. O
+ 
+GLASGOW B-LOC
+1996-12-07 O
+ 
+Leading O
+goalscorers O
+in O
+the O
+Scottish B-MISC
+premier O
+division O
+after O
+Saturday O
+'s O
+matches O
+: O
+ 
+10 O
+- O
+Billy B-PER
+Dodds I-PER
+( O
+Aberdeen B-ORG
+) O
+, O
+Pierre B-PER
+Van I-PER
+Hooydonk I-PER
+( O
+Celtic B-ORG
+) O
+ 
+9 O
+- O
+Paul B-PER
+Gascoigne I-PER
+( O
+Rangers B-ORG
+) O
+ 
+7 O
+- O
+Paul B-PER
+Wright I-PER
+( O
+Kilmarnock B-ORG
+) O
+, O
+Ally B-PER
+McCoist I-PER
+( O
+Rangers B-ORG
+) O
+ 
+6 O
+- O
+Andreas B-PER
+Thom I-PER
+( O
+Celtic B-ORG
+) O
+, O
+Dean B-PER
+Windass I-PER
+( O
+Aberdeen B-ORG
+) O
+, O
+ 
+Brian B-PER
+Laudrup I-PER
+( O
+Rangers B-ORG
+) O
+, O
+Darren B-PER
+Jackson I-PER
+ 
+( O
+Hibernian B-ORG
+) O
+ 
+5 O
+- O
+Peter B-PER
+van I-PER
+Vossen I-PER
+( O
+Rangers B-ORG
+) O
+, O
+Gerry B-PER
+Britton I-PER
+ 
+( O
+Dunfermline B-ORG
+) O
+, O
+Colin B-PER
+Cameron I-PER
+( O
+Hearts B-ORG
+) O
+, O
+Robert B-PER
+Winters I-PER
+( O
+Dundee B-ORG
+United I-ORG
+) O
+, O
+Paolo B-PER
+Di I-PER
+Canio I-PER
+( O
+Celtic B-ORG
+) O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+LEADING O
+ENGLISH B-MISC
+GOALSCORERS O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Leading O
+goalscorers O
+in O
+the O
+English B-MISC
+premier O
+league O
+after O
+Saturday O
+'s O
+matches O
+: O
+ 
+13 O
+- O
+Ian B-PER
+Wright I-PER
+( O
+Arsenal B-ORG
+) O
+ 
+9 O
+- O
+Fabrizio B-PER
+Ravanelli I-PER
+( O
+Middlesbrough B-ORG
+) O
+, O
+Alan B-PER
+Shearer I-PER
+ 
+( O
+Newcastle B-ORG
+) O
+ 
+8 O
+- O
+Matthew B-PER
+Le I-PER
+Tissier I-PER
+( O
+Southampton B-ORG
+) O
+, O
+Dwight B-PER
+Yorke I-PER
+( O
+Aston B-ORG
+Villa I-ORG
+) O
+, O
+Les B-PER
+Ferdinand I-PER
+( O
+Newcastle B-ORG
+) O
+, O
+Efan B-PER
+Ekoku I-PER
+( O
+Wimbledon B-ORG
+) O
+, O
+ 
+Gianluca B-PER
+Vialli I-PER
+( O
+Chelsea B-ORG
+) O
+ 
+7 O
+- O
+Robbie B-PER
+Earle I-PER
+( O
+Wimbledon B-ORG
+) O
+, O
+Les B-PER
+Ferdinand I-PER
+( O
+Newcastle B-ORG
+) O
+ 
+6 O
+- O
+Marcus B-PER
+Gayle I-PER
+( O
+Wimbledon B-ORG
+) O
+, O
+Gary B-PER
+Speed I-PER
+( O
+Everton B-ORG
+) O
+, O
+Chris B-PER
+Sutton I-PER
+( O
+Blackburn B-ORG
+) O
+ 
+5 O
+- O
+Robbie B-PER
+Fowler I-PER
+( O
+Liverpool B-ORG
+) O
+, O
+Steve B-PER
+McManaman I-PER
+( O
+Liverpool B-ORG
+) O
+ 
+4 O
+- O
+Peter B-PER
+Beardsley I-PER
+( O
+Newcastle B-ORG
+) O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+NORTHERN B-LOC
+IRELAND I-LOC
+PREMIER O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+Northern B-LOC
+Ireland I-LOC
+premier O
+division O
+matches O
+on O
+Saturday O
+: O
+ 
+Ards B-ORG
+0 O
+Crusaders B-ORG
+0 O
+ 
+Cliftonville B-ORG
+1 O
+Portadown B-ORG
+1 O
+ 
+Glenavon B-ORG
+2 O
+Linfield B-ORG
+1 O
+ 
+Glentoran B-ORG
+1 O
+Coleraine B-ORG
+0 O
+ 
+Standings O
+( O
+tabulated O
+- O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+ 
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+Coleraine B-ORG
+10 O
+7 O
+1 O
+2 O
+18 O
+11 O
+22 O
+ 
+Linfield B-ORG
+10 O
+4 O
+3 O
+3 O
+13 O
+10 O
+15 O
+ 
+Crusaders B-ORG
+10 O
+3 O
+4 O
+3 O
+11 O
+9 O
+13 O
+ 
+Glenavon B-ORG
+10 O
+3 O
+4 O
+3 O
+15 O
+14 O
+13 O
+ 
+Glentoran B-ORG
+10 O
+3 O
+3 O
+4 O
+18 O
+18 O
+12 O
+ 
+Portadown B-ORG
+9 O
+3 O
+3 O
+3 O
+11 O
+12 O
+12 O
+ 
+Ards B-ORG
+10 O
+3 O
+2 O
+5 O
+12 O
+17 O
+11 O
+ 
+Cliftonville B-ORG
+9 O
+1 O
+4 O
+4 O
+5 O
+12 O
+7 O
+ 
+-DOCSTART- O
+ 
+RUGBY B-ORG
+UNION I-ORG
+- O
+BRITISH B-MISC
+RESULTS O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+British B-MISC
+rugby O
+union O
+matches O
+on O
+Saturday O
+: O
+ 
+Pilkington B-MISC
+Cup I-MISC
+fourth O
+round O
+ 
+Reading B-ORG
+50 O
+Widnes B-ORG
+3 O
+ 
+English B-MISC
+division O
+one O
+ 
+Bath B-ORG
+35 O
+Harlequins B-ORG
+20 O
+ 
+Gloucester B-ORG
+29 O
+London B-ORG
+Irish I-ORG
+19 O
+ 
+Orrell B-ORG
+22 O
+West B-ORG
+Hartlepool I-ORG
+15 O
+ 
+Wasps B-ORG
+15 O
+Bristol B-ORG
+13 O
+ 
+Welsh B-MISC
+division O
+one O
+ 
+Caerphilly B-ORG
+20 O
+Cardiff B-ORG
+34 O
+ 
+Llanelli B-ORG
+97 O
+Newbridge B-ORG
+10 O
+ 
+Newport B-ORG
+45 O
+Dunvant B-ORG
+22 O
+ 
+Pontypridd B-ORG
+53 O
+Bridgend B-ORG
+9 O
+ 
+Swansea B-ORG
+49 O
+Neath B-ORG
+10 O
+ 
+Treorchy B-ORG
+13 O
+Ebbw B-ORG
+Vale I-ORG
+17 O
+ 
+Scottish B-MISC
+division O
+one O
+ 
+Boroughmuir B-ORG
+31 O
+Watsonians B-ORG
+35 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+SCOTTISH B-MISC
+PREMIER O
+DIVISION O
+SUMMARIES O
+. O
+ 
+GLASGOW B-LOC
+1996-12-07 O
+ 
+Summaries O
+of O
+Scottish B-MISC
+premier O
+division O
+matches O
+played O
+on O
+Saturday O
+: O
+ 
+Dunfermline B-ORG
+2 O
+( O
+Millar B-PER
+43 O
+, O
+46 O
+penalty O
+) O
+Aberdeen B-ORG
+3 O
+( O
+Miller B-PER
+10 O
+, O
+Rowson B-PER
+55 O
+, O
+Windass B-PER
+78 O
+) O
+. O
+ 
+Halftime O
+1-1 O
+. O
+ 
+Attendance O
+: O
+5,465 O
+ 
+Hearts B-ORG
+0 O
+Raith B-ORG
+0 O
+. O
+ 
+10,719 O
+ 
+Kilmarnock B-ORG
+0 O
+Dundee B-ORG
+United I-ORG
+2 O
+( O
+Olafsson B-PER
+22 O
+, O
+51 O
+) O
+. O
+ 
+0-1 O
+. O
+ 
+5,812 O
+ 
+Motherwell B-ORG
+2 O
+( O
+Davies B-PER
+39 O
+, O
+Ross B-PER
+89 O
+) O
+Celtic B-ORG
+1 O
+( O
+Hay B-PER
+83 O
+) O
+. O
+ 
+1-0 O
+. O
+ 
+11,589 O
+ 
+Rangers B-ORG
+4 O
+( O
+Ferguson B-PER
+34 O
+, O
+McCoist B-PER
+71 O
+74 O
+, O
+Laudrup B-PER
+83 O
+) O
+Hibernian B-ORG
+3 O
+( O
+Wright B-PER
+21 O
+, O
+Jackson B-PER
+41 O
+, O
+McGinlay B-PER
+86 O
+) O
+. O
+ 
+1-2 O
+. O
+ 
+48,053 O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ENGLISH B-MISC
+PREMIER O
+LEAGUE O
+SUMMARIES O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Summaries O
+of O
+English B-MISC
+premier O
+league O
+matches O
+on O
+Saturday O
+: O
+ 
+Arsenal B-ORG
+2 O
+( O
+Adams B-PER
+45 O
+, O
+Vieira B-PER
+90 O
+) O
+Derby B-ORG
+2 O
+( O
+Sturridge B-PER
+62 O
+, O
+Powell B-PER
+ 
+71 O
+) O
+. O
+ 
+Halftime O
+1-0 O
+. O
+ 
+Attendance O
+: O
+38,018 O
+ 
+Chelsea B-ORG
+2 O
+( O
+Zola B-PER
+12 O
+, O
+Vialli B-PER
+55 O
+) O
+Everton B-ORG
+2 O
+( O
+Branch B-PER
+17 O
+, O
+ 
+Kanchelskis B-PER
+28 O
+) O
+. O
+ 
+1-2 O
+. O
+ 
+28,418 O
+ 
+Coventry B-ORG
+1 O
+( O
+Whelan B-PER
+60 O
+) O
+Tottenham B-ORG
+2 O
+( O
+Sheringham B-PER
+27 O
+, O
+Sinton B-PER
+75 O
+) O
+. O
+ 
+0-1 O
+. O
+ 
+19,675 O
+ 
+Leicester B-ORG
+1 O
+( O
+Marshall B-PER
+78 O
+) O
+Blackburn B-ORG
+1 O
+( O
+Sutton B-PER
+34 O
+) O
+. O
+ 
+0-1 O
+. O
+ 
+19,306 O
+ 
+Liverpool B-ORG
+0 O
+Sheffield B-ORG
+Wednesday I-ORG
+1 O
+( O
+Whittingham B-PER
+22 O
+) O
+. O
+ 
+0-1 O
+. O
+ 
+39,507 O
+ 
+Middlesbrough B-ORG
+0 O
+Leeds B-ORG
+0 O
+. O
+ 
+30,018 O
+ 
+Southampton B-ORG
+0 O
+Aston B-ORG
+Villa I-ORG
+1 O
+( O
+Townsend B-PER
+34 O
+) O
+. O
+ 
+0-1 O
+. O
+ 
+15,232 O
+ 
+Sunderland B-ORG
+1 O
+( O
+Melville B-PER
+83 O
+) O
+Wimbledon B-ORG
+3 O
+( O
+Ekoku B-PER
+8 O
+, O
+29 O
+, O
+Holdsworth B-PER
+ 
+89 O
+) O
+. O
+ 
+0-2 O
+. O
+ 
+19,672 O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+SCOTTISH B-MISC
+LEAGUE O
+STANDINGS O
+. O
+ 
+GLASGOW B-LOC
+1996-12-07 O
+ 
+Scottish B-MISC
+league O
+standings O
+after O
+Saturday O
+'s O
+matches O
+( O
+tabulated O
+- O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+ 
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+Premier O
+division O
+ 
+Rangers B-ORG
+14 O
+11 O
+2 O
+1 O
+35 O
+12 O
+35 O
+ 
+Celtic B-ORG
+14 O
+8 O
+3 O
+3 O
+32 O
+15 O
+27 O
+ 
+Aberdeen B-ORG
+15 O
+7 O
+4 O
+4 O
+28 O
+19 O
+25 O
+ 
+Hearts B-ORG
+15 O
+5 O
+6 O
+4 O
+18 O
+19 O
+21 O
+ 
+Hibernian B-ORG
+15 O
+5 O
+3 O
+7 O
+16 O
+25 O
+18 O
+ 
+Dundee B-ORG
+United I-ORG
+15 O
+4 O
+5 O
+6 O
+17 O
+17 O
+17 O
+ 
+Motherwell B-ORG
+15 O
+4 O
+5 O
+6 O
+17 O
+23 O
+17 O
+ 
+Dunfermline B-ORG
+14 O
+4 O
+5 O
+5 O
+19 O
+27 O
+17 O
+ 
+Raith B-ORG
+15 O
+3 O
+3 O
+9 O
+14 O
+27 O
+12 O
+ 
+Kilmarnock B-ORG
+14 O
+3 O
+2 O
+9 O
+17 O
+29 O
+11 O
+ 
+Division O
+One O
+ 
+St B-ORG
+Johnstone I-ORG
+17 O
+12 O
+2 O
+3 O
+36 O
+8 O
+38 O
+ 
+Falkirk B-ORG
+17 O
+9 O
+2 O
+6 O
+18 O
+15 O
+29 O
+ 
+Airdrieonians B-ORG
+16 O
+6 O
+8 O
+2 O
+26 O
+16 O
+26 O
+ 
+Dundee B-ORG
+16 O
+7 O
+5 O
+4 O
+12 O
+8 O
+26 O
+ 
+Partick B-ORG
+16 O
+6 O
+6 O
+4 O
+23 O
+16 O
+24 O
+ 
+St B-ORG
+Mirren I-ORG
+16 O
+7 O
+2 O
+7 O
+22 O
+21 O
+23 O
+ 
+Greenock B-ORG
+Morton I-ORG
+16 O
+6 O
+4 O
+6 O
+17 O
+16 O
+22 O
+ 
+Clydebank B-ORG
+16 O
+4 O
+2 O
+10 O
+11 O
+25 O
+14 O
+ 
+Stirling B-ORG
+16 O
+3 O
+3 O
+10 O
+18 O
+33 O
+12 O
+ 
+East B-ORG
+Fife I-ORG
+14 O
+1 O
+4 O
+9 O
+10 O
+35 O
+7 O
+ 
+Division O
+Two O
+ 
+Ayr B-ORG
+16 O
+11 O
+2 O
+3 O
+30 O
+18 O
+35 O
+ 
+Livingston B-ORG
+16 O
+10 O
+4 O
+2 O
+27 O
+13 O
+34 O
+ 
+Hamilton B-ORG
+15 O
+9 O
+4 O
+2 O
+31 O
+11 O
+31 O
+ 
+Clyde B-ORG
+15 O
+6 O
+4 O
+5 O
+21 O
+20 O
+22 O
+ 
+Queen B-ORG
+of I-ORG
+South I-ORG
+16 O
+6 O
+4 O
+6 O
+24 O
+27 O
+22 O
+ 
+Stenhousemuir B-ORG
+15 O
+4 O
+5 O
+6 O
+18 O
+12 O
+17 O
+ 
+Stranraer B-ORG
+15 O
+5 O
+2 O
+8 O
+13 O
+21 O
+17 O
+ 
+Dumbarton B-ORG
+16 O
+4 O
+4 O
+8 O
+18 O
+29 O
+16 O
+ 
+Brechin B-ORG
+16 O
+3 O
+6 O
+7 O
+14 O
+20 O
+15 O
+ 
+Berwick B-ORG
+16 O
+1 O
+3 O
+12 O
+16 O
+41 O
+6 O
+ 
+Division O
+Three O
+ 
+Montrose B-ORG
+17 O
+9 O
+3 O
+5 O
+30 O
+25 O
+30 O
+ 
+Inverness B-ORG
+Thistle I-ORG
+16 O
+8 O
+5 O
+3 O
+28 O
+20 O
+29 O
+ 
+Ross B-ORG
+County I-ORG
+17 O
+8 O
+3 O
+6 O
+27 O
+23 O
+27 O
+ 
+Alloa B-ORG
+16 O
+7 O
+4 O
+5 O
+24 O
+21 O
+25 O
+ 
+Cowdenbeath B-ORG
+15 O
+7 O
+3 O
+5 O
+22 O
+16 O
+24 O
+ 
+Albion B-ORG
+16 O
+6 O
+6 O
+4 O
+21 O
+17 O
+24 O
+ 
+Forfar B-ORG
+15 O
+6 O
+4 O
+5 O
+26 O
+24 O
+22 O
+ 
+Queen B-ORG
+'s I-ORG
+Park I-ORG
+16 O
+3 O
+5 O
+8 O
+20 O
+30 O
+14 O
+ 
+Arbroath B-ORG
+16 O
+2 O
+6 O
+8 O
+12 O
+23 O
+12 O
+ 
+East B-ORG
+Stirling I-ORG
+16 O
+2 O
+5 O
+9 O
+14 O
+25 O
+11 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ENGLISH B-MISC
+LEAGUE O
+STANDINGS O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Standings O
+in O
+English B-MISC
+league O
+soccer O
+after O
+Saturday O
+'s O
+matches O
+( O
+tabulated O
+- O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+ 
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+Premier O
+league O
+ 
+Arsenal B-ORG
+17 O
+10 O
+5 O
+2 O
+34 O
+16 O
+35 O
+ 
+Wimbledon B-ORG
+16 O
+9 O
+4 O
+3 O
+29 O
+17 O
+31 O
+ 
+Liverpool B-ORG
+16 O
+9 O
+4 O
+3 O
+26 O
+14 O
+31 O
+ 
+Aston B-ORG
+Villa I-ORG
+17 O
+9 O
+3 O
+5 O
+22 O
+15 O
+30 O
+ 
+Newcastle B-ORG
+15 O
+9 O
+2 O
+4 O
+26 O
+17 O
+29 O
+ 
+Manchester B-ORG
+United I-ORG
+15 O
+7 O
+5 O
+3 O
+29 O
+22 O
+26 O
+ 
+Chelsea B-ORG
+16 O
+6 O
+7 O
+3 O
+25 O
+23 O
+25 O
+ 
+Everton B-ORG
+16 O
+6 O
+6 O
+4 O
+25 O
+20 O
+24 O
+ 
+Sheffield B-ORG
+Wednesday I-ORG
+16 O
+6 O
+6 O
+4 O
+17 O
+18 O
+24 O
+ 
+Tottenham B-ORG
+16 O
+7 O
+2 O
+7 O
+17 O
+17 O
+23 O
+ 
+Derby B-ORG
+16 O
+5 O
+7 O
+4 O
+19 O
+19 O
+22 O
+ 
+Leicester B-ORG
+17 O
+6 O
+3 O
+8 O
+17 O
+22 O
+21 O
+ 
+Leeds B-ORG
+16 O
+6 O
+2 O
+8 O
+15 O
+20 O
+20 O
+ 
+Sunderland B-ORG
+16 O
+4 O
+5 O
+7 O
+14 O
+21 O
+17 O
+ 
+West B-ORG
+Ham I-ORG
+16 O
+4 O
+5 O
+7 O
+13 O
+20 O
+17 O
+ 
+Middlesbrough B-ORG
+17 O
+3 O
+6 O
+8 O
+20 O
+28 O
+15 O
+ 
+Blackburn B-ORG
+16 O
+2 O
+7 O
+7 O
+16 O
+21 O
+13 O
+ 
+Southampton B-ORG
+17 O
+3 O
+4 O
+10 O
+24 O
+32 O
+13 O
+ 
+Coventry B-ORG
+16 O
+1 O
+7 O
+8 O
+10 O
+23 O
+10 O
+ 
+Nottingham B-ORG
+Forest I-ORG
+15 O
+1 O
+6 O
+8 O
+12 O
+25 O
+9 O
+ 
+Division O
+One O
+ 
+Bolton B-ORG
+21 O
+11 O
+8 O
+2 O
+43 O
+28 O
+41 O
+ 
+Sheffield B-ORG
+United I-ORG
+21 O
+11 O
+6 O
+4 O
+38 O
+20 O
+39 O
+ 
+Barnsley B-ORG
+21 O
+10 O
+8 O
+3 O
+38 O
+26 O
+38 O
+ 
+Crystal B-ORG
+Palace I-ORG
+21 O
+9 O
+8 O
+4 O
+46 O
+22 O
+35 O
+ 
+Wolverhampton B-ORG
+21 O
+9 O
+6 O
+6 O
+29 O
+21 O
+33 O
+ 
+Tranmere B-ORG
+22 O
+9 O
+5 O
+8 O
+31 O
+26 O
+32 O
+ 
+Norwich B-ORG
+20 O
+9 O
+5 O
+6 O
+27 O
+21 O
+32 O
+ 
+Birmingham B-ORG
+22 O
+8 O
+8 O
+6 O
+23 O
+21 O
+32 O
+ 
+Oxford B-ORG
+22 O
+8 O
+6 O
+8 O
+27 O
+21 O
+30 O
+ 
+Stoke B-ORG
+20 O
+8 O
+6 O
+6 O
+27 O
+30 O
+30 O
+ 
+Swindon B-ORG
+22 O
+9 O
+2 O
+11 O
+32 O
+28 O
+29 O
+ 
+Charlton B-ORG
+21 O
+9 O
+2 O
+10 O
+23 O
+29 O
+29 O
+ 
+Huddersfield B-ORG
+22 O
+7 O
+7 O
+8 O
+25 O
+28 O
+28 O
+ 
+Queens B-ORG
+Park I-ORG
+Rangers I-ORG
+22 O
+7 O
+7 O
+8 O
+25 O
+28 O
+28 O
+ 
+Port B-ORG
+Vale I-ORG
+22 O
+6 O
+10 O
+6 O
+19 O
+22 O
+28 O
+ 
+Ipswich B-ORG
+22 O
+6 O
+8 O
+8 O
+27 O
+32 O
+26 O
+ 
+Manchester B-ORG
+City I-ORG
+22 O
+8 O
+2 O
+12 O
+26 O
+35 O
+26 O
+ 
+Portsmouth B-ORG
+22 O
+7 O
+5 O
+10 O
+25 O
+29 O
+26 O
+ 
+Reading B-ORG
+22 O
+7 O
+5 O
+10 O
+25 O
+33 O
+26 O
+ 
+West B-ORG
+Bromwich I-ORG
+20 O
+5 O
+9 O
+6 O
+26 O
+31 O
+24 O
+ 
+Southend B-ORG
+22 O
+5 O
+9 O
+8 O
+23 O
+36 O
+24 O
+ 
+Grimsby B-ORG
+22 O
+5 O
+6 O
+11 O
+24 O
+41 O
+21 O
+ 
+Bradford B-ORG
+22 O
+5 O
+6 O
+11 O
+21 O
+37 O
+21 O
+ 
+Oldham B-ORG
+22 O
+4 O
+8 O
+10 O
+23 O
+28 O
+20 O
+ 
+Division O
+Two O
+ 
+Brentford B-ORG
+22 O
+11 O
+7 O
+4 O
+35 O
+23 O
+40 O
+ 
+Millwall B-ORG
+22 O
+11 O
+7 O
+4 O
+32 O
+22 O
+40 O
+ 
+Bury B-ORG
+21 O
+11 O
+6 O
+4 O
+33 O
+20 O
+39 O
+ 
+Luton B-ORG
+21 O
+11 O
+4 O
+6 O
+34 O
+25 O
+37 O
+ 
+Burnley B-ORG
+22 O
+11 O
+4 O
+7 O
+30 O
+22 O
+37 O
+ 
+Chesterfield B-ORG
+21 O
+11 O
+4 O
+6 O
+22 O
+16 O
+37 O
+ 
+Stockport B-ORG
+22 O
+10 O
+6 O
+6 O
+29 O
+25 O
+36 O
+ 
+Watford B-ORG
+21 O
+9 O
+9 O
+3 O
+24 O
+18 O
+36 O
+ 
+Wrexham B-ORG
+20 O
+9 O
+8 O
+3 O
+27 O
+22 O
+35 O
+ 
+Crewe B-ORG
+21 O
+11 O
+1 O
+9 O
+29 O
+21 O
+34 O
+ 
+Bristol B-ORG
+City I-ORG
+21 O
+9 O
+6 O
+6 O
+36 O
+23 O
+33 O
+ 
+Bristol B-ORG
+Rovers I-ORG
+22 O
+7 O
+7 O
+8 O
+22 O
+23 O
+28 O
+ 
+Shrewsbury B-ORG
+22 O
+7 O
+6 O
+9 O
+26 O
+33 O
+27 O
+ 
+York B-ORG
+21 O
+7 O
+5 O
+9 O
+23 O
+29 O
+26 O
+ 
+Blackpool B-ORG
+22 O
+5 O
+10 O
+7 O
+22 O
+24 O
+25 O
+ 
+Walsall B-ORG
+21 O
+7 O
+4 O
+10 O
+21 O
+25 O
+25 O
+ 
+Gillingham B-ORG
+22 O
+7 O
+4 O
+11 O
+21 O
+27 O
+25 O
+ 
+Preston B-ORG
+22 O
+7 O
+4 O
+11 O
+21 O
+27 O
+25 O
+ 
+Bournemouth B-ORG
+22 O
+7 O
+4 O
+11 O
+20 O
+27 O
+25 O
+ 
+Plymouth B-ORG
+22 O
+5 O
+8 O
+9 O
+24 O
+31 O
+23 O
+ 
+Peterborough B-ORG
+22 O
+4 O
+8 O
+10 O
+32 O
+41 O
+20 O
+ 
+Notts B-ORG
+County I-ORG
+21 O
+5 O
+5 O
+11 O
+15 O
+23 O
+20 O
+ 
+Wycombe B-ORG
+22 O
+4 O
+5 O
+13 O
+17 O
+33 O
+17 O
+ 
+Rotherham B-ORG
+21 O
+3 O
+6 O
+12 O
+18 O
+33 O
+15 O
+ 
+Division O
+Three O
+ 
+Fulham B-ORG
+22 O
+15 O
+3 O
+4 O
+36 O
+16 O
+48 O
+ 
+Cambridge B-ORG
+22 O
+13 O
+3 O
+6 O
+33 O
+27 O
+42 O
+ 
+Wigan B-ORG
+21 O
+12 O
+4 O
+5 O
+39 O
+24 O
+40 O
+ 
+Carlisle B-ORG
+22 O
+11 O
+7 O
+4 O
+32 O
+20 O
+40 O
+ 
+Cardiff B-ORG
+21 O
+10 O
+4 O
+7 O
+25 O
+22 O
+34 O
+ 
+Swansea B-ORG
+22 O
+9 O
+5 O
+8 O
+25 O
+25 O
+32 O
+ 
+Barnet B-ORG
+22 O
+8 O
+8 O
+6 O
+23 O
+17 O
+32 O
+ 
+Colchester B-ORG
+22 O
+7 O
+10 O
+5 O
+32 O
+26 O
+31 O
+ 
+Scunthorpe B-ORG
+22 O
+9 O
+4 O
+9 O
+28 O
+30 O
+31 O
+ 
+Northampton B-ORG
+22 O
+8 O
+6 O
+8 O
+31 O
+26 O
+30 O
+ 
+Scarborough B-ORG
+21 O
+7 O
+9 O
+5 O
+30 O
+27 O
+30 O
+ 
+Lincoln B-ORG
+22 O
+8 O
+6 O
+8 O
+28 O
+33 O
+30 O
+ 
+Chester B-ORG
+21 O
+8 O
+6 O
+7 O
+23 O
+23 O
+30 O
+ 
+Hull B-ORG
+22 O
+6 O
+11 O
+5 O
+20 O
+22 O
+29 O
+ 
+Torquay B-ORG
+22 O
+8 O
+4 O
+10 O
+22 O
+24 O
+28 O
+ 
+Rochdale B-ORG
+21 O
+6 O
+8 O
+7 O
+27 O
+26 O
+26 O
+ 
+Exeter B-ORG
+22 O
+7 O
+5 O
+10 O
+21 O
+28 O
+26 O
+ 
+Doncaster B-ORG
+22 O
+7 O
+3 O
+12 O
+24 O
+33 O
+24 O
+ 
+Mansfield B-ORG
+21 O
+5 O
+9 O
+7 O
+21 O
+22 O
+24 O
+ 
+Leyton B-ORG
+Orient I-ORG
+21 O
+6 O
+6 O
+9 O
+16 O
+19 O
+24 O
+ 
+Hereford B-ORG
+22 O
+6 O
+5 O
+11 O
+23 O
+31 O
+23 O
+ 
+Darlington B-ORG
+22 O
+6 O
+4 O
+12 O
+30 O
+39 O
+22 O
+ 
+Hartlepool B-ORG
+21 O
+6 O
+4 O
+11 O
+23 O
+28 O
+22 O
+ 
+Brighton B-ORG
+22 O
+3 O
+4 O
+15 O
+18 O
+42 O
+13 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+SCOTTISH B-MISC
+LEAGUE O
+AND O
+CUP B-MISC
+RESULTS O
+. O
+ 
+GLASGOW B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+Scottish B-MISC
+league O
+and O
+cup O
+matches O
+played O
+on O
+Saturday O
+: O
+ 
+Premier O
+division O
+ 
+Dunfermline B-ORG
+2 O
+Aberdeen B-ORG
+3 O
+ 
+Hearts B-ORG
+0 O
+Raith B-ORG
+0 O
+ 
+Kilmarnock B-ORG
+0 O
+Dundee B-ORG
+United I-ORG
+2 O
+ 
+Motherwell B-ORG
+2 O
+Celtic B-ORG
+1 O
+ 
+Rangers B-ORG
+4 O
+Hibernian B-ORG
+3 O
+ 
+Division O
+one O
+ 
+Dundee B-ORG
+2 O
+Falkirk B-ORG
+0 O
+ 
+Greenock B-ORG
+Morton I-ORG
+0 O
+St B-ORG
+Johnstone I-ORG
+2 O
+ 
+Postponed O
+: O
+Airdrieonians B-ORG
+v O
+Clydebank B-ORG
+( O
+to O
+Wednesday O
+) O
+, O
+East B-ORG
+Fife I-ORG
+v O
+Partick B-ORG
+, O
+Stirling B-ORG
+v O
+St B-ORG
+Mirren I-ORG
+( O
+to O
+Tuesday O
+) O
+ 
+Division O
+two O
+ 
+Livingston B-ORG
+2 O
+Stenhousemuir B-ORG
+1 O
+ 
+Stranraer B-ORG
+0 O
+Brechin B-ORG
+1 O
+ 
+Division O
+three O
+ 
+Ross B-ORG
+County I-ORG
+4 O
+Montrose B-ORG
+4 O
+ 
+Postponed O
+: O
+Forfar B-ORG
+v O
+Alloa B-ORG
+, O
+Inverness B-ORG
+Thistle I-ORG
+v O
+Queen B-ORG
+'s I-ORG
+Park I-ORG
+ 
+Scottish B-MISC
+Cup I-MISC
+first O
+round O
+ 
+Alloa B-ORG
+3 O
+Hawick B-ORG
+1 O
+ 
+Elgin B-ORG
+City I-ORG
+0 O
+Whitehill B-ORG
+3 O
+ 
+Postponed O
+: O
+Albion B-ORG
+v O
+Forfar B-ORG
+, O
+Huntly B-ORG
+v O
+Clyde B-ORG
+( O
+both O
+now O
+play O
+on O
+ 
+December O
+14 O
+) O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ENGLISH B-MISC
+LEAGUE O
+AND O
+CUP B-MISC
+RESULTS O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+English B-MISC
+league O
+and O
+cup O
+matches O
+on O
+Saturday O
+: O
+ 
+Premier O
+league O
+ 
+Arsenal B-ORG
+2 O
+Derby B-ORG
+2 O
+ 
+Chelsea B-ORG
+2 O
+Everton B-ORG
+2 O
+ 
+Coventry B-ORG
+1 O
+Tottenham B-ORG
+2 O
+ 
+Leicester B-ORG
+1 O
+Blackburn B-ORG
+1 O
+ 
+Liverpool B-ORG
+0 O
+Sheffield B-ORG
+Wednesday I-ORG
+1 O
+ 
+Middlesbrough B-ORG
+0 O
+Leeds B-ORG
+0 O
+ 
+Southampton B-ORG
+0 O
+Aston B-ORG
+Villa I-ORG
+1 O
+ 
+Sunderland B-ORG
+1 O
+Wimbledon B-ORG
+3 O
+ 
+Division O
+one O
+ 
+Barnsley B-ORG
+3 O
+Southend B-ORG
+0 O
+ 
+Birmingham B-ORG
+0 O
+Grimsby B-ORG
+0 O
+ 
+Charlton B-ORG
+2 O
+Swindon B-ORG
+0 O
+ 
+Crystal B-ORG
+Palace I-ORG
+2 O
+Oxford B-ORG
+2 O
+ 
+Huddersfield B-ORG
+2 O
+Norwich B-ORG
+0 O
+ 
+Ipswich B-ORG
+0 O
+Wolverhampton B-ORG
+0 O
+ 
+Manchester B-ORG
+City I-ORG
+3 O
+Bradford B-ORG
+2 O
+ 
+Oldham B-ORG
+0 O
+Queens B-ORG
+Park I-ORG
+Rangers I-ORG
+2 O
+ 
+Reading B-ORG
+0 O
+Port B-ORG
+Vale I-ORG
+1 O
+ 
+Sheffield B-ORG
+United I-ORG
+1 O
+Portsmouth B-ORG
+0 O
+ 
+Stoke B-ORG
+2 O
+Tranmere B-ORG
+0 O
+ 
+Playing O
+Sunday O
+: O
+West B-ORG
+Bromwich I-ORG
+v O
+Bolton B-ORG
+ 
+F.A. B-MISC
+Challenge I-MISC
+Cup I-MISC
+second O
+round O
+ 
+Barnet B-ORG
+3 O
+Wycombe B-ORG
+3 O
+ 
+Blackpool B-ORG
+0 O
+Hednesford B-ORG
+1 O
+ 
+Bristol B-ORG
+City I-ORG
+9 O
+St B-ORG
+Albans I-ORG
+2 O
+ 
+Cambridge B-ORG
+United I-ORG
+0 O
+Woking B-ORG
+2 O
+ 
+Carlisle B-ORG
+1 O
+Darlington B-ORG
+0 O
+ 
+Chester B-ORG
+1 O
+Boston B-ORG
+0 O
+ 
+Chesterfield B-ORG
+2 O
+Scarborough B-ORG
+0 O
+ 
+Enfield B-ORG
+1 O
+Peterborough B-ORG
+1 O
+ 
+Hull B-ORG
+1 O
+Crewe B-ORG
+5 O
+ 
+Leyton B-ORG
+Orient I-ORG
+1 O
+Stevenage B-ORG
+2 O
+ 
+Luton B-ORG
+2 O
+Boreham B-ORG
+Wood I-ORG
+1 O
+ 
+Mansfield B-ORG
+0 O
+Stockport B-ORG
+3 O
+ 
+Notts B-ORG
+County I-ORG
+3 O
+Rochdale B-ORG
+1 O
+ 
+Preston B-ORG
+2 O
+York B-ORG
+3 O
+ 
+Sudbury B-ORG
+Town I-ORG
+1 O
+Brentford B-ORG
+3 O
+ 
+Walsall B-ORG
+1 O
+Burnley B-ORG
+1 O
+ 
+Watford B-ORG
+5 O
+Ashford B-ORG
+Town I-ORG
+0 O
+ 
+Wrexham B-ORG
+2 O
+Scunthorpe B-ORG
+2 O
+ 
+Cardiff B-ORG
+0 O
+Gillingham B-ORG
+2 O
+ 
+-DOCSTART- O
+ 
+RUGBY B-ORG
+UNION I-ORG
+- O
+AUSTRALIA B-LOC
+BEAT O
+BARBARIANS B-ORG
+39-12 O
+. O
+ 
+LONDON B-LOC
+1996-12-07 O
+ 
+Australia B-LOC
+beat O
+the O
+Barbarians B-ORG
+39-12 O
+( O
+halftime O
+27-0 O
+) O
+in O
+the O
+final O
+match O
+of O
+their O
+European B-MISC
+tour O
+on O
+Saturday O
+: O
+ 
+Scorers O
+: O
+ 
+Australia B-LOC
+- O
+Tries O
+: O
+Matthew B-PER
+Burke I-PER
+( O
+2 O
+) O
+, O
+Joe B-PER
+Roff I-PER
+, O
+David B-PER
+Campese I-PER
+, O
+Tim B-PER
+Horan I-PER
+. O
+ 
+Penalties O
+: O
+Burke B-PER
+( O
+2 O
+) O
+. O
+ 
+Conversions O
+: O
+Burke B-PER
+( O
+4 O
+) O
+. O
+ 
+Barbarians B-ORG
+- O
+Tries O
+: O
+Alan B-PER
+Bateman I-PER
+, O
+Scott B-PER
+Quinnell I-PER
+. O
+ 
+Conversion O
+: O
+Rob B-PER
+Andrew I-PER
+. O
+ 
+-DOCSTART- O
+ 
+GOLF O
+- O
+ZIMBABWE B-MISC
+OPEN I-MISC
+THIRD O
+ROUND O
+SCORES O
+. O
+ 
+HARARE B-LOC
+1996-12-07 O
+ 
+Leading O
+third O
+round O
+scores O
+in O
+the O
+ 
+Zimbabwe B-MISC
+Open I-MISC
+on O
+Saturday O
+( O
+South B-MISC
+African I-MISC
+unless O
+stated O
+) O
+: O
+ 
+201 O
+Mark B-PER
+McNulty I-PER
+( O
+Zimbabwe B-LOC
+) O
+72 O
+61 O
+68 O
+ 
+205 O
+Des B-PER
+Terblanche I-PER
+65 O
+67 O
+73 O
+ 
+206 O
+Nick B-PER
+Price I-PER
+( O
+Zimbabwe B-LOC
+) O
+68 O
+68 O
+70 O
+ 
+207 O
+Clinton B-PER
+Whitelaw I-PER
+70 O
+70 O
+67 O
+, O
+Mark B-PER
+Cayeux I-PER
+( O
+Zimbabwe B-LOC
+) O
+ 
+69 O
+69 O
+69 O
+, O
+Justin B-PER
+Hobday I-PER
+71 O
+65 O
+71 O
+ 
+209 O
+Steve B-PER
+van I-PER
+Vuuren I-PER
+65 O
+69 O
+75 O
+ 
+210 O
+Brett B-PER
+Liddle I-PER
+75 O
+65 O
+70 O
+ 
+211 O
+Hugh B-PER
+Baiocchi I-PER
+73 O
+67 O
+71 O
+, O
+Greg B-PER
+Reid I-PER
+72 O
+68 O
+71 O
+, O
+Mark B-PER
+Murless I-PER
+71 O
+67 O
+73 O
+ 
+212 O
+Trevor B-PER
+Dodds I-PER
+( O
+Namibia B-LOC
+) O
+72 O
+69 O
+71 O
+, O
+Schalk B-PER
+van I-PER
+der I-PER
+Merwe I-PER
+( O
+Namibia B-LOC
+) O
+67 O
+73 O
+72 O
+, O
+Hennie B-PER
+Swart I-PER
+75 O
+64 O
+73 O
+, O
+ 
+Andrew B-PER
+Pitts I-PER
+( O
+U.S. B-LOC
+) O
+69 O
+67 O
+76 O
+ 
+213 O
+Sean B-PER
+Farrell I-PER
+( O
+Zimbabwe B-LOC
+) O
+77 O
+68 O
+68 O
+, O
+Glen B-PER
+Cayeux I-PER
+ 
+( O
+Zimbabwe B-LOC
+) O
+75 O
+68 O
+70 O
+, O
+Nic B-PER
+Henning I-PER
+73 O
+70 O
+70 O
+, O
+Dion B-PER
+Fourie I-PER
+69 O
+73 O
+71 O
+ 
+214 O
+Steven B-PER
+Waltman I-PER
+72 O
+70 O
+72 O
+, O
+Bradford B-PER
+Vaughan I-PER
+72 O
+71 O
+ 
+71 O
+, O
+Andrew B-PER
+Park I-PER
+72 O
+67 O
+75 O
+, O
+Desvonde B-PER
+Botes I-PER
+72 O
+68 O
+74 O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ISRAELI B-MISC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+ 
+JERUSALEM B-LOC
+1996-12-07 O
+ 
+Results O
+of O
+first O
+division O
+soccer O
+matches O
+played O
+over O
+the O
+weekend O
+: O
+ 
+Zafririm B-ORG
+Holon I-ORG
+1 O
+Hapoel B-ORG
+Petah I-ORG
+Tikva I-ORG
+1 O
+ 
+Maccabi B-ORG
+Haifa I-ORG
+1 O
+Hapoel B-ORG
+Taibe I-ORG
+1 O
+ 
+Hapoel B-ORG
+Kfar I-ORG
+Sava I-ORG
+1 O
+Bnei B-ORG
+Yehuda I-ORG
+0 O
+ 
+Hapoel B-ORG
+Tel I-ORG
+Aviv I-ORG
+1 O
+Betar B-ORG
+Jerusalem I-ORG
+4 O
+ 
+Hapoel B-ORG
+Jerusalem I-ORG
+0 O
+Maccabi B-ORG
+Tel I-ORG
+Aviv I-ORG
+4 O
+ 
+Ironi B-ORG
+Rishon I-ORG
+Lezion I-ORG
+1 O
+Maccabi B-ORG
+Herzliya I-ORG
+0 O
+ 
+Hapoel B-ORG
+Beit I-ORG
+She'an I-ORG
+2 O
+Hapoel B-ORG
+Beersheba I-ORG
+1 O
+ 
+Maccabi B-ORG
+Petah I-ORG
+Tikva I-ORG
+0 O
+Hapoel B-ORG
+Haifa I-ORG
+2 O
+ 
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+ 
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+ 
+Betar B-ORG
+Jerusalem I-ORG
+12 O
+10 O
+2 O
+0 O
+28 O
+7 O
+32 O
+ 
+Hapoel B-ORG
+Petah I-ORG
+Tikva I-ORG
+12 O
+9 O
+2 O
+1 O
+27 O
+13 O
+29 O
+ 
+Hapoel B-ORG
+Beersheba I-ORG
+12 O
+8 O
+0 O
+4 O
+18 O
+9 O
+24 O
+ 
+Maccabi B-ORG
+Tel I-ORG
+Aviv I-ORG
+12 O
+6 O
+4 O
+2 O
+21 O
+14 O
+22 O
+ 
+Maccabi B-ORG
+Petah I-ORG
+Tikva I-ORG
+12 O
+6 O
+2 O
+4 O
+14 O
+12 O
+20 O
+ 
+Bnei B-ORG
+Yehuda I-ORG
+12 O
+6 O
+2 O
+4 O
+15 O
+15 O
+20 O
+ 
+Hapoel B-ORG
+Haifa I-ORG
+12 O
+6 O
+1 O
+5 O
+21 O
+16 O
+19 O
+ 
+Maccabi B-ORG
+Haifa I-ORG
+12 O
+4 O
+4 O
+4 O
+14 O
+15 O
+16 O
+ 
+Hapoel B-ORG
+Kfar I-ORG
+Sava I-ORG
+12 O
+5 O
+1 O
+6 O
+10 O
+11 O
+16 O
+ 
+Hapoel B-ORG
+Jerusalem I-ORG
+12 O
+4 O
+1 O
+7 O
+10 O
+18 O
+13 O
+ 
+Ironi B-ORG
+Rishon I-ORG
+Lezion I-ORG
+12 O
+4 O
+1 O
+7 O
+13 O
+24 O
+13 O
+ 
+Zafririm B-ORG
+Holon I-ORG
+12 O
+2 O
+4 O
+6 O
+8 O
+14 O
+10 O
+ 
+Maccabi B-ORG
+Herzliya I-ORG
+12 O
+3 O
+1 O
+8 O
+5 O
+12 O
+10 O
+ 
+Hapoel B-ORG
+Taiba I-ORG
+12 O
+3 O
+1 O
+8 O
+10 O
+21 O
+10 O
+ 
+Hapoel B-ORG
+Beit I-ORG
+She'an I-ORG
+12 O
+2 O
+3 O
+7 O
+9 O
+13 O
+9 O
+ 
+Hapoel B-ORG
+Tel I-ORG
+Aviv I-ORG
+12 O
+2 O
+3 O
+7 O
+7 O
+16 O
+9 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+ASIAN B-MISC
+CUP I-MISC
+RESULTS O
+. O
+ 
+ABU B-LOC
+DHABI I-LOC
+1996-12-07 O
+ 
+Results O
+of O
+Asian B-MISC
+Cup I-MISC
+group O
+A O
+matches O
+on O
+Saturday O
+: O
+ 
+United B-LOC
+Arab I-LOC
+Emirates I-LOC
+3 O
+Kuwait B-LOC
+2 O
+( O
+halftime O
+0-2 O
+) O
+ 
+Scorers O
+: O
+ 
+UAE B-LOC
+- O
+Hassan B-PER
+Ahmed I-PER
+53 O
+, O
+Adnan B-PER
+Al I-PER
+Talyani I-PER
+55 O
+, O
+Bakhit B-PER
+Saad I-PER
+80 O
+ 
+Kuwait B-LOC
+- O
+Jassem B-PER
+Al-Huwaidi I-PER
+9 O
+, O
+44 O
+ 
+Attendance O
+: O
+15,000 O
+ 
+South B-LOC
+Korea I-LOC
+4 O
+Indonesia B-LOC
+2 O
+( O
+3-0 O
+) O
+ 
+Scorers O
+: O
+ 
+South B-LOC
+Korea I-LOC
+- O
+Kim B-PER
+Do I-PER
+Hoon I-PER
+5 O
+, O
+Hwang B-PER
+Sun I-PER
+Hong I-PER
+7 O
+and O
+15 O
+, O
+Koo B-PER
+Jeon I-PER
+Woon I-PER
+55 O
+ 
+Indonesia B-LOC
+- O
+Ronny B-PER
+Wabia I-PER
+58 O
+, O
+Widodo B-PER
+Putra I-PER
+65 O
+ 
+Attendance O
+: O
+2,000 O
+ 
+Group O
+A O
+standings O
+( O
+tabulate O
+under O
+: O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+ 
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+ 
+South B-LOC
+Korea I-LOC
+2 O
+1 O
+1 O
+0 O
+5 O
+3 O
+4 O
+ 
+UAE B-LOC
+2 O
+1 O
+1 O
+0 O
+4 O
+3 O
+4 O
+ 
+Kuwait B-LOC
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+ 
+Indonesia B-LOC
+2 O
+0 O
+1 O
+1 O
+4 O
+6 O
+1 O
+ 
+-DOCSTART- O
+ 
+NBA B-ORG
+BASKETBALL O
+- O
+STANDINGS O
+AFTER O
+FRIDAY O
+'S O
+GAMES O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-07 O
+ 
+Standings O
+of O
+National B-ORG
+Basketball I-ORG
+Association I-ORG
+teams O
+after O
+games O
+played O
+on O
+Friday O
+ 
+( O
+tabulate O
+under O
+won O
+, O
+lost O
+, O
+percentage O
+, O
+games O
+behind O
+) O
+: O
+ 
+EASTERN B-MISC
+CONFERENCE I-MISC
+ 
+ATLANTIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+MIAMI B-ORG
+14 O
+5 O
+.737 O
+- O
+ 
+NEW B-ORG
+YORK I-ORG
+11 O
+6 O
+.647 O
+2 O
+ 
+ORLANDO B-ORG
+8 O
+7 O
+.533 O
+4 O
+ 
+WASHINGTON B-ORG
+7 O
+9 O
+.438 O
+5 O
+1/2 O
+ 
+PHILADELPHIA B-ORG
+7 O
+10 O
+.412 O
+6 O
+ 
+NEW B-ORG
+JERSEY I-ORG
+4 O
+10 O
+.286 O
+7 O
+1/2 O
+ 
+BOSTON B-ORG
+4 O
+13 O
+.235 O
+9 O
+ 
+CENTRAL B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+CHICAGO B-ORG
+17 O
+1 O
+.944 O
+- O
+ 
+DETROIT B-ORG
+14 O
+3 O
+.824 O
+2 O
+1/2 O
+ 
+CLEVELAND B-ORG
+11 O
+6 O
+.647 O
+5 O
+1/2 O
+ 
+ATLANTA B-ORG
+10 O
+8 O
+.556 O
+7 O
+ 
+MILWAUKEE B-ORG
+8 O
+8 O
+.500 O
+8 O
+ 
+INDIANA B-ORG
+8 O
+8 O
+.500 O
+8 O
+ 
+CHARLOTTE B-ORG
+8 O
+9 O
+.471 O
+8 O
+1/2 O
+ 
+TORONTO B-ORG
+6 O
+11 O
+.353 O
+10 O
+1/2 O
+ 
+WESTERN B-MISC
+CONFERENCE I-MISC
+ 
+MIDWEST B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+HOUSTON B-ORG
+16 O
+2 O
+.889 O
+- O
+ 
+UTAH B-ORG
+15 O
+2 O
+.882 O
+1/2 O
+ 
+MINNESOTA B-ORG
+7 O
+11 O
+.389 O
+9 O
+ 
+DALLAS B-ORG
+6 O
+11 O
+.353 O
+9 O
+1/2 O
+ 
+DENVER B-ORG
+5 O
+14 O
+.263 O
+11 O
+1/2 O
+ 
+SAN B-ORG
+ANTONIO I-ORG
+3 O
+14 O
+.176 O
+12 O
+1/2 O
+ 
+VANCOUVER B-ORG
+3 O
+16 O
+.158 O
+13 O
+1/2 O
+ 
+PACIFIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+PCT O
+GB O
+ 
+SEATTLE B-ORG
+15 O
+5 O
+.750 O
+- O
+ 
+LA B-ORG
+LAKERS I-ORG
+14 O
+7 O
+.667 O
+1 O
+1/2 O
+ 
+PORTLAND B-ORG
+12 O
+8 O
+.600 O
+3 O
+ 
+LA B-ORG
+CLIPPERS I-ORG
+7 O
+11 O
+.389 O
+7 O
+ 
+GOLDEN B-ORG
+STATE I-ORG
+6 O
+13 O
+.316 O
+8 O
+1/2 O
+ 
+SACRAMENTO B-ORG
+6 O
+13 O
+.316 O
+8 O
+1/2 O
+ 
+PHOENIX B-ORG
+3 O
+14 O
+.176 O
+10 O
+1/2 O
+ 
+SATURDAY O
+, O
+DECEMBER O
+7 O
+SCHEDULE O
+ 
+TORONTO B-ORG
+AT O
+ATLANTA B-LOC
+ 
+LA B-ORG
+CLIPPERS I-ORG
+AT O
+NEW B-LOC
+YORK I-LOC
+ 
+MILWAUKEE B-ORG
+AT O
+WASHINGTON B-LOC
+ 
+DETROIT B-ORG
+AT O
+NEW B-LOC
+JERSEY I-LOC
+ 
+MIAMI B-ORG
+AT O
+CHICAGO B-LOC
+ 
+VANCOUVER B-ORG
+AT O
+DALLAS B-LOC
+ 
+PHILADELPHIA B-ORG
+AT O
+HOUSTON B-LOC
+ 
+UTAH B-ORG
+AT O
+DENVER B-LOC
+ 
+CHARLOTTE B-ORG
+AT O
+SEATTLE B-LOC
+ 
+-DOCSTART- O
+ 
+NBA B-ORG
+BASKETBALL O
+- O
+FRIDAY O
+'S O
+RESULTS O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-07 O
+ 
+Results O
+of O
+National B-ORG
+Basketball I-ORG
+Association I-ORG
+games O
+on O
+Friday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+ 
+New B-ORG
+Jersey I-ORG
+110 O
+BOSTON B-ORG
+108 O
+( O
+OT O
+) O
+ 
+DETROIT B-ORG
+93 O
+Cleveland B-ORG
+81 O
+ 
+New B-ORG
+York I-ORG
+103 O
+MIAMI B-ORG
+85 O
+ 
+Phoenix B-ORG
+101 O
+SACRAMENTO B-ORG
+95 O
+ 
+Vancouver B-ORG
+105 O
+SAN B-ORG
+ANTONIO I-ORG
+89 O
+ 
+UTAH B-ORG
+106 O
+Minnesota B-ORG
+95 O
+ 
+PORTLAND B-ORG
+97 O
+Charlotte B-ORG
+93 O
+ 
+Indiana B-ORG
+86 O
+GOLDEN B-ORG
+STATE I-ORG
+71 O
+ 
+LA B-ORG
+LAKERS I-ORG
+92 O
+Orlando B-ORG
+81 O
+ 
+-DOCSTART- O
+ 
+NHL B-ORG
+ICE O
+HOCKEY O
+- O
+STANDINGS O
+AFTER O
+FRIDAY O
+'S O
+GAMES O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-07 O
+ 
+Standings O
+of O
+National B-MISC
+Hockey I-MISC
+League I-MISC
+teams O
+after O
+games O
+played O
+on O
+Friday O
+( O
+tabulate O
+under O
+won O
+, O
+lost O
+, O
+tied O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+ 
+EASTERN B-MISC
+CONFERENCE I-MISC
+ 
+NORTHEAST B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+HARTFORD B-ORG
+12 O
+7 O
+6 O
+77 O
+76 O
+30 O
+ 
+BUFFALO B-ORG
+13 O
+12 O
+2 O
+78 O
+77 O
+28 O
+ 
+MONTREAL B-ORG
+11 O
+14 O
+4 O
+99 O
+104 O
+26 O
+ 
+BOSTON B-ORG
+10 O
+11 O
+4 O
+74 O
+84 O
+24 O
+ 
+PITTSBURGH B-ORG
+10 O
+13 O
+3 O
+86 O
+94 O
+23 O
+ 
+OTTAWA B-ORG
+7 O
+12 O
+6 O
+64 O
+77 O
+20 O
+ 
+ATLANTIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+FLORIDA B-ORG
+17 O
+4 O
+6 O
+83 O
+53 O
+40 O
+ 
+PHILADELPHIA B-ORG
+15 O
+12 O
+2 O
+81 O
+78 O
+32 O
+ 
+NEW B-ORG
+JERSEY I-ORG
+14 O
+10 O
+1 O
+61 O
+61 O
+29 O
+ 
+WASHINGTON B-ORG
+13 O
+13 O
+1 O
+72 O
+71 O
+27 O
+ 
+NY B-ORG
+RANGERS I-ORG
+11 O
+13 O
+5 O
+97 O
+86 O
+27 O
+ 
+NY B-ORG
+ISLANDERS I-ORG
+7 O
+11 O
+8 O
+65 O
+72 O
+22 O
+ 
+TAMPA B-ORG
+BAY I-ORG
+8 O
+15 O
+2 O
+69 O
+81 O
+18 O
+ 
+WESTERN B-MISC
+CONFERENCE I-MISC
+ 
+CENTRAL B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+DETROIT B-ORG
+15 O
+9 O
+4 O
+81 O
+53 O
+34 O
+ 
+DALLAS B-ORG
+16 O
+10 O
+1 O
+77 O
+66 O
+33 O
+ 
+ST B-ORG
+LOUIS I-ORG
+14 O
+14 O
+0 O
+82 O
+84 O
+28 O
+ 
+CHICAGO B-ORG
+12 O
+13 O
+3 O
+72 O
+70 O
+27 O
+ 
+TORONTO B-ORG
+11 O
+16 O
+0 O
+81 O
+95 O
+22 O
+ 
+PHOENIX B-ORG
+9 O
+13 O
+4 O
+61 O
+74 O
+22 O
+ 
+PACIFIC B-MISC
+DIVISION I-MISC
+ 
+W O
+L O
+T O
+GF O
+GA O
+PTS O
+ 
+COLORADO B-ORG
+17 O
+7 O
+4 O
+100 O
+60 O
+38 O
+ 
+VANCOUVER B-ORG
+14 O
+11 O
+1 O
+84 O
+83 O
+29 O
+ 
+EDMONTON B-ORG
+14 O
+14 O
+1 O
+99 O
+90 O
+29 O
+ 
+LOS B-ORG
+ANGELES I-ORG
+11 O
+13 O
+3 O
+72 O
+83 O
+25 O
+ 
+SAN B-ORG
+JOSE I-ORG
+10 O
+13 O
+4 O
+69 O
+87 O
+24 O
+ 
+ANAHEIM B-ORG
+9 O
+14 O
+5 O
+74 O
+87 O
+23 O
+ 
+CALGARY B-ORG
+10 O
+16 O
+2 O
+65 O
+77 O
+22 O
+ 
+SATURDAY O
+, O
+DECEMBER O
+7 O
+SCHEDULE O
+ 
+PHOENIX B-ORG
+AT O
+NEW B-LOC
+JERSEY I-LOC
+ 
+CALGARY B-ORG
+AT O
+BOSTON B-LOC
+ 
+BUFFALO B-ORG
+AT O
+HARTFORD B-LOC
+ 
+WASHINGTON B-ORG
+AT O
+NY B-LOC
+ISLANDERS I-LOC
+ 
+CHICAGO B-ORG
+AT O
+MONTREAL B-LOC
+ 
+NY B-ORG
+RANGERS I-ORG
+AT O
+TORONTO B-LOC
+ 
+ANAHEIM B-ORG
+AT O
+PITTSBURGH B-LOC
+ 
+COLORADO B-ORG
+AT O
+LOS B-LOC
+ANGELES I-LOC
+ 
+TAMPA B-ORG
+BAY I-ORG
+AT O
+SAN B-LOC
+JOSE I-LOC
+ 
+OTTAWA B-ORG
+AT O
+VANCOUVER B-LOC
+ 
+-DOCSTART- O
+ 
+NHL B-ORG
+ICE O
+HOCKEY O
+- O
+FRIDAY O
+'S O
+RESULTS O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-07 O
+ 
+Results O
+of O
+National B-MISC
+Hockey I-MISC
+League I-MISC
+games O
+on O
+Friday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+ 
+NY B-ORG
+RANGERS I-ORG
+6 O
+Toronto B-ORG
+5 O
+ 
+BUFFALO B-ORG
+1 O
+Anaheim B-ORG
+1 O
+( O
+OT O
+) O
+ 
+Pittsburgh B-ORG
+5 O
+WASHINGTON B-ORG
+3 O
+ 
+Montreal B-ORG
+3 O
+CHICAGO B-ORG
+1 O
+ 
+Philadelphia B-ORG
+6 O
+DALLAS B-ORG
+3 O
+ 
+St B-ORG
+Louis I-ORG
+4 O
+COLORADO B-ORG
+3 O
+ 
+EDMONTON B-ORG
+5 O
+Ottawa B-ORG
+2 O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+SPANISH B-MISC
+FIRST O
+DIVISION O
+SUMMARY O
+. O
+ 
+MADRID B-LOC
+1996-12-07 O
+ 
+Summary O
+of O
+Saturday O
+'s O
+Spanish B-MISC
+first O
+division O
+match O
+: O
+ 
+Real B-ORG
+Madrid I-ORG
+2 O
+( O
+Davor B-PER
+Suker I-PER
+24 O
+, O
+Predrag B-PER
+Mijatovic I-PER
+48 O
+) O
+Barcelona B-ORG
+0 O
+. O
+ 
+Halftime O
+1-0 O
+. O
+ 
+Attendance O
+106,000 O
+. O
+ 
+-DOCSTART- O
+ 
+SOCCER O
+- O
+SPANISH B-MISC
+FIRST O
+DIVISION O
+RESULT O
+/ O
+STANDINGS O
+. O
+ 
+MADRID B-LOC
+1996-12-07 O
+ 
+Result O
+of O
+Saturday O
+'s O
+only O
+Spanish B-MISC
+first O
+division O
+match O
+: O
+ 
+Real B-ORG
+Madrid I-ORG
+2 O
+Barcelona B-ORG
+0 O
+ 
+Standings O
+( O
+tabulate O
+under O
+games O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+ 
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+ 
+Real B-ORG
+Madrid I-ORG
+16 O
+11 O
+5 O
+0 O
+32 O
+12 O
+38 O
+ 
+Barcelona B-ORG
+16 O
+10 O
+4 O
+2 O
+46 O
+21 O
+34 O
+ 
+Deportivo B-ORG
+Coruna I-ORG
+15 O
+9 O
+6 O
+0 O
+23 O
+7 O
+33 O
+ 
+Real B-ORG
+Betis I-ORG
+15 O
+8 O
+5 O
+2 O
+28 O
+13 O
+29 O
+ 
+Atletico B-ORG
+Madrid I-ORG
+15 O
+8 O
+3 O
+4 O
+26 O
+17 O
+27 O
+ 
+Athletic B-ORG
+Bilbao I-ORG
+15 O
+7 O
+4 O
+4 O
+28 O
+22 O
+25 O
+ 
+Real B-ORG
+Sociedad I-ORG
+15 O
+7 O
+3 O
+5 O
+20 O
+18 O
+24 O
+ 
+Valladolid B-ORG
+15 O
+7 O
+3 O
+5 O
+19 O
+18 O
+24 O
+ 
+Racing B-ORG
+Santander I-ORG
+15 O
+5 O
+7 O
+3 O
+15 O
+15 O
+22 O
+ 
+Rayo B-ORG
+Vallecano I-ORG
+15 O
+5 O
+5 O
+5 O
+21 O
+19 O
+20 O
+ 
+Valencia B-ORG
+15 O
+6 O
+2 O
+7 O
+23 O
+22 O
+20 O
+ 
+Celta B-ORG
+Vigo I-ORG
+15 O
+5 O
+5 O
+5 O
+17 O
+17 O
+20 O
+ 
+Tenerife B-ORG
+15 O
+5 O
+4 O
+6 O
+23 O
+17 O
+19 O
+ 
+Espanyol B-ORG
+15 O
+4 O
+4 O
+7 O
+17 O
+20 O
+16 O
+ 
+Oviedo B-ORG
+15 O
+4 O
+4 O
+7 O
+17 O
+21 O
+16 O
+ 
+Sporting B-ORG
+Gijon I-ORG
+15 O
+4 O
+4 O
+7 O
+15 O
+22 O
+16 O
+ 
+Logrones B-ORG
+15 O
+4 O
+3 O
+8 O
+11 O
+33 O
+15 O
+ 
+Zaragoza B-ORG
+15 O
+2 O
+8 O
+5 O
+18 O
+23 O
+14 O
+ 
+Sevilla B-ORG
+15 O
+4 O
+2 O
+9 O
+13 O
+20 O
+14 O
+ 
+Compostela B-ORG
+15 O
+3 O
+4 O
+8 O
+13 O
+28 O
+13 O
+ 
+Hercules B-ORG
+15 O
+2 O
+2 O
+11 O
+11 O
+29 O
+8 O
+ 
+Extremadura B-ORG
+15 O
+1 O
+3 O
+11 O
+8 O
+30 O
+6 O
+ 

@@ -1,0 +1,1551 @@
+-DOCSTART- O
+ 
+Manitoba B-ORG
+Pork I-ORG
+forward O
+contract O
+PM O
+prices O
+- O
+Dec O
+6 O
+. O
+ 
+WINNIPEG B-LOC
+1996-12-06 O
+ 
+Manitoba B-ORG
+Pork I-ORG
+closing O
+forward O
+contract O
+prices O
+in O
+Canadian B-MISC
+dollars O
+per O
+hundred O
+lbs O
+( O
+Cwt O
+) O
+for O
+Dec O
+6 O
+including O
+minimum O
+guaranteed O
+price O
+-- O
+ 
+CONTRACT O
+PREVIOUS O
+CLOSE O
+PM O
+CLOSE O
+PM O
+CLOSING O
+RANGE O
+ 
+DATE O
+PM O
+CLOSE O
+FIXED O
+MINIMUM O
+AT O
+1230 O
+CST O
+ 
+Feb O
+97 O
+79.94 O
+79.67 O
+75.55 O
+77.01-81.80 O
+ 
+Mar O
+97 O
+76.37 O
+76.12 O
+72.02 O
+73.47-78.24 O
+ 
+Apr O
+97 O
+74.13 O
+74.69 O
+70.59 O
+72.04-76.81 O
+ 
+May O
+97 O
+76.51 O
+77.07 O
+72.97 O
+74.42-79.19 O
+ 
+Jun O
+97 O
+77.53 O
+77.24 O
+73.17 O
+74.62-79.35 O
+ 
+Jul O
+97 O
+74.45 O
+74.01 O
+69.95 O
+71.39-76.12 O
+ 
+Aug O
+97 O
+72.41 O
+72.07 O
+68.01 O
+69.45-74.18 O
+ 
+Sep O
+97 O
+69.18 O
+69.24 O
+65.17 O
+66.61-71.34 O
+ 
+Oct O
+97 O
+68.00 O
+68.05 O
+63.98 O
+65.43-70.16 O
+ 
+Nov O
+97 O
+68.00 O
+68.05 O
+63.98 O
+65.43-70.16 O
+ 
+Note O
+: O
+Manitoba B-ORG
+Government O
+Price O
+Index O
+( O
+C$ B-MISC
+per O
+cwt O
+) O
+- O
+ 
+Dec O
+4 O
+87.16 O
+ 
+Manitoba B-ORG
+'s O
+Hog O
+Price O
+Range O
+: O
+84.00-86.00 O
+per O
+cwt O
+ 
+CAN B-LOC
+/ O
+U.S. B-LOC
+DOLLAR O
+EXCHANGE O
+RATE O
+: O
+1.3570 O
+ 
+Source O
+: O
+Manitoba B-ORG
+Pork I-ORG
+. O
+ 
+( O
+( O
+Winnipeg B-LOC
+bureau O
+204-947-3548 O
+) O
+) O
+ 
+-DOCSTART- O
+ 
+Canadian B-MISC
+West O
+Coast O
+Vessel O
+Loadings O
+- O
+CWB B-ORG
+. O
+ 
+WINNIPEG B-LOC
+1996-12-06 O
+ 
+The O
+Canadian B-ORG
+Wheat I-ORG
+Board I-ORG
+reported O
+six O
+ships O
+loading O
+, O
+10 O
+waiting O
+and O
+four O
+due O
+at O
+the O
+Canadian B-MISC
+West O
+Coast O
+, O
+as O
+of O
+Friday O
+. O
+ 
+The O
+longest O
+wait O
+to O
+load O
+on O
+the O
+West O
+Coast O
+was O
+13 O
+days O
+. O
+ 
+Two O
+ship O
+loaded O
+in O
+Thunder B-LOC
+Bay I-LOC
+, O
+one O
+waited O
+and O
+seven O
+were O
+due O
+. O
+ 
+Two O
+ships O
+loaded O
+on O
+the O
+East O
+Coast O
+, O
+three O
+waited O
+to O
+load O
+, O
+six O
+were O
+due O
+. O
+ 
+Port O
+Loading O
+Waiting O
+ 
+Vancouver B-LOC
+5 O
+7 O
+ 
+Prince B-LOC
+Rupert I-LOC
+1 O
+3 O
+ 
+( O
+( O
+Gilbert B-PER
+Le I-PER
+Gras I-PER
+204 O
+947 O
+3548 O
+) O
+) O
+ 
+-DOCSTART- O
+ 
+New B-LOC
+York I-LOC
+coal O
+/ O
+ore O
+/ O
+scrap O
+fixtures O
+- O
+Dec O
+6 O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+ORE O
+- O
+Maritime B-MISC
+Queen I-MISC
+70,000 O
+tonnes O
+Dampier B-LOC
+/ O
+Kaohsiung B-LOC
+20-30/12 O
+$ O
+5.25 O
+fio O
+35,000 O
+/ O
+30,000 O
+China B-ORG
+Steel I-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
++1 O
+212 O
+859 O
+1640 O
+ 
+-DOCSTART- O
+ 
+Clean O
+tankers O
+fixtures O
+and O
+enquiries O
+- O
+2321 O
+GMT B-MISC
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+FIXTURES O
+- O
+ 
+WESTERN O
+HEMISPHERE O
+- O
+ 
+Danila B-MISC
+28.5 O
+16/12 O
+Caribs B-LOC
+/ O
+up O
+W224 O
+Mobil B-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
+, O
+212-859-1640 O
+ 
+-DOCSTART- O
+ 
+Dirty O
+tanker O
+fixtures O
+and O
+enquiries O
+- O
+2317 O
+GMT B-MISC
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+MIDEAST B-LOC
+/ O
+RED B-LOC
+SEA I-LOC
+- O
+ 
+Thai B-ORG
+Resource I-ORG
+264 O
+31/12 O
+Ras B-LOC
+Tanura I-LOC
+/ O
+Red B-LOC
+Sea I-LOC
+W46.50 O
+Mobil B-ORG
+. O
+ 
+MEDITERRANEAN B-LOC
+- O
+ 
+Lula B-MISC
+I I-MISC
+85 O
+25/12 O
+Sidi B-LOC
+Kreir I-LOC
+/ O
+Augusta B-LOC
+W100 O
+Exxon B-ORG
+. O
+ 
+Spetses B-LOC
+139 O
+17/12 O
+Sidi B-LOC
+Kreir I-LOC
+/ O
+Augusta B-LOC
+W97.50 O
+Exxon B-ORG
+. O
+ 
+Mesipia B-MISC
+77.5 O
+17/12 O
+Bajaia B-LOC
+/ O
+Fos B-LOC
+W105 O
+Exxon B-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
++1 O
+212 O
+859 O
+1640 O
+ 
+-DOCSTART- O
+ 
+Daily O
+Argentine B-MISC
+grain O
+fixings O
+- O
+Camaras O
+Arbitrales O
+. O
+ 
+BUENOS B-LOC
+AIRES I-LOC
+1996-12-06 O
+ 
+Avg O
+December O
+5 O
+price O
+fix O
+: O
+ 
+Buenos B-LOC
+Aires I-LOC
+Quequen B-LOC
+Rosario B-LOC
+Bahia B-LOC
+Blanca I-LOC
+ 
+Oats O
+unq O
+unq O
+unq O
+unq O
+ 
+Wheat O
+121 O
+130 O
+121.3 O
+121 O
+ 
+Maize O
+( O
+Flint O
+) O
+113 O
+114 O
+113.7 O
+112 O
+ 
+Maize O
+( O
+Dent O
+) O
+113 O
+114 O
+113.7 O
+112 O
+ 
+Sorghum O
+unq O
+unq O
+unq O
+unq O
+ 
+Millet O
+unq O
+unq O
+90 O
+unq O
+ 
+Soybeans O
+283 O
+unq O
+283 O
+unq O
+ 
+Sunseeds O
+219 O
+216 O
+220 O
+216 O
+ 
+-- O
+Buenos B-ORG
+Aires I-ORG
+Newsroom I-ORG
++541 O
+318-0655 O
+ 
+-DOCSTART- O
+ 
+USDA B-ORG
+daily O
+cattle O
+and O
+hog O
+slaughter O
+- O
+Dec O
+6 O
+. O
+ 
+Est O
+daily O
+livestock O
+slaughter O
+under O
+Fed B-ORG
+inspection O
+- O
+USDA B-ORG
+ 
+CATTLE O
+CALVES O
+HOGS O
+ 
+Friday O
+12/06/96 O
+( O
+est O
+) O
+132,000 O
+7,000 O
+359,000 O
+ 
+Week O
+ago O
+( O
+est O
+) O
+130,000 O
+6,000 O
+346,000 O
+ 
+Year O
+ago O
+( O
+act O
+) O
+132,000 O
+6,000 O
+336,000 O
+ 
+Saturday O
+12/07/96 O
+( O
+est O
+) O
+38,000 O
+0 O
+18,000 O
+ 
+Week O
+to O
+date O
+( O
+est O
+) O
+688,000 O
+31,000 O
+1,810,000 O
+ 
+Same O
+Period O
+Last O
+Week O
+( O
+est O
+) O
+601,000 O
+26,000 O
+1,547,000 O
+ 
+Same O
+Period O
+Last O
+Year* O
+( O
+act O
+) O
+685,000 O
+31,000 O
+1,914,000 O
+ 
+1996 O
+Year O
+to O
+date O
+33,549,000 O
+1,589,000 O
+84,894,000 O
+ 
+1995 O
+Year O
+to O
+date* O
+32,970,000 O
+1,305,000 O
+88,800,000 O
+ 
+Percent O
+change O
+1.8 O
+% O
+21.8 O
+% O
+- O
+4.4 O
+% O
+ 
+*1995 O
+totals O
+adjusted O
+to O
+reflect O
+NASS B-ORG
+revisions O
+1996 O
+Totals O
+are O
+subject O
+to O
+revision O
+Yearly O
+totals O
+may O
+not O
+add O
+due O
+to O
+rounding O
+. O
+ 
+Previous O
+day O
+estimated O
+Steer O
+and O
+Heifer O
+Cow O
+and O
+Bull O
+ 
+Thursday O
+100,000 O
+33,000 O
+ 
+-DOCSTART- O
+ 
+BALANCE O
+- O
+Hartford B-LOC
+, O
+Conn B-LOC
+. O
+ 
+, O
+$ O
+11 O
+mln O
+. O
+ 
+CITY O
+OF O
+HARTFORD B-LOC
+, O
+CONNECTICUT B-LOC
+ 
+RE O
+: O
+$ O
+25,000,000 O
+ 
+GENERAL O
+OBLIGATION O
+BONDS O
+ 
+MOODY B-ORG
+'S I-ORG
+: O
+Aaa O
+/ O
+A1 O
+S&P B-ORG
+: O
+AAA O
+/ O
+AA- O
+ 
+Delivery O
+Date O
+: O
+12/16/1996 O
+ 
+FSA B-ORG
+INSURED O
+ 
+Maturity O
+Balance O
+Coupon O
+List O
+ 
+12/15/2000 O
+1,250M O
+6.25 O
+4.10 O
+ 
+12/15/2001 O
+575M O
+4.60 O
+4.20 O
+ 
+12/15/2003 O
+265M O
+4.40 O
+4.40 O
+ 
+12/15/2004 O
+625M O
+4.50 O
+4.50 O
+ 
+12/15/2005 O
+55M O
+4.60 O
+4.60 O
+ 
+12/15/2006 O
+145M O
+4.70 O
+4.70 O
+ 
+12/15/2007 O
+850M O
+4.85 O
+4.85 O
+ 
+12/15/2008 O
+1,200M O
+4.95 O
+4.95 O
+ 
+12/15/2009 O
+1,240M O
+5.05 O
+5.05 O
+ 
+12/15/2010 O
+1,250M O
+5.15 O
+5.15 O
+ 
+12/15/2011 O
+1,240M O
+5.25 O
+5.25 O
+ 
+12/15/2012 O
+1,200M O
+5.25 O
+5.30 O
+ 
+12/15/2013 O
+1,135M O
+5.30 O
+5.35 O
+ 
+12/15/2014 O
+850M O
+5.30 O
+5.35 O
+ 
+Total O
+: O
+11,880M O
+ 
+State B-ORG
+Street I-ORG
+Bank I-ORG
+and I-ORG
+Trust I-ORG
+Company I-ORG
+ 
+Prudential B-ORG
+Securities I-ORG
+Incorporated I-ORG
+ 
+PaineWebber B-ORG
+Incorporated I-ORG
+ 
+First B-ORG
+Union I-ORG
+Capital I-ORG
+Markets I-ORG
+Corp. I-ORG
+- O
+NJ B-LOC
+ 
+-- O
+U.S. B-ORG
+Municipal I-ORG
+Desk I-ORG
+, O
+212-859-1650 O
+ 
+-DOCSTART- O
+ 
+New B-LOC
+York I-LOC
+grain O
+freight O
+fixtures O
+- O
+Dec O
+5 O
+. O
+ 
+NEW B-LOC
+YORK I-LOC
+1996-12-06 O
+ 
+Mana O
+50,000 O
+tonnes O
+soybeans O
+USG B-ORG
+/ O
+China B-LOC
+10-15/12 O
+$ O
+23.50 O
+10,000 O
+/ O
+4,000 O
+GeePee B-ORG
+. O
+ 
+-- O
+New B-ORG
+York I-ORG
+Commodities I-ORG
+Desk I-ORG
++1 O
+212 O
+859 O
+1640 O
+ 
+-DOCSTART- O
+ 
+Canadian B-MISC
+grain O
+statistics O
+weekly O
+. O
+ 
+CHICAGO B-LOC
+, O
+Dec O
+6 O
+( O
+Reuter B-ORG
+) O
+Statistics O
+for O
+the O
+week O
+ending O
+December O
+1 O
+in O
+000 O
+'s O
+tonnes O
+. O
+ 
+- O
+Canadian B-ORG
+Grain I-ORG
+Commission I-ORG
+ 
+Visible O
+Supplies O
+Farmers O
+Deliveries O
+ 
+Curr O
+Wk O
+Yr O
+Ago O
+Curr O
+Wk O
+Yr O
+to O
+Date O
+Yr O
+Ago O
+ 
+Wheat O
+4320.2 O
+3909.3 O
+288.5 O
+6278.9 O
+5580.0 O
+ 
+Durum O
+1168.9 O
+1225.0 O
+44.3 O
+965.3 O
+1069.6 O
+ 
+Oats O
+286.5 O
+284.6 O
+31.9 O
+937.3 O
+581.2 O
+ 
+Barley O
+1074.0 O
+1104.8 O
+178.0 O
+2531.4 O
+1897.1 O
+ 
+Rye O
+44.6 O
+86.3 O
+2.3 O
+108.2 O
+119.2 O
+ 
+Flax O
+165.2 O
+181.9 O
+14.9 O
+231.4 O
+332.9 O
+ 
+Canola O
+646.6 O
+769.4 O
+60.5 O
+1902.0 O
+2147.6 O
+ 
+Corn O
+79.6 O
+163.5 O
+9.4 O
+95.7 O
+252.0 O
+ 
+Total O
+7785.8 O
+7724.8 O
+629.8 O
+13050.2 O
+11979.6 O
+ 
+Exports O
+Domestic O
+Disappearance O
+ 
+Curr O
+Wk O
+YTD O
+Yr O
+Ago O
+Curr O
+Wk O
+YTD O
+Yr O
+Ago O
+ 
+Wheat O
+387.4 O
+4677.8 O
+4553.6 O
+55.2 O
+1039.7 O
+846.1 O
+ 
+Durum O
+129.0 O
+1515.9 O
+1220.6 O
+4.6 O
+75.8 O
+73.3 O
+ 
+Oats O
+40.0 O
+561.0 O
+391.9 O
+4.8 O
+149.6 O
+115.0 O
+ 
+Barley O
+110.8 O
+1203.4 O
+506.0 O
+48.2 O
+941.0 O
+786.6 O
+ 
+Rye O
+4.1 O
+60.7 O
+57.9 O
+3.0 O
+10.7 O
+18.9 O
+ 
+Flax O
+7.2 O
+154.1 O
+235.7 O
+1.1 O
+22.2 O
+15.7 O
+ 
+Canola O
+47.1 O
+988.1 O
+1135.5 O
+46.7 O
+894.9 O
+822.0 O
+ 
+Corn O
+4.4 O
+15.1 O
+87.0 O
+0.6 O
+22.1 O
+11.1 O
+ 
+Total O
+730.0 O
+9176.1 O
+8188.2 O
+164.2 O
+3156.0 O
+2686.7 O
+ 
+In O
+addition O
+, O
+Statistics B-ORG
+Canada I-ORG
+indicated O
+the O
+following O
+exports O
+to O
+the O
+U.S. B-LOC
+between O
+August O
+and O
+September O
+1996 O
+, O
+in O
+tonnes O
+: O
+ 
+Oats O
+Rye O
+Flaxseed O
+Canola O
+Corn O
+ 
+Exports O
+29,200 O
+17,200 O
+7,700 O
+100 O
+59,400 O
+ 
+Year O
+Ago O
+47,000 O
+24,300 O
+8,700 O
+8,200 O
+12,200 O
+ 
+( O
+Chicago B-LOC
+newsdesk O
+312 O
+408 O
+8720 O
+) O
+ 
+-DOCSTART- O
+ 
+London B-LOC
+coal O
+/ O
+ore O
+fixtures O
+. O
+ 
+LONDON B-LOC
+1996-12-06 O
+ 
+COAL O
+- O
+Lantau B-LOC
+Peak I-LOC
+- O
+120,000 O
+tones O
+coal O
+Hay B-LOC
+Point I-LOC
+or O
+Newcastle B-LOC
+/ O
+Kaohsiung B-LOC
+20-30/1 O
+$ O
+5.25 O
+and O
+$ O
+5.85 O
+fio O
+respectively O
+40,000-35,000 O
+/ O
+28,000 O
+shinc O
+China B-ORG
+Steel I-ORG
+. O
+ 
+Royal B-MISC
+Clipper I-MISC
+- O
+77,000 O
+tonnes O
+coal O
+Maracaibo B-LOC
+/ O
+Fos B-LOC
+19/12-2/1 O
+$ O
+9.90 O
+fio O
+20,000 O
+shinc O
+/ O
+25,000 O
+shinc O
+Coe B-ORG
+and I-ORG
+Clerici I-ORG
+. O
+ 
+ORE O
+- O
+IMC B-MISC
+TBN B-MISC
+- O
+70,000 O
+tonnes O
+Dampier B-LOC
+/ O
+Kaohsiung B-LOC
+20-30/12 O
+$ O
+5.25 O
+fio O
+35,000 O
+shinc O
+/ O
+30,000 O
+shinc O
+China B-ORG
+Steel I-ORG
+. O
+ 
+-DOCSTART- O
+ 
+Delphis B-ORG
+Hanover I-ORG
+weekly O
+municipal O
+bond O
+yields O
+. O
+ 
+Delphis B-ORG
+Hanover I-ORG
+weekly O
+muni O
+bond O
+yields O
+calculated O
+Dec O
+5 O
+ 
+Aaa O
+Aa O
+A O
+Baa O
+ 
+1997 O
+3.50 O
+3.60* O
+3.70 O
+3.75 O
+4.00 O
+4.00 O
+4.30 O
+4.35 O
+ 
+2001 O
+4.20 O
+4.20 O
+4.35 O
+4.40 O
+4.65 O
+4.65 O
+5.00 O
+5.00 O
+ 
+2006 O
+4.70 O
+4.70 O
+4.85 O
+4.85 O
+5.15 O
+5.15 O
+5.50 O
+5.50 O
+ 
+2011 O
+5.15 O
+5.15 O
+5.30 O
+5.30 O
+5.60 O
+5.60 O
+5.90 O
+5.90 O
+ 
+2016 O
+5.35 O
+5.30 O
+5.50 O
+5.45 O
+5.80 O
+5.75 O
+6.10 O
+6.05 O
+ 
+2021 O
+5.45 O
+5.40 O
+5.60 O
+5.55 O
+5.90 O
+5.85 O
+6.20 O
+6.15 O
+ 
+2026 O
+5.50 O
+5.45 O
+5.65 O
+5.60 O
+5.95 O
+5.90 O
+6.25 O
+6.20 O
+ 
+*from O
+previous O
+calculation O
+on O
+Nov O
+27 O
+ 
+-- O
+U.S. B-ORG
+Municipal I-ORG
+Desk I-ORG
+, O
+212-859-1650 O
+ 
+-DOCSTART- O
+ 
+Thai B-MISC
+rice O
+vessels O
+loading O
+and O
+movements O
+at O
+Dec O
+06 O
+. O
+ 
+BANGKOK B-LOC
+1996-11-29 O
+ 
+The O
+Thai B-MISC
+Commerce B-ORG
+Ministry I-ORG
+detailed O
+rice O
+loading O
+at O
+Thai B-MISC
+ports O
+as O
+follows O
+( O
+in O
+tonnes O
+) O
+: O
+ 
+Vessel O
+Date O
+of O
+Arrival O
+Quantity O
+Destination O
+ 
+Iran B-MISC
+Sabr I-MISC
+19/11/96 O
+9,000 O
+Iran B-LOC
+ 
+Princess B-MISC
+of I-MISC
+Loine I-MISC
+19/11/96 O
+10,000 O
+Philippines B-LOC
+ 
+Deligst B-MISC
+20/11/96 O
+5,500 O
+Indonesia B-LOC
+ 
+Seagramd B-MISC
+ace I-MISC
+20/11/96 O
+5,000 O
+Japan B-LOC
+ 
+Lucky B-MISC
+Emdldm I-MISC
+20/11/96 O
+5,000 O
+Japan B-LOC
+ 
+Algoa B-MISC
+Day I-MISC
+21/11/96 O
+6,000 O
+Africa B-LOC
+ 
+Sangthai B-MISC
+Glory I-MISC
+22/11/96 O
+3,000 O
+Singapore B-LOC
+ 
+Myos B-MISC
+Yang I-MISC
+5 O
+22/11/96 O
+4,000 O
+Indonesia B-LOC
+ 
+Budisuryana B-MISC
+22/11/96 O
+3,800 O
+Malaysia B-LOC
+ 
+King B-MISC
+Ace I-MISC
+22/11/96 O
+5,000 O
+Japan B-LOC
+ 
+Tong B-MISC
+Shun I-MISC
+25/11/96 O
+3,000 O
+Vietnam B-LOC
+ 
+But B-MISC
+2 O
+27/11/96 O
+5,000 O
+Burma B-LOC
+ 
+-- O
+Bangkok B-LOC
+newsroom O
+( O
+662 O
+) O
+652-0642 O
+ 
+-DOCSTART- O
+ 
+Sangetsu B-ORG
+- O
+96/97 O
+parent O
+forecast O
+. O
+ 
+TOKYO B-LOC
+1996-12-06 O
+ 
+Year O
+to O
+March O
+31 O
+, O
+1997 O
+ 
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+ 
+LATEST O
+ACTUAL O
+ 
+( O
+Parent O
+) O
+FORECAST O
+YEAR-AGO O
+ 
+Sales O
+128.00 O
+117.56 O
+ 
+Current O
+12.00 O
+9.94 O
+ 
+Net O
+6.20 O
+5.36 O
+ 
+EPS O
+143.56 O
+yen O
+127.64 O
+yen O
+ 
+Ord O
+div O
+30.00 O
+yen O
+30.00 O
+yen O
+ 
+NOTE O
+- O
+Sangetsu B-ORG
+Co I-ORG
+Ltd I-ORG
+is O
+a O
+trader O
+specialising O
+in O
+interiors O
+. O
+ 
