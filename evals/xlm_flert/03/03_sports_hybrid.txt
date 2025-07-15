@@ -5,3 +5,28 @@
 | MISC   |       96.77 |    98.36 |  97.56 |          61 |          62 |        60 |
 | ORG    |       96.67 |    93.55 |  95.08 |          93 |          90 |        87 |
 | PER    |       99.61 |    99.61 |  99.61 |         257 |         257 |       256 |
+
+|   Count | Error   | Type   | Tokens                   |
+|---------|---------|--------|--------------------------|
+|       2 | FP      | LOC    | Tasmania                 |
+|       2 | FP      | LOC    | Victoria                 |
+|       2 | FN      | ORG    | Tasmania                 |
+|       2 | FN      | ORG    | Victoria                 |
+|       1 | FP      | LOC    | CAMPESE                  |
+|       1 | FP      | ORG    | Twickenham               |
+|       1 | FP      | ORG    | Leicester                |
+|       1 | FP      | ORG    | Pontypridd               |
+|       1 | FP      | PER    | REUTER                   |
+|       1 | FP      | LOC    | Melbourne Cricket Ground |
+|       1 | FP      | LOC    | Salamanca                |
+|       1 | FP      | MISC   | Czech                    |
+|       1 | FP      | MISC   | Cup                      |
+|       1 | FN      | PER    | CAMPESE                  |
+|       1 | FN      | LOC    | Twickenham               |
+|       1 | FN      | LOC    | Pontypridd               |
+|       1 | FN      | LOC    | Leicester                |
+|       1 | FN      | ORG    | REUTER                   |
+|       1 | FN      | LOC    | Melbourne                |
+|       1 | FN      | ORG    | Salamanca                |
+|       1 | FN      | LOC    | Czech                    |
+|       1 | FN      | MISC   | Saturday'sWorld Cup      |

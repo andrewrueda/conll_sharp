@@ -5,3 +5,313 @@
 | MISC   |       85.95 |    87.55 |  86.74 |         482 |         491 |       422 |
 | ORG    |       89.76 |    94.67 |  92.15 |         676 |         713 |       640 |
 | PER    |       97.48 |    96.13 |  96.80 |         724 |         714 |       696 |
+
+|   Count | Error   | Type   | Tokens                               |
+|---------|---------|--------|--------------------------------------|
+|      11 | FP      | MISC   | Czech                                |
+|      11 | FN      | LOC    | Czech                                |
+|       4 | FP      | ORG    | BILO                                 |
+|       4 | FN      | MISC   | BILO                                 |
+|       3 | FP      | PER    | van Boxmeer                          |
+|       3 | FP      | PER    | Pope                                 |
+|       3 | FP      | MISC   | EST                                  |
+|       3 | FN      | PER    | Boxmeer                              |
+|       2 | FP      | MISC   | World Cup                            |
+|       2 | FP      | ORG    | Philadelphia                         |
+|       2 | FP      | MISC   | NFC                                  |
+|       2 | FP      | MISC   | One Global Depository Receipt        |
+|       2 | FP      | LOC    | Med                                  |
+|       2 | FP      | LOC    | Busang                               |
+|       2 | FP      | ORG    | Congress                             |
+|       2 | FP      | LOC    | Jordan                               |
+|       2 | FP      | LOC    | West                                 |
+|       2 | FP      | LOC    | mid-Mississippi                      |
+|       2 | FP      | ORG    | William Hill                         |
+|       2 | FP      | ORG    | Pan American                         |
+|       2 | FP      | LOC    | Antwerp                              |
+|       2 | FP      | ORG    | First                                |
+|       2 | FP      | LOC    | NZ                                   |
+|       2 | FP      | LOC    | Fraser                               |
+|       2 | FP      | ORG    | Ministry                             |
+|       2 | FP      | ORG    | TOPS                                 |
+|       2 | FN      | LOC    | Philadelphia                         |
+|       2 | FN      | MISC   | German                               |
+|       2 | FN      | ORG    | Zywiec                               |
+|       2 | FN      | ORG    | Busang                               |
+|       2 | FN      | PER    | Jordan                               |
+|       2 | FN      | MISC   | Moslem                               |
+|       2 | FN      | ORG    | NYMEX                                |
+|       2 | FN      | MISC   | Permian                              |
+|       2 | FN      | MISC   | mid-Mississippi                      |
+|       2 | FN      | PER    | William Hill                         |
+|       2 | FN      | MISC   | ACCESS                               |
+|       2 | FN      | MISC   | Pan American                         |
+|       2 | FN      | ORG    | Antwerp                              |
+|       2 | FN      | ORG    | NZ First                             |
+|       2 | FN      | PER    | Fraser                               |
+|       2 | FN      | MISC   | TOPS                                 |
+|       1 | FP      | LOC    | CHINA                                |
+|       1 | FP      | ORG    | Bitar                                |
+|       1 | FP      | ORG    | Yorkshire                            |
+|       1 | FP      | MISC   | AUSTRALIAN TOUR                      |
+|       1 | FP      | MISC   | Tour                                 |
+|       1 | FP      | MISC   | AMERICAN                             |
+|       1 | FP      | MISC   | AFC                                  |
+|       1 | FP      | ORG    | Indianapolis                         |
+|       1 | FP      | MISC   | NFC East                             |
+|       1 | FP      | LOC    | STATE                                |
+|       1 | FP      | MISC   | AMERICAN FOOTBALL-OHIO               |
+|       1 | FP      | ORG    | Rotary Club of Houston               |
+|       1 | FP      | LOC    | Nebraska                             |
+|       1 | FP      | ORG    | Real Madrid-Barcelona                |
+|       1 | FP      | LOC    | Santiago Bernabeu                    |
+|       1 | FP      | MISC   | UNCAPPED                             |
+|       1 | FP      | MISC   | Fair Play                            |
+|       1 | FP      | ORG    | Mercedes                             |
+|       1 | FP      | LOC    | S.AFRICA                             |
+|       1 | FP      | LOC    | DURBAN                               |
+|       1 | FP      | ORG    | Democratic Convention                |
+|       1 | FP      | ORG    | Social Democrats                     |
+|       1 | FP      | MISC   | Polish Jews                          |
+|       1 | FP      | MISC   | Nazi German                          |
+|       1 | FP      | MISC   | CEFTA                                |
+|       1 | FP      | PER    | Zywiec                               |
+|       1 | FP      | MISC   | Zywiec Full Light                    |
+|       1 | FP      | ORG    | UK Department of Transport           |
+|       1 | FP      | ORG    | ADS                                  |
+|       1 | FP      | LOC    | Heathrow                             |
+|       1 | FP      | LOC    | London                               |
+|       1 | FP      | LOC    | London-to-Boston                     |
+|       1 | FP      | MISC   | Mediterranean                        |
+|       1 | FP      | ORG    | Med                                  |
+|       1 | FP      | MISC   | Private Finance Initiative           |
+|       1 | FP      | ORG    | NYC                                  |
+|       1 | FP      | ORG    | Santa Fe                             |
+|       1 | FP      | PER    | Russ Berrie                          |
+|       1 | FP      | MISC   | Chapter Seven                        |
+|       1 | FP      | MISC   | Chapter                              |
+|       1 | FP      | LOC    | Masisi                               |
+|       1 | FP      | LOC    | Patasse                              |
+|       1 | FP      | LOC    | Baya                                 |
+|       1 | FP      | MISC   | Mutineers                            |
+|       1 | FP      | PER    | Pope John Paul                       |
+|       1 | FP      | MISC   | Polish-born                          |
+|       1 | FP      | LOC    | Far North                            |
+|       1 | FP      | MISC   | Ottoman Turkish                      |
+|       1 | FP      | ORG    | Budapest Bank                        |
+|       1 | FP      | ORG    | ADRs                                 |
+|       1 | FP      | ORG    | Santander                            |
+|       1 | FP      | LOC    | SANTIAGO                             |
+|       1 | FP      | PER    | Hansenne                             |
+|       1 | FP      | MISC   | Asia Rubber Markets                  |
+|       1 | FP      | MISC   | Sakakibara                           |
+|       1 | FP      | PER    | Haitham Haddadin                     |
+|       1 | FP      | MISC   | Christian-Shi'ite Moslem             |
+|       1 | FP      | PER    | John Mills Jr                        |
+|       1 | FP      | ORG    | 11th Circuit U.S. Court of Appeals   |
+|       1 | FP      | ORG    | County Circuit Court                 |
+|       1 | FP      | LOC    | Outagmie                             |
+|       1 | FP      | PER    | Luebke                               |
+|       1 | FP      | ORG    | NYMEX Henry Hub                      |
+|       1 | FP      | LOC    | Midcontinent                         |
+|       1 | FP      | LOC    | Permian                              |
+|       1 | FP      | ORG    | Permian                              |
+|       1 | FP      | LOC    | East                                 |
+|       1 | FP      | LOC    | Southwest                            |
+|       1 | FP      | ORG    | St. Louis Merchants Exchange         |
+|       1 | FP      | LOC    | McGregor                             |
+|       1 | FP      | ORG    | Action Performance                   |
+|       1 | FP      | ORG    | Humane Society of the United States  |
+|       1 | FP      | LOC    | Glencoe Animal Hospital              |
+|       1 | FP      | MISC   | German                               |
+|       1 | FP      | LOC    | Iowa-S Minn                          |
+|       1 | FP      | MISC   | Fascist                              |
+|       1 | FP      | ORG    | RAI                                  |
+|       1 | FP      | MISC   | Europe Agreement                     |
+|       1 | FP      | LOC    | Babri                                |
+|       1 | FP      | MISC   | Christmas                            |
+|       1 | FP      | ORG    | Treasuries                           |
+|       1 | FP      | MISC   | German Bunds                         |
+|       1 | FP      | ORG    | Arabian Light                        |
+|       1 | FP      | LOC    | Dubai                                |
+|       1 | FP      | ORG    | Blend                                |
+|       1 | FP      | ORG    | Bonny Light                          |
+|       1 | FP      | ORG    | Isthmus                              |
+|       1 | FP      | MISC   | Saharan                              |
+|       1 | FP      | ORG    | Tia Juana                            |
+|       1 | FP      | ORG    | Minas                                |
+|       1 | FP      | ORG    | Exchequer                            |
+|       1 | FP      | PER    | Arafat-Netanyahu                     |
+|       1 | FP      | LOC    | LOS ANGELES                          |
+|       1 | FP      | MISC   | Northeastern                         |
+|       1 | FP      | ORG    | NYMEX ACCESS                         |
+|       1 | FP      | MISC   | Western                              |
+|       1 | FP      | ORG    | Consumer Project on Technology       |
+|       1 | FP      | MISC   | Net                                  |
+|       1 | FP      | MISC   | Algerian Moslem                      |
+|       1 | FP      | LOC    | MANTUA                               |
+|       1 | FP      | LOC    | Mantua                               |
+|       1 | FP      | ORG    | League                               |
+|       1 | FP      | LOC    | Viva Italia                          |
+|       1 | FP      | LOC    | Po River                             |
+|       1 | FP      | ORG    | Radiometer                           |
+|       1 | FP      | ORG    | Muenchener Rueckversicherungs AG     |
+|       1 | FP      | ORG    | John Lewis Partnership               |
+|       1 | FP      | MISC   | Conservatives                        |
+|       1 | FP      | ORG    | Newsnight                            |
+|       1 | FP      | MISC   | Pro-European Conservative            |
+|       1 | FP      | ORG    | Nats                                 |
+|       1 | FP      | ORG    | NZ First                             |
+|       1 | FP      | ORG    | National and                         |
+|       1 | FP      | ORG    | Nat , Lab                            |
+|       1 | FP      | LOC    | Australian Capital Territory         |
+|       1 | FP      | ORG    | Labor                                |
+|       1 | FP      | ORG    | Canberra Bureau                      |
+|       1 | FP      | ORG    | Port Office                          |
+|       1 | FP      | PER    | K.T. Arasu                           |
+|       1 | FP      | ORG    | Mines and Energy Ministry            |
+|       1 | FP      | MISC   | Indonesian                           |
+|       1 | FP      | ORG    | Panutan                              |
+|       1 | FP      | ORG    | PT Panutan Duta                      |
+|       1 | FP      | ORG    | Business Policy                      |
+|       1 | FP      | MISC   | Uruguay Round                        |
+|       1 | FP      | ORG    | wise                                 |
+|       1 | FP      | ORG    | Posts and Telecommunications         |
+|       1 | FP      | PER    | ALPINE SKIING-GLADISHIVA             |
+|       1 | FP      | MISC   | WORLD CUP SUPER G                    |
+|       1 | FP      | MISC   | Super G                              |
+|       1 | FP      | MISC   | THIRD                                |
+|       1 | FP      | MISC   | PGA                                  |
+|       1 | FP      | MISC   | LPGA Tours                           |
+|       1 | FP      | PER    | ALPINE                               |
+|       1 | FP      | LOC    | Canada                               |
+|       1 | FP      | LOC    | USA I                                |
+|       1 | FP      | MISC   | ALPINE                               |
+|       1 | FP      | MISC   | SKIING-OFFICIALS                     |
+|       1 | FP      | MISC   | Super 12                             |
+|       1 | FP      | LOC    | New South Wales                      |
+|       1 | FP      | LOC    | Sunderland                           |
+|       1 | FP      | LOC    | Tasmania                             |
+|       1 | FP      | ORG    | Victoria                             |
+|       1 | FP      | MISC   | NHL                                  |
+|       1 | FP      | PER    | RW                                   |
+|       1 | FP      | MISC   | National Hockey League               |
+|       1 | FP      | MISC   | International Boxing Federation      |
+|       1 | FP      | ORG    | The                                  |
+|       1 | FP      | ORG    | Super Peasants                       |
+|       1 | FP      | MISC   | European championship                |
+|       1 | FP      | MISC   | 1988                                 |
+|       1 | FN      | PER    | CHINA                                |
+|       1 | FN      | PER    | Bitar                                |
+|       1 | FN      | MISC   | 1995 World Cup                       |
+|       1 | FN      | LOC    | Yorkshire                            |
+|       1 | FN      | LOC    | Indianapolis                         |
+|       1 | FN      | MISC   | FOOTBALL-OHIO STATE                  |
+|       1 | FN      | ORG    | Rotary Club                          |
+|       1 | FN      | LOC    | Houston                              |
+|       1 | FN      | ORG    | Nebraska                             |
+|       1 | FN      | MISC   | Real Madrid-Barcelona                |
+|       1 | FN      | LOC    | Santiago Bernabeu stadium            |
+|       1 | FN      | MISC   | Mercedes                             |
+|       1 | FN      | PER    | EYLES                                |
+|       1 | FN      | MISC   | S.AFRICA                             |
+|       1 | FN      | PER    | DURBAN                               |
+|       1 | FN      | MISC   | Democratic Convention                |
+|       1 | FN      | MISC   | Social Democrats                     |
+|       1 | FN      | MISC   | Polish                               |
+|       1 | FN      | MISC   | Jews                                 |
+|       1 | FN      | MISC   | Nazi                                 |
+|       1 | FN      | ORG    | CEFTA                                |
+|       1 | FN      | MISC   | Full Light                           |
+|       1 | FN      | LOC    | UK                                   |
+|       1 | FN      | ORG    | Department of Transport              |
+|       1 | FN      | LOC    | London Heathrow                      |
+|       1 | FN      | MISC   | London-to-Boston                     |
+|       1 | FN      | MISC   | NYC                                  |
+|       1 | FN      | LOC    | Santa Fe                             |
+|       1 | FN      | ORG    | Russ Berrie                          |
+|       1 | FN      | PER    | Patasse                              |
+|       1 | FN      | MISC   | Baya                                 |
+|       1 | FN      | PER    | John Paul                            |
+|       1 | FN      | MISC   | Turkish                              |
+|       1 | FN      | LOC    | Budapest                             |
+|       1 | FN      | MISC   | ADRs                                 |
+|       1 | FN      | LOC    | Santander                            |
+|       1 | FN      | PER    | SANTIAGO                             |
+|       1 | FN      | ORG    | Finance                              |
+|       1 | FN      | MISC   | Asia Rubber Markets meeting          |
+|       1 | FN      | PER    | Note                                 |
+|       1 | FN      | PER    | Sakakibara                           |
+|       1 | FN      | ORG    | Haitham Haddadin                     |
+|       1 | FN      | MISC   | Christian-Shi'ite                    |
+|       1 | FN      | PER    | John Mills                           |
+|       1 | FN      | ORG    | U.S. Court of Appeals                |
+|       1 | FN      | LOC    | Outagmie County                      |
+|       1 | FN      | LOC    | Henry Hub                            |
+|       1 | FN      | LOC    | St. Louis                            |
+|       1 | FN      | PER    | McGregor                             |
+|       1 | FN      | LOC    | United States                        |
+|       1 | FN      | ORG    | Glencoe Animal Hospital              |
+|       1 | FN      | MISC   | German shepherds                     |
+|       1 | FN      | MISC   | cocker spaniels                      |
+|       1 | FN      | LOC    | Iowa-S                               |
+|       1 | FN      | LOC    | Minn                                 |
+|       1 | FN      | LOC    | RAI                                  |
+|       1 | FN      | LOC    | Europe                               |
+|       1 | FN      | MISC   | Treasuries                           |
+|       1 | FN      | MISC   | Bonny Light                          |
+|       1 | FN      | MISC   | Dubai                                |
+|       1 | FN      | MISC   | Tia Juana                            |
+|       1 | FN      | MISC   | Saharan Blend                        |
+|       1 | FN      | MISC   | Isthmus                              |
+|       1 | FN      | MISC   | Minas                                |
+|       1 | FN      | MISC   | Arabian Light                        |
+|       1 | FN      | ORG    | LOS ANGELES                          |
+|       1 | FN      | MISC   | NYMEX ACCESS                         |
+|       1 | FN      | LOC    | N.M.                                 |
+|       1 | FN      | PER    | Consumer Project                     |
+|       1 | FN      | MISC   | Network                              |
+|       1 | FN      | MISC   | Algerian                             |
+|       1 | FN      | LOC    | Let                                  |
+|       1 | FN      | LOC    | League                               |
+|       1 | FN      | LOC    | Italia                               |
+|       1 | FN      | LOC    | Po                                   |
+|       1 | FN      | ORG    | Wednesday                            |
+|       1 | FN      | MISC   | Muenchener                           |
+|       1 | FN      | ORG    | Rueckversicherungs AG                |
+|       1 | FN      | PER    | John Lewis                           |
+|       1 | FN      | MISC   | Newsnight                            |
+|       1 | FN      | MISC   | Pro-European                         |
+|       1 | FN      | MISC   | Conservative                         |
+|       1 | FN      | ORG    | Foreign Affairs                      |
+|       1 | FN      | PER    | Nats                                 |
+|       1 | FN      | LOC    | NZ                                   |
+|       1 | FN      | ORG    | National                             |
+|       1 | FN      | PER    | Nat                                  |
+|       1 | FN      | PER    | Lab                                  |
+|       1 | FN      | MISC   | Australian Capital Territory         |
+|       1 | FN      | LOC    | Canberra                             |
+|       1 | FN      | LOC    | K.T. Arasu                           |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry |
+|       1 | FN      | PER    | Panutan                              |
+|       1 | FN      | PER    | PT Panutan Duta                      |
+|       1 | FN      | MISC   | then-U.S.                            |
+|       1 | FN      | LOC    | Uruguay                              |
+|       1 | FN      | MISC   | WORLD CUP                            |
+|       1 | FN      | MISC   | SKIING-GLADISHIVA                    |
+|       1 | FN      | ORG    | PGA                                  |
+|       1 | FN      | ORG    | LPGA                                 |
+|       1 | FN      | MISC   | BOBSLEIGH-SHIMER                     |
+|       1 | FN      | ORG    | Canada I                             |
+|       1 | FN      | ORG    | USA I                                |
+|       1 | FN      | ORG    | New South Wales                      |
+|       1 | FN      | ORG    | Sunderland                           |
+|       1 | FN      | ORG    | Tasmania                             |
+|       1 | FN      | LOC    | Victoria                             |
+|       1 | FN      | PER    | Pace                                 |
+|       1 | FN      | ORG    | NHL                                  |
+|       1 | FN      | ORG    | National Hockey League               |
+|       1 | FN      | ORG    | International Boxing Federation      |
+|       1 | FN      | ORG    | The Super Peasants                   |
+|       1 | FN      | MISC   | European                             |
+|       1 | FN      | MISC   | 1966 World Cup                       |

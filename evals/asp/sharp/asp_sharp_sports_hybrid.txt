@@ -1,0 +1,21 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       98.13 |    98.31 |  98.22 |         534 |         535 |       525 |
+| LOC    |       94.07 |    97.37 |  95.69 |         114 |         118 |       111 |
+| MISC   |       98.46 |   100.00 |  99.22 |          64 |          65 |        64 |
+| ORG    |       97.83 |    93.75 |  95.74 |          96 |          92 |        90 |
+| PER    |      100.00 |   100.00 | 100.00 |         260 |         260 |       260 |
+
+|   Count | Error   | Type   | Tokens         |
+|---------|---------|--------|----------------|
+|       4 | FP      | LOC    | Tasmania       |
+|       4 | FN      | ORG    | Tasmania       |
+|       2 | FP      | LOC    | Victoria       |
+|       2 | FN      | ORG    | Victoria       |
+|       1 | FP      | MISC   | Group A        |
+|       1 | FP      | LOC    | gone Indonesia |
+|       1 | FP      | ORG    | Leicester      |
+|       1 | FP      | ORG    | Pontypridd     |
+|       1 | FN      | LOC    | Indonesia      |
+|       1 | FN      | LOC    | Pontypridd     |
+|       1 | FN      | LOC    | Leicester      |

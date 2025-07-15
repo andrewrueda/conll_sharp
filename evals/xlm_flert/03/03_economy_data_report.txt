@@ -5,3 +5,76 @@
 | MISC   |       72.73 |    48.48 |  58.18 |          33 |          22 |        16 |
 | ORG    |       60.00 |    87.80 |  71.29 |          41 |          60 |        36 |
 | PER    |       50.00 |   100.00 |  66.67 |           1 |           2 |         1 |
+
+|   Count | Error   | Type   | Tokens                                    |
+|---------|---------|--------|-------------------------------------------|
+|       2 | FP      | ORG    | New York Commodities Desk                 |
+|       2 | FN      | ORG    | Manitoba                                  |
+|       2 | FN      | MISC   | Canadian                                  |
+|       2 | FN      | ORG    | New York Commodities                      |
+|       1 | FP      | MISC   | CST                                       |
+|       1 | FP      | MISC   | Manitoba Government Price Index           |
+|       1 | FP      | LOC    | Manitoba                                  |
+|       1 | FP      | ORG    | CWB                                       |
+|       1 | FP      | MISC   | Canadian West Coast                       |
+|       1 | FP      | LOC    | Canadian West Coast                       |
+|       1 | FP      | LOC    | West Coast                                |
+|       1 | FP      | LOC    | East Coast                                |
+|       1 | FP      | ORG    | Vancouver                                 |
+|       1 | FP      | ORG    | Prince                                    |
+|       1 | FP      | PER    | Rupert                                    |
+|       1 | FP      | LOC    | 30,000                                    |
+|       1 | FP      | LOC    | WESTERN HEMISPHERE                        |
+|       1 | FP      | ORG    | Danila                                    |
+|       1 | FP      | LOC    | MIDEAST                                   |
+|       1 | FP      | ORG    | Thai Resource                             |
+|       1 | FP      | LOC    | MEDITERRANEAN                             |
+|       1 | FP      | ORG    | Lula I                                    |
+|       1 | FP      | ORG    | Spetses                                   |
+|       1 | FP      | ORG    | Mesipia                                   |
+|       1 | FP      | ORG    | Camaras Arbitrales                        |
+|       1 | FP      | ORG    | Buenos Aires Quequen Rosario Bahia Blanca |
+|       1 | FP      | ORG    | Flint                                     |
+|       1 | FP      | ORG    | Dent                                      |
+|       1 | FP      | ORG    | Sunseeds                                  |
+|       1 | FP      | MISC   | Est                                       |
+|       1 | FP      | ORG    | Steer and Heifer Cow and Bull             |
+|       1 | FP      | LOC    | CITY OF HARTFORD                          |
+|       1 | FP      | ORG    | USG                                       |
+|       1 | FP      | LOC    | 4,000                                     |
+|       1 | FP      | LOC    | Lantau Peak                               |
+|       1 | FP      | ORG    | Royal Clipper                             |
+|       1 | FP      | ORG    | IMC TBN                                   |
+|       1 | FP      | ORG    | Thai Commerce Ministry                    |
+|       1 | FP      | MISC   | Sabr                                      |
+|       1 | FP      | LOC    | Iran                                      |
+|       1 | FP      | ORG    | Sangthai Glory                            |
+|       1 | FP      | ORG    | Myos Yang                                 |
+|       1 | FP      | ORG    | Budisuryana                               |
+|       1 | FP      | MISC   | Tong                                      |
+|       1 | FP      | ORG    | Shun                                      |
+|       1 | FP      | LOC    | Bangkok                                   |
+|       1 | FN      | LOC    | CAN                                       |
+|       1 | FN      | LOC    | Vancouver                                 |
+|       1 | FN      | LOC    | Prince Rupert                             |
+|       1 | FN      | MISC   | Danila                                    |
+|       1 | FN      | MISC   | Thai Resource                             |
+|       1 | FN      | MISC   | MEDITERRANEAN                             |
+|       1 | FN      | MISC   | Lula I                                    |
+|       1 | FN      | MISC   | Spetses                                   |
+|       1 | FN      | MISC   | Mesipia                                   |
+|       1 | FN      | LOC    | Rosario                                   |
+|       1 | FN      | LOC    | Buenos Aires                              |
+|       1 | FN      | LOC    | Quequen                                   |
+|       1 | FN      | LOC    | Bahia Blanca                              |
+|       1 | FN      | LOC    | HARTFORD                                  |
+|       1 | FN      | MISC   | Lantau Peak                               |
+|       1 | FN      | MISC   | Royal Clipper                             |
+|       1 | FN      | ORG    | Commerce Ministry                         |
+|       1 | FN      | MISC   | Thai                                      |
+|       1 | FN      | MISC   | Iran Sabr                                 |
+|       1 | FN      | MISC   | Sangthai Glory                            |
+|       1 | FN      | MISC   | Myos Yang                                 |
+|       1 | FN      | MISC   | Budisuryana                               |
+|       1 | FN      | MISC   | Tong Shun                                 |
+|       1 | FN      | MISC   | Bangkok                                   |

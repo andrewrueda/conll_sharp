@@ -1,0 +1,133 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       92.81 |    93.44 |  93.13 |        1022 |        1029 |       955 |
+| LOC    |       95.53 |    97.72 |  96.61 |         394 |         403 |       385 |
+| MISC   |       82.86 |    74.84 |  78.64 |         155 |         140 |       116 |
+| ORG    |       91.95 |    94.91 |  93.40 |         373 |         385 |       354 |
+| PER    |       99.01 |   100.00 |  99.50 |         100 |         101 |       100 |
+
+|   Count | Error   | Type   | Tokens                               |
+|---------|---------|--------|--------------------------------------|
+|       4 | FN      | MISC   | trans-Atlantic                       |
+|       3 | FN      | ORG    | NYMEX                                |
+|       2 | FP      | ORG    | ACCESS                               |
+|       2 | FP      | LOC    | mid-Mississippi                      |
+|       2 | FP      | LOC    | Iowa-S Minn                          |
+|       2 | FP      | MISC   | NYMEX                                |
+|       2 | FP      | LOC    | Canadian West Coast                  |
+|       2 | FP      | ORG    | Toledo                               |
+|       2 | FN      | ORG    | Manitoba                             |
+|       2 | FN      | MISC   | Canadian                             |
+|       2 | FN      | MISC   | Iowa-S Minn                          |
+|       2 | FN      | MISC   | ACCESS                               |
+|       2 | FN      | LOC    | UK                                   |
+|       2 | FN      | LOC    | Toledo                               |
+|       2 | FN      | MISC   | mid-Mississippi                      |
+|       1 | FP      | ORG    | Congress                             |
+|       1 | FP      | PER    | Note                                 |
+|       1 | FP      | LOC    | West Coast                           |
+|       1 | FP      | MISC   | INTERVIEW                            |
+|       1 | FP      | LOC    | Midcontinent                         |
+|       1 | FP      | ORG    | Treasuries                           |
+|       1 | FP      | LOC    | Mesipia                              |
+|       1 | FP      | ORG    | Seagramd ace                         |
+|       1 | FP      | MISC   | USG                                  |
+|       1 | FP      | ORG    | Budisuryana                          |
+|       1 | FP      | ORG    | Tong Shun                            |
+|       1 | FP      | MISC   | Heineken                             |
+|       1 | FP      | LOC    | CITY OF HARTFORD                     |
+|       1 | FP      | MISC   | Manitoba Government Price Index      |
+|       1 | FP      | ORG    | IMC TBN                              |
+|       1 | FP      | LOC    | Lula I                               |
+|       1 | FP      | MISC   | ADS                                  |
+|       1 | FP      | MISC   | Bunds                                |
+|       1 | FP      | MISC   | KCBT                                 |
+|       1 | FP      | ORG    | Honda RV                             |
+|       1 | FP      | ORG    | Lucky Emdldm                         |
+|       1 | FP      | ORG    | British Airways / American           |
+|       1 | FP      | MISC   | Northeastern                         |
+|       1 | FP      | ORG    | Camaras Arbitrales                   |
+|       1 | FP      | LOC    | Sabr                                 |
+|       1 | FP      | ORG    | Myos Yang 5                          |
+|       1 | FP      | ORG    | UK Department of Transport           |
+|       1 | FP      | LOC    | London-to-Boston                     |
+|       1 | FP      | LOC    | Manitoba                             |
+|       1 | FP      | ORG    | NYMEX Henry Hub                      |
+|       1 | FP      | MISC   | Jones                                |
+|       1 | FP      | LOC    | East Coast                           |
+|       1 | FP      | ORG    | Hub                                  |
+|       1 | FP      | ORG    | King Ace                             |
+|       1 | FP      | LOC    | WESTERN HEMISPHERE                   |
+|       1 | FP      | ORG    | Algoa Day                            |
+|       1 | FP      | ORG    | Mines and Energy Ministry            |
+|       1 | FP      | MISC   | Indonesian                           |
+|       1 | FP      | ORG    | Mana                                 |
+|       1 | FP      | MISC   | Mediterranean                        |
+|       1 | FP      | ORG    | But 2                                |
+|       1 | FP      | MISC   | CAN                                  |
+|       1 | FP      | MISC   | East / West                          |
+|       1 | FP      | MISC   | Zywiec Full Light                    |
+|       1 | FP      | MISC   | Christmas                            |
+|       1 | FP      | ORG    | Danila                               |
+|       1 | FP      | MISC   | Dow                                  |
+|       1 | FP      | MISC   | Holsteins                            |
+|       1 | FP      | ORG    | Sangthai Glory                       |
+|       1 | FP      | MISC   | CEFTA                                |
+|       1 | FP      | MISC   | Nazi German                          |
+|       1 | FP      | LOC    | Iran                                 |
+|       1 | FP      | ORG    | Lantau Peak                          |
+|       1 | FP      | LOC    | Southwest                            |
+|       1 | FP      | MISC   | Holstein                             |
+|       1 | FP      | MISC   | Chilean                              |
+|       1 | FP      | ORG    | John Lewis UK                        |
+|       1 | FP      | ORG    | Asia Rubber Markets                  |
+|       1 | FP      | MISC   | Cwt                                  |
+|       1 | FP      | ORG    | Newmont-Santa Fe                     |
+|       1 | FP      | ORG    | USDA                                 |
+|       1 | FP      | ORG    | Ministry                             |
+|       1 | FN      | LOC    | Henry Hub                            |
+|       1 | FN      | MISC   | Lula I                               |
+|       1 | FN      | LOC    | CAN                                  |
+|       1 | FN      | MISC   | Honda RV                             |
+|       1 | FN      | ORG    | Zywiec                               |
+|       1 | FN      | ORG    | British Airways                      |
+|       1 | FN      | ORG    | Chilean Congress                     |
+|       1 | FN      | MISC   | Danila                               |
+|       1 | FN      | ORG    | CBOT                                 |
+|       1 | FN      | MISC   | Sangthai Glory                       |
+|       1 | FN      | LOC    | Mediterranean                        |
+|       1 | FN      | MISC   | Algoa Day                            |
+|       1 | FN      | MISC   | Asia Rubber Markets                  |
+|       1 | FN      | MISC   | Newmont-Santa Fe                     |
+|       1 | FN      | MISC   | USDA                                 |
+|       1 | FN      | ORG    | American                             |
+|       1 | FN      | ORG    | CEFTA                                |
+|       1 | FN      | MISC   | Treasuries                           |
+|       1 | FN      | MISC   | world wide web                       |
+|       1 | FN      | MISC   | WORLD WIDE WEB                       |
+|       1 | FN      | MISC   | Full Light                           |
+|       1 | FN      | MISC   | Iran Sabr                            |
+|       1 | FN      | MISC   | Seagramd ace                         |
+|       1 | FN      | LOC    | Lantau Peak                          |
+|       1 | FN      | MISC   | Budisuryana                          |
+|       1 | FN      | MISC   | Dow ( Jones industrial average )     |
+|       1 | FN      | MISC   | Tong Shun                            |
+|       1 | FN      | MISC   | German                               |
+|       1 | FN      | MISC   | TBN                                  |
+|       1 | FN      | ORG    | John Lewis                           |
+|       1 | FN      | ORG    | Department of Transport              |
+|       1 | FN      | LOC    | HARTFORD                             |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry |
+|       1 | FN      | MISC   | IMC                                  |
+|       1 | FN      | ORG    | Trade and Industry                   |
+|       1 | FN      | ORG    | USG                                  |
+|       1 | FN      | MISC   | Lucky Emdldm                         |
+|       1 | FN      | MISC   | Nazi                                 |
+|       1 | FN      | MISC   | Mesipia                              |
+|       1 | FN      | MISC   | London-to-Boston                     |
+|       1 | FN      | ORG    | Heineken                             |
+|       1 | FN      | MISC   | Myos Yang                            |
+|       1 | FN      | MISC   | But                                  |
+|       1 | FN      | MISC   | King Ace                             |
+|       1 | FN      | ORG    | KCBT                                 |
+|       1 | FN      | ORG    | GeePee                               |

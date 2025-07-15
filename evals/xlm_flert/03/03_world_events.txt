@@ -5,3 +5,116 @@
 | MISC   |       90.46 |    92.58 |  91.51 |         256 |         262 |       237 |
 | ORG    |       90.31 |    96.28 |  93.20 |         242 |         258 |       233 |
 | PER    |       97.50 |    96.16 |  96.83 |         365 |         360 |       351 |
+
+|   Count | Error   | Type   | Tokens                              |
+|---------|---------|--------|-------------------------------------|
+|       8 | FP      | MISC   | Czech                               |
+|       8 | FN      | LOC    | Czech                               |
+|       3 | FP      | PER    | Pope                                |
+|       3 | FP      | MISC   | EST                                 |
+|       2 | FP      | LOC    | Jordan                              |
+|       2 | FP      | ORG    | William Hill                        |
+|       2 | FP      | ORG    | Pan American                        |
+|       2 | FP      | LOC    | Antwerp                             |
+|       2 | FP      | ORG    | First                               |
+|       2 | FP      | LOC    | NZ                                  |
+|       2 | FP      | LOC    | Fraser                              |
+|       2 | FN      | PER    | Jordan                              |
+|       2 | FN      | MISC   | Moslem                              |
+|       2 | FN      | PER    | William Hill                        |
+|       2 | FN      | MISC   | Pan American                        |
+|       2 | FN      | ORG    | Antwerp                             |
+|       2 | FN      | ORG    | NZ First                            |
+|       2 | FN      | PER    | Fraser                              |
+|       1 | FP      | LOC    | S.AFRICA                            |
+|       1 | FP      | LOC    | DURBAN                              |
+|       1 | FP      | ORG    | Democratic Convention               |
+|       1 | FP      | ORG    | Social Democrats                    |
+|       1 | FP      | MISC   | Chapter Seven                       |
+|       1 | FP      | MISC   | Chapter                             |
+|       1 | FP      | LOC    | Masisi                              |
+|       1 | FP      | LOC    | Baya                                |
+|       1 | FP      | LOC    | Patasse                             |
+|       1 | FP      | MISC   | Mutineers                           |
+|       1 | FP      | PER    | Pope John Paul                      |
+|       1 | FP      | MISC   | Polish-born                         |
+|       1 | FP      | MISC   | Ottoman Turkish                     |
+|       1 | FP      | PER    | Hansenne                            |
+|       1 | FP      | PER    | Haitham Haddadin                    |
+|       1 | FP      | MISC   | Christian-Shi'ite Moslem            |
+|       1 | FP      | PER    | John Mills Jr                       |
+|       1 | FP      | ORG    | 11th Circuit U.S. Court of Appeals  |
+|       1 | FP      | LOC    | Outagmie                            |
+|       1 | FP      | ORG    | County Circuit Court                |
+|       1 | FP      | PER    | Luebke                              |
+|       1 | FP      | ORG    | Humane Society of the United States |
+|       1 | FP      | LOC    | Glencoe Animal Hospital             |
+|       1 | FP      | MISC   | German                              |
+|       1 | FP      | MISC   | Fascist                             |
+|       1 | FP      | ORG    | RAI                                 |
+|       1 | FP      | LOC    | Babri                               |
+|       1 | FP      | ORG    | Exchequer                           |
+|       1 | FP      | PER    | Arafat-Netanyahu                    |
+|       1 | FP      | MISC   | Western                             |
+|       1 | FP      | ORG    | Consumer Project on Technology      |
+|       1 | FP      | MISC   | Net                                 |
+|       1 | FP      | MISC   | Algerian Moslem                     |
+|       1 | FP      | LOC    | MANTUA                              |
+|       1 | FP      | LOC    | Mantua                              |
+|       1 | FP      | ORG    | League                              |
+|       1 | FP      | LOC    | Viva Italia                         |
+|       1 | FP      | LOC    | Po River                            |
+|       1 | FP      | MISC   | Conservatives                       |
+|       1 | FP      | ORG    | Newsnight                           |
+|       1 | FP      | MISC   | Pro-European Conservative           |
+|       1 | FP      | ORG    | NZ First                            |
+|       1 | FP      | ORG    | Nats                                |
+|       1 | FP      | ORG    | National and                        |
+|       1 | FP      | ORG    | Nat , Lab                           |
+|       1 | FP      | LOC    | Australian Capital Territory        |
+|       1 | FP      | ORG    | Labor                               |
+|       1 | FP      | ORG    | Canberra Bureau                     |
+|       1 | FP      | ORG    | Port Office                         |
+|       1 | FP      | ORG    | Business Policy                     |
+|       1 | FP      | MISC   | Uruguay Round                       |
+|       1 | FP      | LOC    | West                                |
+|       1 | FP      | ORG    | wise                                |
+|       1 | FN      | MISC   | S.AFRICA                            |
+|       1 | FN      | PER    | DURBAN                              |
+|       1 | FN      | MISC   | Democratic Convention               |
+|       1 | FN      | MISC   | Social Democrats                    |
+|       1 | FN      | MISC   | Baya                                |
+|       1 | FN      | PER    | Patasse                             |
+|       1 | FN      | PER    | John Paul                           |
+|       1 | FN      | MISC   | Turkish                             |
+|       1 | FN      | ORG    | Haitham Haddadin                    |
+|       1 | FN      | MISC   | Christian-Shi'ite                   |
+|       1 | FN      | PER    | John Mills                          |
+|       1 | FN      | ORG    | U.S. Court of Appeals               |
+|       1 | FN      | LOC    | Outagmie County                     |
+|       1 | FN      | LOC    | United States                       |
+|       1 | FN      | ORG    | Glencoe Animal Hospital             |
+|       1 | FN      | MISC   | cocker spaniels                     |
+|       1 | FN      | MISC   | German shepherds                    |
+|       1 | FN      | LOC    | RAI                                 |
+|       1 | FN      | LOC    | N.M.                                |
+|       1 | FN      | PER    | Consumer Project                    |
+|       1 | FN      | MISC   | Network                             |
+|       1 | FN      | MISC   | Algerian                            |
+|       1 | FN      | LOC    | Let                                 |
+|       1 | FN      | LOC    | League                              |
+|       1 | FN      | LOC    | Italia                              |
+|       1 | FN      | LOC    | Po                                  |
+|       1 | FN      | MISC   | Newsnight                           |
+|       1 | FN      | MISC   | Pro-European                        |
+|       1 | FN      | MISC   | Conservative                        |
+|       1 | FN      | ORG    | Foreign Affairs                     |
+|       1 | FN      | PER    | Nats                                |
+|       1 | FN      | LOC    | NZ                                  |
+|       1 | FN      | ORG    | National                            |
+|       1 | FN      | PER    | Nat                                 |
+|       1 | FN      | PER    | Lab                                 |
+|       1 | FN      | MISC   | Australian Capital Territory        |
+|       1 | FN      | LOC    | Canberra                            |
+|       1 | FN      | MISC   | then-U.S.                           |
+|       1 | FN      | LOC    | Uruguay                             |

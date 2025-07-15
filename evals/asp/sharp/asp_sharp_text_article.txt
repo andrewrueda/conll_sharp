@@ -1,0 +1,214 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       95.75 |    96.19 |  95.97 |        2833 |        2846 |      2725 |
+| LOC    |       97.92 |    97.92 |  97.92 |         913 |         913 |       894 |
+| MISC   |       89.57 |    91.00 |  90.28 |         500 |         508 |       455 |
+| ORG    |       94.91 |    95.04 |  94.98 |         706 |         707 |       671 |
+| PER    |       98.19 |    98.74 |  98.46 |         714 |         718 |       705 |
+
+|   Count | Error   | Type   | Tokens                                                                                                                                          |
+|---------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|       4 | FN      | MISC   | trans-Atlantic                                                                                                                                  |
+|       3 | FP      | MISC   | Wallaby                                                                                                                                         |
+|       3 | FP      | PER    | Pope                                                                                                                                            |
+|       3 | FN      | PER    | Charlton                                                                                                                                        |
+|       3 | FN      | ORG    | NYMEX                                                                                                                                           |
+|       3 | FN      | ORG    | Wallaby                                                                                                                                         |
+|       2 | FP      | MISC   | NYMEX                                                                                                                                           |
+|       2 | FP      | ORG    | ACCESS                                                                                                                                          |
+|       2 | FP      | LOC    | mid-Mississippi                                                                                                                                 |
+|       2 | FP      | MISC   | finals                                                                                                                                          |
+|       2 | FN      | LOC    | UK                                                                                                                                              |
+|       2 | FN      | MISC   | AMERICAN                                                                                                                                        |
+|       2 | FN      | MISC   | Moslem                                                                                                                                          |
+|       2 | FN      | LOC    | Ireland                                                                                                                                         |
+|       2 | FN      | ORG    | NFL                                                                                                                                             |
+|       2 | FN      | MISC   | mid-Mississippi                                                                                                                                 |
+|       2 | FN      | MISC   | ACCESS                                                                                                                                          |
+|       2 | FN      | LOC    | England                                                                                                                                         |
+|       1 | FP      | MISC   | Basque                                                                                                                                          |
+|       1 | FP      | MISC   | Fair Play                                                                                                                                       |
+|       1 | FP      | ORG    | Yorkshire                                                                                                                                       |
+|       1 | FP      | ORG    | Honda RV                                                                                                                                        |
+|       1 | FP      | MISC   | Catholic                                                                                                                                        |
+|       1 | FP      | MISC   | ADS                                                                                                                                             |
+|       1 | FP      | MISC   | me                                                                                                                                              |
+|       1 | FP      | PER    | " It was the joy that we all had over the period , that I shared with people that I grew to love , that I treasure most , " he added . Charlton |
+|       1 | FP      | ORG    | U.S. Court of Appeals                                                                                                                           |
+|       1 | FP      | MISC   | their own                                                                                                                                       |
+|       1 | FP      | ORG    | Supreme Court                                                                                                                                   |
+|       1 | FP      | MISC   | U.S. Amateur                                                                                                                                    |
+|       1 | FP      | MISC   | Belgian Franc                                                                                                                                   |
+|       1 | FP      | MISC   | Mediterranean                                                                                                                                   |
+|       1 | FP      | LOC    | New South Wales                                                                                                                                 |
+|       1 | FP      | LOC    | Glencoe Animal Hospital                                                                                                                         |
+|       1 | FP      | ORG    | Humane Society of the United States                                                                                                             |
+|       1 | FP      | LOC    | the people of Ireland                                                                                                                           |
+|       1 | FP      | MISC   | Northeastern                                                                                                                                    |
+|       1 | FP      | ORG    | Real Madrid-Barcelona                                                                                                                           |
+|       1 | FP      | LOC    | Balkan                                                                                                                                          |
+|       1 | FP      | MISC   | they formally received Irish                                                                                                                    |
+|       1 | FP      | ORG    | John Lewis UK                                                                                                                                   |
+|       1 | FP      | LOC    | MANCHESTER UNITED                                                                                                                               |
+|       1 | FP      | MISC   | Super G                                                                                                                                         |
+|       1 | FP      | ORG    | British Airways / American                                                                                                                      |
+|       1 | FP      | LOC    | Santiago Bernabeu                                                                                                                               |
+|       1 | FP      | LOC    | Iowa-S Minn                                                                                                                                     |
+|       1 | FP      | ORG    | NYMEX Henry Hub                                                                                                                                 |
+|       1 | FP      | ORG    | Congress                                                                                                                                        |
+|       1 | FP      | MISC   | Bunds                                                                                                                                           |
+|       1 | FP      | MISC   | European championship                                                                                                                           |
+|       1 | FP      | MISC   | Group A                                                                                                                                         |
+|       1 | FP      | ORG    | Asia Rubber Markets                                                                                                                             |
+|       1 | FP      | MISC   | Jones                                                                                                                                           |
+|       1 | FP      | MISC   | NCAA AMERICAN                                                                                                                                   |
+|       1 | FP      | LOC    | Ireland                                                                                                                                         |
+|       1 | FP      | LOC    | Southwest                                                                                                                                       |
+|       1 | FP      | MISC   | West                                                                                                                                            |
+|       1 | FP      | MISC   | Nazi German                                                                                                                                     |
+|       1 | FP      | MISC   | Group C                                                                                                                                         |
+|       1 | FP      | ORG    | Outagmie County Circuit Court                                                                                                                   |
+|       1 | FP      | ORG    | Conservative                                                                                                                                    |
+|       1 | FP      | ORG    | Hub                                                                                                                                             |
+|       1 | FP      | MISC   | East / West                                                                                                                                     |
+|       1 | FP      | MISC   | NFL AMERICAN                                                                                                                                    |
+|       1 | FP      | MISC   | Chilean                                                                                                                                         |
+|       1 | FP      | LOC    | Tasmania                                                                                                                                        |
+|       1 | FP      | ORG    | May 15                                                                                                                                          |
+|       1 | FP      | PER    | Lord Rama                                                                                                                                       |
+|       1 | FP      | ORG    | Mines and Energy Ministry                                                                                                                       |
+|       1 | FP      | LOC    | a well-fancied England                                                                                                                          |
+|       1 | FP      | MISC   | Indonesian                                                                                                                                      |
+|       1 | FP      | PER    | his wife                                                                                                                                        |
+|       1 | FP      | PER    | he                                                                                                                                              |
+|       1 | FP      | ORG    | Newsnight                                                                                                                                       |
+|       1 | FP      | MISC   | World Cup                                                                                                                                       |
+|       1 | FP      | LOC    | then-U.S.                                                                                                                                       |
+|       1 | FP      | MISC   | 1988                                                                                                                                            |
+|       1 | FP      | MISC   | Zywiec Full Light                                                                                                                               |
+|       1 | FP      | MISC   | SUPER G                                                                                                                                         |
+|       1 | FP      | ORG    | Business Policy                                                                                                                                 |
+|       1 | FP      | MISC   | 's achievements as the                                                                                                                          |
+|       1 | FP      | MISC   | PGA                                                                                                                                             |
+|       1 | FP      | LOC    | team 1-0 in their group qualifier . The lanky former Leeds United defender did not make his England                                             |
+|       1 | FP      | PER    | John Mills Jr .                                                                                                                                 |
+|       1 | FP      | MISC   | WALLABY                                                                                                                                         |
+|       1 | FP      | ORG    | United Province                                                                                                                                 |
+|       1 | FP      | MISC   | Christmas                                                                                                                                       |
+|       1 | FP      | ORG    | Conservatives                                                                                                                                   |
+|       1 | FP      | MISC   | fact that                                                                                                                                       |
+|       1 | FP      | MISC   | KCBT                                                                                                                                            |
+|       1 | FP      | PER    | honour had been made in recognition of Charlton                                                                                                 |
+|       1 | FP      | PER    | , Bobby                                                                                                                                         |
+|       1 | FP      | ORG    | Cincinnati                                                                                                                                      |
+|       1 | FP      | PER    | 1996-12-07 Jack Charlton                                                                                                                        |
+|       1 | FP      | ORG    | UK Department of Transport                                                                                                                      |
+|       1 | FP      | ORG    | Social Democrats                                                                                                                                |
+|       1 | FP      | MISC   | National Hockey League                                                                                                                          |
+|       1 | FP      | MISC   | Algerian Moslem                                                                                                                                 |
+|       1 | FP      | MISC   | LPGA Tours                                                                                                                                      |
+|       1 | FP      | ORG    | Mercedes                                                                                                                                        |
+|       1 | FP      | MISC   | NFL                                                                                                                                             |
+|       1 | FP      | PER    | " Charlton                                                                                                                                      |
+|       1 | FP      | MISC   | Dow                                                                                                                                             |
+|       1 | FP      | ORG    | Church                                                                                                                                          |
+|       1 | FP      | ORG    | Treasuries                                                                                                                                      |
+|       1 | FP      | ORG    | Newmont-Santa Fe                                                                                                                                |
+|       1 | FP      | MISC   | USA III                                                                                                                                         |
+|       1 | FP      | MISC   | Heineken                                                                                                                                        |
+|       1 | FP      | MISC   | Viva Italia                                                                                                                                     |
+|       1 | FP      | ORG    | the Republic                                                                                                                                    |
+|       1 | FP      | LOC    | Babri                                                                                                                                           |
+|       1 | FP      | MISC   | CEFTA                                                                                                                                           |
+|       1 | FP      | MISC   | Christian-Shi'ite Moslem                                                                                                                        |
+|       1 | FP      | ORG    | Ministry                                                                                                                                        |
+|       1 | FP      | ORG    | 11th Circuit                                                                                                                                    |
+|       1 | FP      | ORG    | Codos                                                                                                                                           |
+|       1 | FP      | MISC   | INTERVIEW                                                                                                                                       |
+|       1 | FP      | ORG    | Democratic Convention                                                                                                                           |
+|       1 | FP      | LOC    | Midcontinent                                                                                                                                    |
+|       1 | FP      | LOC    | managed Ireland                                                                                                                                 |
+|       1 | FP      | PER    | Note                                                                                                                                            |
+|       1 | FP      | MISC   | successive                                                                                                                                      |
+|       1 | FP      | ORG    | Uttar Pradesh                                                                                                                                   |
+|       1 | FP      | ORG    | I.D.E.A .                                                                                                                                       |
+|       1 | FP      | LOC    | London-to-Boston                                                                                                                                |
+|       1 | FN      | ORG    | KCBT                                                                                                                                            |
+|       1 | FN      | ORG    | Glencoe Animal Hospital                                                                                                                         |
+|       1 | FN      | MISC   | Nazi                                                                                                                                            |
+|       1 | FN      | LOC    | Republic of Ireland                                                                                                                             |
+|       1 | FN      | MISC   | Conservative                                                                                                                                    |
+|       1 | FN      | ORG    | National Hockey League                                                                                                                          |
+|       1 | FN      | ORG    | MANCHESTER UNITED                                                                                                                               |
+|       1 | FN      | LOC    | Uttar Pradesh                                                                                                                                   |
+|       1 | FN      | ORG    | Zywiec                                                                                                                                          |
+|       1 | FN      | MISC   | chow chows                                                                                                                                      |
+|       1 | FN      | LOC    | United Province                                                                                                                                 |
+|       1 | FN      | PER    | Jack Charlton                                                                                                                                   |
+|       1 | FN      | MISC   | then-U.S.                                                                                                                                       |
+|       1 | FN      | MISC   | Full Light                                                                                                                                      |
+|       1 | FN      | ORG    | I.D.E.A                                                                                                                                         |
+|       1 | FN      | ORG    | USA III                                                                                                                                         |
+|       1 | FN      | ORG    | Heineken                                                                                                                                        |
+|       1 | FN      | MISC   | world wide web                                                                                                                                  |
+|       1 | FN      | LOC    | Outagmie County                                                                                                                                 |
+|       1 | FN      | MISC   | Newmont-Santa Fe                                                                                                                                |
+|       1 | FN      | LOC    | Henry Hub                                                                                                                                       |
+|       1 | FN      | ORG    | CEFTA                                                                                                                                           |
+|       1 | FN      | MISC   | cocker spaniels                                                                                                                                 |
+|       1 | FN      | MISC   | London-to-Boston                                                                                                                                |
+|       1 | FN      | MISC   | Newsnight                                                                                                                                       |
+|       1 | FN      | LOC    | Santiago Bernabeu stadium                                                                                                                       |
+|       1 | FN      | MISC   | Codos                                                                                                                                           |
+|       1 | FN      | ORG    | PGA                                                                                                                                             |
+|       1 | FN      | MISC   | Democratic Convention                                                                                                                           |
+|       1 | FN      | ORG    | Tasmania                                                                                                                                        |
+|       1 | FN      | ORG    | Trade and Industry                                                                                                                              |
+|       1 | FN      | ORG    | New South Wales Supreme Court                                                                                                                   |
+|       1 | FN      | MISC   | 1995 World Cup                                                                                                                                  |
+|       1 | FN      | MISC   | Conservatives                                                                                                                                   |
+|       1 | FN      | MISC   | Babri                                                                                                                                           |
+|       1 | FN      | MISC   | Balkan                                                                                                                                          |
+|       1 | FN      | MISC   | Social Democrats                                                                                                                                |
+|       1 | FN      | MISC   | European                                                                                                                                        |
+|       1 | FN      | MISC   | Algerian                                                                                                                                        |
+|       1 | FN      | LOC    | Yorkshire                                                                                                                                       |
+|       1 | FN      | MISC   | Mercedes                                                                                                                                        |
+|       1 | FN      | ORG    | Department of Transport                                                                                                                         |
+|       1 | FN      | MISC   | Iowa-S Minn                                                                                                                                     |
+|       1 | FN      | LOC    | Italia                                                                                                                                          |
+|       1 | FN      | ORG    | Foreign Affairs                                                                                                                                 |
+|       1 | FN      | MISC   | Treasuries                                                                                                                                      |
+|       1 | FN      | LOC    | U.S.                                                                                                                                            |
+|       1 | FN      | PER    | John Mills Jr                                                                                                                                   |
+|       1 | FN      | MISC   | Dow ( Jones industrial average )                                                                                                                |
+|       1 | FN      | PER    | CHARLTON                                                                                                                                        |
+|       1 | FN      | ORG    | British Airways                                                                                                                                 |
+|       1 | FN      | PER    | Rama                                                                                                                                            |
+|       1 | FN      | ORG    | LPGA                                                                                                                                            |
+|       1 | FN      | ORG    | NCAA                                                                                                                                            |
+|       1 | FN      | MISC   | Honda RV                                                                                                                                        |
+|       1 | FN      | MISC   | IRISHMAN                                                                                                                                        |
+|       1 | FN      | MISC   | WORLD WIDE WEB                                                                                                                                  |
+|       1 | FN      | LOC    | Basque country                                                                                                                                  |
+|       1 | FN      | MISC   | velvet revolution                                                                                                                               |
+|       1 | FN      | PER    | Bobby                                                                                                                                           |
+|       1 | FN      | LOC    | West                                                                                                                                            |
+|       1 | FN      | ORG    | Chilean Congress                                                                                                                                |
+|       1 | FN      | MISC   | German                                                                                                                                          |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry                                                                                                            |
+|       1 | FN      | LOC    | Cincinnati                                                                                                                                      |
+|       1 | FN      | MISC   | Irish                                                                                                                                           |
+|       1 | FN      | MISC   | Real Madrid-Barcelona                                                                                                                           |
+|       1 | FN      | ORG    | 11th Circuit U.S. Court of Appeals                                                                                                              |
+|       1 | FN      | LOC    | Mediterranean                                                                                                                                   |
+|       1 | FN      | ORG    | John Lewis                                                                                                                                      |
+|       1 | FN      | ORG    | Catholic Church                                                                                                                                 |
+|       1 | FN      | ORG    | Leeds United                                                                                                                                    |
+|       1 | FN      | MISC   | Belgian                                                                                                                                         |
+|       1 | FN      | ORG    | The Humane Society of the United States                                                                                                         |
+|       1 | FN      | PER    | Dick Spring                                                                                                                                     |
+|       1 | FN      | ORG    | American                                                                                                                                        |
+|       1 | FN      | MISC   | Christian-Shi'ite                                                                                                                               |
+|       1 | FN      | MISC   | Asia Rubber Markets                                                                                                                             |
+|       1 | FN      | ORG    | WALLABY                                                                                                                                         |

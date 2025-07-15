@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # Seqscore command
-seq="seqscore score --labels BIO --repair-method conlleval --reference"
+scores="seqscore score --labels BIO --repair-method conlleval --reference"
+errors="seqscore score --labels BIO --repair-method conlleval --error-counts --reference"
+
 
 # Evaluate for all document types!
 domains=("" "sports" "economy" "world_events")
@@ -19,25 +21,37 @@ for domain in "${domains[@]}"; do
             full=("$version" "${doc_type[@]}")
             joined=$(IFS=_; echo "${full[*]}")
 
-            cmd="$seq test_sets/conll_${version}/conll_${joined}.txt outputs/xlm_flert_${version}/xlm_flert_${joined}.txt"
             log="evals/xlm_flert/${version}/${joined}.txt"
+            params="test_sets/conll_${version}/conll_${joined}.txt outputs/xlm_flert_${version}/xlm_flert_${joined}.txt"
 
-            $cmd > $log
+            $scores $params > $log
+            echo "" >> $log
+            $errors $params >> $log
         done
 
         # Evaluate LUKE for CoNLL#
         full=("sharp" "${doc_type[@]}")
         joined=$(IFS=_; echo "${full[*]}")
 
-        cmd = "$seq test_sets/conll_sharp/conll_sharp_${joined}.txt outputs/luke_sharp/luke_sharp_${joined}.txt"
         log="evals/luke/sharp/${joined}.txt"
-        $cmd > $log
+        params="test_sets/conll_sharp/conll_${joined}.txt outputs/luke_sharp/luke_${joined}.txt"
+
+        $scores $params > $log
+        echo "" >> $log
+        $errors $params >> $log
 
 
         # Evaluate ASP for CoNLL#
-        cmd = "$seq test_sets/conll_sharp_asp_order/conll_sharp_asp_order${joined}.txt outputs/asp_sharp/asp_sharp_${joined}.txt"
-        log="evals/asp/sharp/${joined}.txt"
-        $cmd > $log
+        just_doc=("${doc_type[@]}")
+        join_doc=$(IFS=_; echo "${just_doc[*]}")
+
+
+        log="evals/asp/sharp/asp_${joined}.txt"
+        params="test_sets/conll_sharp_asp_order/conll_sharp_asp_order_${join_doc}.txt outputs/asp_sharp/asp_${joined}.txt"
+
+        $scores $params > $log
+        echo "" >> $log
+        $errors $params >> $log
 
     done
 done

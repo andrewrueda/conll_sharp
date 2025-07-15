@@ -5,3 +5,129 @@
 | MISC   |       82.73 |    73.98 |  78.11 |         123 |         110 |        91 |
 | ORG    |       88.69 |    95.39 |  91.92 |         304 |         327 |       290 |
 | PER    |       94.00 |    90.38 |  92.16 |         104 |         100 |        94 |
+
+|   Count | Error   | Type   | Tokens                               |
+|---------|---------|--------|--------------------------------------|
+|       4 | FP      | ORG    | BILO                                 |
+|       4 | FN      | MISC   | BILO                                 |
+|       3 | FP      | PER    | van Boxmeer                          |
+|       3 | FP      | MISC   | Czech                                |
+|       3 | FN      | PER    | Boxmeer                              |
+|       3 | FN      | LOC    | Czech                                |
+|       2 | FP      | MISC   | One Global Depository Receipt        |
+|       2 | FP      | LOC    | Med                                  |
+|       2 | FP      | LOC    | Busang                               |
+|       2 | FP      | ORG    | Congress                             |
+|       2 | FP      | LOC    | mid-Mississippi                      |
+|       2 | FP      | ORG    | Ministry                             |
+|       2 | FP      | ORG    | TOPS                                 |
+|       2 | FN      | MISC   | German                               |
+|       2 | FN      | ORG    | Zywiec                               |
+|       2 | FN      | ORG    | Busang                               |
+|       2 | FN      | ORG    | NYMEX                                |
+|       2 | FN      | MISC   | Permian                              |
+|       2 | FN      | MISC   | mid-Mississippi                      |
+|       2 | FN      | MISC   | ACCESS                               |
+|       2 | FN      | MISC   | TOPS                                 |
+|       1 | FP      | MISC   | Polish Jews                          |
+|       1 | FP      | MISC   | Nazi German                          |
+|       1 | FP      | MISC   | CEFTA                                |
+|       1 | FP      | PER    | Zywiec                               |
+|       1 | FP      | MISC   | Zywiec Full Light                    |
+|       1 | FP      | ORG    | UK Department of Transport           |
+|       1 | FP      | ORG    | ADS                                  |
+|       1 | FP      | LOC    | London                               |
+|       1 | FP      | LOC    | Heathrow                             |
+|       1 | FP      | LOC    | London-to-Boston                     |
+|       1 | FP      | MISC   | Mediterranean                        |
+|       1 | FP      | ORG    | Med                                  |
+|       1 | FP      | MISC   | Private Finance Initiative           |
+|       1 | FP      | ORG    | NYC                                  |
+|       1 | FP      | ORG    | Santa Fe                             |
+|       1 | FP      | PER    | Russ Berrie                          |
+|       1 | FP      | LOC    | Far North                            |
+|       1 | FP      | ORG    | Budapest Bank                        |
+|       1 | FP      | ORG    | ADRs                                 |
+|       1 | FP      | ORG    | Santander                            |
+|       1 | FP      | LOC    | SANTIAGO                             |
+|       1 | FP      | MISC   | Asia Rubber Markets                  |
+|       1 | FP      | MISC   | Sakakibara                           |
+|       1 | FP      | ORG    | NYMEX Henry Hub                      |
+|       1 | FP      | LOC    | Midcontinent                         |
+|       1 | FP      | LOC    | Permian                              |
+|       1 | FP      | ORG    | Permian                              |
+|       1 | FP      | LOC    | West                                 |
+|       1 | FP      | LOC    | East                                 |
+|       1 | FP      | LOC    | Southwest                            |
+|       1 | FP      | ORG    | St. Louis Merchants Exchange         |
+|       1 | FP      | LOC    | McGregor                             |
+|       1 | FP      | ORG    | Action Performance                   |
+|       1 | FP      | LOC    | Iowa-S Minn                          |
+|       1 | FP      | MISC   | Europe Agreement                     |
+|       1 | FP      | MISC   | Christmas                            |
+|       1 | FP      | ORG    | Treasuries                           |
+|       1 | FP      | MISC   | German Bunds                         |
+|       1 | FP      | ORG    | Tia Juana                            |
+|       1 | FP      | LOC    | Dubai                                |
+|       1 | FP      | ORG    | Blend                                |
+|       1 | FP      | ORG    | Arabian Light                        |
+|       1 | FP      | ORG    | Bonny Light                          |
+|       1 | FP      | ORG    | Isthmus                              |
+|       1 | FP      | ORG    | Minas                                |
+|       1 | FP      | MISC   | Saharan                              |
+|       1 | FP      | LOC    | LOS ANGELES                          |
+|       1 | FP      | ORG    | NYMEX ACCESS                         |
+|       1 | FP      | MISC   | Northeastern                         |
+|       1 | FP      | ORG    | Radiometer                           |
+|       1 | FP      | ORG    | Muenchener Rueckversicherungs AG     |
+|       1 | FP      | ORG    | John Lewis Partnership               |
+|       1 | FP      | PER    | K.T. Arasu                           |
+|       1 | FP      | MISC   | Indonesian                           |
+|       1 | FP      | ORG    | Mines and Energy Ministry            |
+|       1 | FP      | ORG    | PT Panutan Duta                      |
+|       1 | FP      | ORG    | Panutan                              |
+|       1 | FP      | ORG    | Posts and Telecommunications         |
+|       1 | FN      | MISC   | Polish                               |
+|       1 | FN      | MISC   | Jews                                 |
+|       1 | FN      | MISC   | Nazi                                 |
+|       1 | FN      | ORG    | CEFTA                                |
+|       1 | FN      | MISC   | Full Light                           |
+|       1 | FN      | LOC    | UK                                   |
+|       1 | FN      | ORG    | Department of Transport              |
+|       1 | FN      | LOC    | London Heathrow                      |
+|       1 | FN      | MISC   | London-to-Boston                     |
+|       1 | FN      | MISC   | NYC                                  |
+|       1 | FN      | LOC    | Santa Fe                             |
+|       1 | FN      | ORG    | Russ Berrie                          |
+|       1 | FN      | LOC    | Budapest                             |
+|       1 | FN      | MISC   | ADRs                                 |
+|       1 | FN      | LOC    | Santander                            |
+|       1 | FN      | PER    | SANTIAGO                             |
+|       1 | FN      | ORG    | Finance                              |
+|       1 | FN      | MISC   | Asia Rubber Markets meeting          |
+|       1 | FN      | PER    | Note                                 |
+|       1 | FN      | PER    | Sakakibara                           |
+|       1 | FN      | LOC    | Henry Hub                            |
+|       1 | FN      | LOC    | St. Louis                            |
+|       1 | FN      | PER    | McGregor                             |
+|       1 | FN      | LOC    | Iowa-S                               |
+|       1 | FN      | LOC    | Minn                                 |
+|       1 | FN      | LOC    | Europe                               |
+|       1 | FN      | MISC   | Treasuries                           |
+|       1 | FN      | MISC   | Minas                                |
+|       1 | FN      | MISC   | Tia Juana                            |
+|       1 | FN      | MISC   | Isthmus                              |
+|       1 | FN      | MISC   | Saharan Blend                        |
+|       1 | FN      | MISC   | Arabian Light                        |
+|       1 | FN      | MISC   | Dubai                                |
+|       1 | FN      | MISC   | Bonny Light                          |
+|       1 | FN      | ORG    | LOS ANGELES                          |
+|       1 | FN      | MISC   | NYMEX ACCESS                         |
+|       1 | FN      | ORG    | Wednesday                            |
+|       1 | FN      | MISC   | Muenchener                           |
+|       1 | FN      | ORG    | Rueckversicherungs AG                |
+|       1 | FN      | PER    | John Lewis                           |
+|       1 | FN      | LOC    | K.T. Arasu                           |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry |
+|       1 | FN      | PER    | PT Panutan Duta                      |
+|       1 | FN      | PER    | Panutan                              |

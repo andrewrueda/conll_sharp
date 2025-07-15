@@ -5,3 +5,144 @@
 | MISC   |       60.67 |    88.52 |  72.00 |         122 |         178 |       108 |
 | ORG    |       96.02 |    95.22 |  95.62 |         837 |         830 |       797 |
 | PER    |       99.06 |    99.06 |  99.06 |         635 |         635 |       629 |
+
+|   Count | Error   | Type   | Tokens                       |
+|---------|---------|--------|------------------------------|
+|       5 | FP      | MISC   | League                       |
+|       5 | FP      | MISC   | ALPINE                       |
+|       5 | FN      | ORG    | Barcelona                    |
+|       4 | FP      | MISC   | CUP                          |
+|       4 | FP      | MISC   | National Hockey              |
+|       4 | FP      | MISC   | EASTERN CONFERENCE           |
+|       4 | FP      | MISC   | ATLANTIC DIVISION            |
+|       4 | FP      | MISC   | WESTERN CONFERENCE           |
+|       4 | FP      | MISC   | PACIFIC DIVISION             |
+|       4 | FP      | MISC   | CENTRAL DIVISION             |
+|       4 | FP      | MISC   | SKIING-WOMEN                 |
+|       4 | FP      | ORG    | Wimbledon                    |
+|       4 | FN      | ORG    | National Hockey              |
+|       4 | FN      | ORG    | League                       |
+|       4 | FN      | LOC    | ATLANTIC                     |
+|       4 | FN      | LOC    | PACIFIC                      |
+|       4 | FN      | LOC    | Wimbledon                    |
+|       3 | FP      | MISC   | NHL                          |
+|       3 | FN      | MISC   | SKIING-WORLD CUP             |
+|       3 | FN      | ORG    | NHL                          |
+|       3 | FN      | ORG    | Real Madrid                  |
+|       2 | FP      | ORG    | Tasmania                     |
+|       2 | FP      | MISC   | NORTHEAST DIVISION           |
+|       2 | FP      | LOC    | NY                           |
+|       2 | FP      | MISC   | MIDWEST DIVISION             |
+|       2 | FP      | MISC   | AMERICAN                     |
+|       2 | FP      | MISC   | EASTERN DIVISION             |
+|       2 | FP      | MISC   | WESTERN DIVISION             |
+|       2 | FP      | ORG    | Real Madrid Barcelona        |
+|       2 | FP      | ORG    | Sporting Gijon               |
+|       2 | FP      | PER    | Florence Masnada             |
+|       2 | FP      | LOC    | United States                |
+|       2 | FP      | LOC    | Austria                      |
+|       2 | FN      | LOC    | Tasmania                     |
+|       2 | FN      | ORG    | Sporting                     |
+|       2 | FN      | LOC    | Florence                     |
+|       2 | FN      | PER    | Masnada                      |
+|       2 | FN      | MISC   | Premier league               |
+|       1 | FP      | ORG    | Victoria                     |
+|       1 | FP      | ORG    | Contractors                  |
+|       1 | FP      | ORG    | RANGERS                      |
+|       1 | FP      | MISC   | National Football League     |
+|       1 | FP      | MISC   | AMERICAN FOOTBALL CONFERENCE |
+|       1 | FP      | ORG    | X-DENVER                     |
+|       1 | FP      | MISC   | NATIONAL FOOTBALL CONFERENCE |
+|       1 | FP      | ORG    | Y-GREEN BAY                  |
+|       1 | FP      | MISC   | NFL                          |
+|       1 | FP      | MISC   | National Football            |
+|       1 | FP      | ORG    | FC Cologne                   |
+|       1 | FP      | PER    | Makelele                     |
+|       1 | FP      | PER    | Starbuck                     |
+|       1 | FP      | ORG    | Karlsruhe                    |
+|       1 | FP      | ORG    | Freiburg                     |
+|       1 | FP      | ORG    | William Hill                 |
+|       1 | FP      | ORG    | Barcelona Real Madrid        |
+|       1 | FP      | ORG    | Barcelona Barcelona          |
+|       1 | FP      | ORG    | laPena                       |
+|       1 | FP      | ORG    | Kinder                       |
+|       1 | FP      | MISC   | 1991 World Championships     |
+|       1 | FP      | MISC   | G                            |
+|       1 | FP      | MISC   | World Cup                    |
+|       1 | FP      | PER    | Ingeborg Helen Markein       |
+|       1 | FP      | LOC    | Austria)118                  |
+|       1 | FP      | MISC   | Super G standings            |
+|       1 | FP      | LOC    | Germay                       |
+|       1 | FP      | MISC   | NORDIC                       |
+|       1 | FP      | LOC    | Italy                        |
+|       1 | FP      | LOC    | Canada                       |
+|       1 | FP      | MISC   | German                       |
+|       1 | FP      | LOC    | Switzerland                  |
+|       1 | FP      | LOC    | Germany                      |
+|       1 | FP      | LOC    | Czech Republic               |
+|       1 | FP      | LOC    | Britain                      |
+|       1 | FP      | MISC   | JUMPING-LEADING              |
+|       1 | FP      | LOC    | DENPASAR                     |
+|       1 | FP      | LOC    | TEMBAU                       |
+|       1 | FP      | MISC   | SCOTTISH                     |
+|       1 | FP      | MISC   | Scottish                     |
+|       1 | FP      | MISC   | BRITISH                      |
+|       1 | FP      | PER    | Windass                      |
+|       1 | FP      | ORG    | Oxford                       |
+|       1 | FP      | ORG    | Portsmouth                   |
+|       1 | FP      | LOC    | BARBARIANS                   |
+|       1 | FP      | ORG    | Ironi Rishon                 |
+|       1 | FP      | ORG    | ISLANDERS                    |
+|       1 | FP      | ORG    | Philadelphia                 |
+|       1 | FP      | ORG    | DALLAS                       |
+|       1 | FP      | ORG    | COLORADO                     |
+|       1 | FP      | ORG    | St Louis                     |
+|       1 | FP      | ORG    | EDMONTON                     |
+|       1 | FP      | ORG    | Ottawa                       |
+|       1 | FN      | LOC    | Victoria                     |
+|       1 | FN      | ORG    | NY RANGERS                   |
+|       1 | FN      | ORG    | National Football League     |
+|       1 | FN      | MISC   | AMERICAN                     |
+|       1 | FN      | ORG    | PA                           |
+|       1 | FN      | MISC   | X-DENVER                     |
+|       1 | FN      | MISC   | Y-GREEN BAY                  |
+|       1 | FN      | ORG    | NFL                          |
+|       1 | FN      | LOC    | Football                     |
+|       1 | FN      | ORG    | National                     |
+|       1 | FN      | LOC    | League                       |
+|       1 | FN      | ORG    | 1. FC Cologne                |
+|       1 | FN      | PER    | Claude Makelele              |
+|       1 | FN      | LOC    | Karlsruhe                    |
+|       1 | FN      | LOC    | Freiburg                     |
+|       1 | FN      | PER    | William Hill                 |
+|       1 | FN      | PER    | laPena                       |
+|       1 | FN      | MISC   | World Championships          |
+|       1 | FN      | MISC   | 1993 World Cup               |
+|       1 | FN      | PER    | Ingeborg Helen               |
+|       1 | FN      | MISC   | Super G                      |
+|       1 | FN      | MISC   | BOBSLEIGH-WORLD CUP          |
+|       1 | FN      | ORG    | United States III            |
+|       1 | FN      | ORG    | Italy I                      |
+|       1 | FN      | ORG    | Canada I                     |
+|       1 | FN      | ORG    | German I                     |
+|       1 | FN      | ORG    | Switzerland I                |
+|       1 | FN      | ORG    | Germany III                  |
+|       1 | FN      | ORG    | Czech Republic I             |
+|       1 | FN      | ORG    | Austria I                    |
+|       1 | FN      | ORG    | Britain I                    |
+|       1 | FN      | ORG    | United States I              |
+|       1 | FN      | ORG    | Austria III                  |
+|       1 | FN      | LOC    | TEMBAU DENPASAR              |
+|       1 | FN      | MISC   | SCOTTISH PREMIER DIVISION    |
+|       1 | FN      | MISC   | Scottish premier             |
+|       1 | FN      | LOC    | Oxford                       |
+|       1 | FN      | LOC    | Portsmouth                   |
+|       1 | FN      | ORG    | BARBARIANS                   |
+|       1 | FN      | ORG    | Ironi Rishon Lezion          |
+|       1 | FN      | LOC    | NY ISLANDERS                 |
+|       1 | FN      | LOC    | Philadelphia                 |
+|       1 | FN      | LOC    | DALLAS                       |
+|       1 | FN      | LOC    | COLORADO                     |
+|       1 | FN      | LOC    | St Louis                     |
+|       1 | FN      | LOC    | EDMONTON                     |
+|       1 | FN      | LOC    | Ottawa                       |

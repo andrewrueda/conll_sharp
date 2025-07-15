@@ -1,7 +1,64 @@
 | Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
 |--------|-------------|----------|--------|-------------|-------------|-----------|
-| ALL    |       97.60 |    97.83 |  97.72 |        2124 |        2129 |      2078 |
-| LOC    |       96.17 |    99.80 |  97.95 |         503 |         522 |       502 |
-| MISC   |       88.27 |    91.08 |  89.66 |         157 |         162 |       143 |
-| ORG    |       98.67 |    96.56 |  97.60 |         842 |         824 |       813 |
-| PER    |       99.84 |    99.68 |  99.76 |         622 |         621 |       620 |
+| ALL    |       98.40 |    98.45 |  98.42 |        2124 |        2125 |      2091 |
+| LOC    |       97.28 |    99.60 |  98.43 |         503 |         515 |       501 |
+| MISC   |       89.31 |    90.45 |  89.87 |         157 |         159 |       142 |
+| ORG    |       99.64 |    98.10 |  98.86 |         842 |         829 |       826 |
+| PER    |      100.00 |   100.00 | 100.00 |         622 |         622 |       622 |
+
+|   Count | Error   | Type   | Tokens                      |
+|---------|---------|--------|-----------------------------|
+|       4 | FP      | MISC   | National Hockey League      |
+|       4 | FN      | ORG    | National Hockey League      |
+|       2 | FP      | MISC   | National Football League    |
+|       2 | FP      | LOC    | United States               |
+|       2 | FP      | LOC    | Austria                     |
+|       2 | FP      | MISC   | CUP                         |
+|       2 | FN      | MISC   | AMERICAN                    |
+|       2 | FN      | ORG    | NFL                         |
+|       2 | FN      | ORG    | National Football League    |
+|       1 | FP      | MISC   | F.A. CUP                    |
+|       1 | FP      | MISC   | ENGLISH                     |
+|       1 | FP      | MISC   | F.A. Challenge Cup          |
+|       1 | FP      | MISC   | English                     |
+|       1 | FP      | MISC   | BRAZILIAN                   |
+|       1 | FP      | LOC    | Tasmania                    |
+|       1 | FP      | LOC    | National                    |
+|       1 | FP      | LOC    | LA LAKERS                   |
+|       1 | FP      | MISC   | CLINCHED DIVISION           |
+|       1 | FP      | ORG    | FC Cologne                  |
+|       1 | FP      | ORG    | Schalke                     |
+|       1 | FP      | MISC   | Lillehammer Winter Olympics |
+|       1 | FP      | MISC   | World Cup                   |
+|       1 | FP      | LOC    | Italy                       |
+|       1 | FP      | LOC    | Canada                      |
+|       1 | FP      | MISC   | German                      |
+|       1 | FP      | LOC    | Switzerland                 |
+|       1 | FP      | LOC    | Germany                     |
+|       1 | FP      | LOC    | Czech Republic              |
+|       1 | FP      | LOC    | Britain                     |
+|       1 | FP      | ORG    | RUGBY UNION                 |
+|       1 | FP      | LOC    | NY ISLANDERS                |
+|       1 | FN      | MISC   | ENGLISH F.A. CUP            |
+|       1 | FN      | MISC   | English F.A. Challenge Cup  |
+|       1 | FN      | MISC   | BRAZILIAN CHAMPIONSHIP      |
+|       1 | FN      | ORG    | Tasmania                    |
+|       1 | FN      | LOC    | National stadium            |
+|       1 | FN      | ORG    | LA LAKERS                   |
+|       1 | FN      | ORG    | 1. FC Cologne               |
+|       1 | FN      | ORG    | Schalke 04                  |
+|       1 | FN      | LOC    | Lillehammer                 |
+|       1 | FN      | MISC   | Winter Olympics             |
+|       1 | FN      | MISC   | 1993 World Cup              |
+|       1 | FN      | ORG    | United States III           |
+|       1 | FN      | MISC   | Italy I                     |
+|       1 | FN      | MISC   | Canada I                    |
+|       1 | FN      | MISC   | German I                    |
+|       1 | FN      | ORG    | Switzerland I               |
+|       1 | FN      | MISC   | Germany III                 |
+|       1 | FN      | MISC   | Czech Republic I            |
+|       1 | FN      | MISC   | Austria I                   |
+|       1 | FN      | ORG    | Britain I                   |
+|       1 | FN      | MISC   | United States I             |
+|       1 | FN      | MISC   | Austria III                 |
+|       1 | FN      | ORG    | NY ISLANDERS                |

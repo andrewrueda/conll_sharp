@@ -1,0 +1,67 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       97.66 |    97.81 |  97.74 |        1325 |        1327 |      1296 |
+| LOC    |       99.10 |    99.10 |  99.10 |         444 |         444 |       440 |
+| MISC   |       97.31 |    94.05 |  95.65 |         269 |         260 |       253 |
+| ORG    |       94.25 |    97.23 |  95.72 |         253 |         261 |       246 |
+| PER    |       98.62 |    99.44 |  99.03 |         359 |         362 |       357 |
+
+|   Count | Error   | Type   | Tokens                                  |
+|---------|---------|--------|-----------------------------------------|
+|       3 | FP      | PER    | Pope                                    |
+|       2 | FN      | MISC   | Moslem                                  |
+|       1 | FP      | ORG    | Conservative                            |
+|       1 | FP      | ORG    | U.S. Court of Appeals                   |
+|       1 | FP      | MISC   | Basque                                  |
+|       1 | FP      | LOC    | then-U.S.                               |
+|       1 | FP      | LOC    | New South Wales                         |
+|       1 | FP      | ORG    | Conservatives                           |
+|       1 | FP      | ORG    | May 15                                  |
+|       1 | FP      | PER    | Lord Rama                               |
+|       1 | FP      | MISC   | Belgian Franc                           |
+|       1 | FP      | MISC   | Christian-Shi'ite Moslem                |
+|       1 | FP      | MISC   | Algerian Moslem                         |
+|       1 | FP      | MISC   | Viva Italia                             |
+|       1 | FP      | ORG    | Social Democrats                        |
+|       1 | FP      | ORG    | Church                                  |
+|       1 | FP      | ORG    | Codos                                   |
+|       1 | FP      | LOC    | Glencoe Animal Hospital                 |
+|       1 | FP      | ORG    | I.D.E.A .                               |
+|       1 | FP      | MISC   | Catholic                                |
+|       1 | FP      | PER    | John Mills Jr .                         |
+|       1 | FP      | MISC   | West                                    |
+|       1 | FP      | ORG    | Outagmie County Circuit Court           |
+|       1 | FP      | ORG    | Supreme Court                           |
+|       1 | FP      | ORG    | Business Policy                         |
+|       1 | FP      | ORG    | Humane Society of the United States     |
+|       1 | FP      | ORG    | 11th Circuit                            |
+|       1 | FP      | ORG    | Newsnight                               |
+|       1 | FP      | ORG    | Democratic Convention                   |
+|       1 | FP      | LOC    | Babri                                   |
+|       1 | FN      | MISC   | Conservative                            |
+|       1 | FN      | MISC   | Democratic Convention                   |
+|       1 | FN      | MISC   | Christian-Shi'ite                       |
+|       1 | FN      | MISC   | velvet revolution                       |
+|       1 | FN      | MISC   | then-U.S.                               |
+|       1 | FN      | MISC   | Belgian                                 |
+|       1 | FN      | MISC   | Algerian                                |
+|       1 | FN      | ORG    | The Humane Society of the United States |
+|       1 | FN      | MISC   | cocker spaniels                         |
+|       1 | FN      | LOC    | West                                    |
+|       1 | FN      | MISC   | Codos                                   |
+|       1 | FN      | MISC   | chow chows                              |
+|       1 | FN      | ORG    | I.D.E.A                                 |
+|       1 | FN      | ORG    | Catholic Church                         |
+|       1 | FN      | MISC   | Conservatives                           |
+|       1 | FN      | ORG    | Glencoe Animal Hospital                 |
+|       1 | FN      | LOC    | Outagmie County                         |
+|       1 | FN      | ORG    | New South Wales Supreme Court           |
+|       1 | FN      | MISC   | Newsnight                               |
+|       1 | FN      | MISC   | Social Democrats                        |
+|       1 | FN      | ORG    | Foreign Affairs                         |
+|       1 | FN      | PER    | Rama                                    |
+|       1 | FN      | MISC   | Babri                                   |
+|       1 | FN      | LOC    | Basque country                          |
+|       1 | FN      | LOC    | Italia                                  |
+|       1 | FN      | PER    | John Mills Jr                           |
+|       1 | FN      | ORG    | 11th Circuit U.S. Court of Appeals      |

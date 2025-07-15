@@ -1,7 +1,71 @@
 | Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
 |--------|-------------|----------|--------|-------------|-------------|-----------|
-| ALL    |       76.32 |    80.56 |  78.38 |         144 |         152 |       116 |
-| LOC    |       86.76 |    86.76 |  86.76 |          68 |          68 |        59 |
-| MISC   |       68.18 |    50.00 |  57.69 |          30 |          22 |        15 |
-| ORG    |       68.33 |    91.11 |  78.10 |          45 |          60 |        41 |
-| PER    |       50.00 |   100.00 |  66.67 |           1 |           2 |         1 |
+| ALL    |       76.92 |    76.39 |  76.66 |         144 |         143 |       110 |
+| LOC    |       88.06 |    86.76 |  87.41 |          68 |          67 |        59 |
+| MISC   |       69.57 |    53.33 |  60.38 |          30 |          23 |        16 |
+| ORG    |       79.07 |    75.56 |  77.27 |          45 |          43 |        34 |
+| PER    |       10.00 |   100.00 |  18.18 |           1 |          10 |         1 |
+
+|   Count | Error   | Type   | Tokens                          |
+|---------|---------|--------|---------------------------------|
+|       2 | FP      | LOC    | Canadian West Coast             |
+|       2 | FP      | ORG    | ORE                             |
+|       2 | FP      | ORG    | Durum                           |
+|       2 | FN      | ORG    | Manitoba Pork                   |
+|       2 | FN      | ORG    | Manitoba                        |
+|       2 | FN      | MISC   | Canadian                        |
+|       1 | FP      | MISC   | CST                             |
+|       1 | FP      | MISC   | Manitoba Government Price Index |
+|       1 | FP      | LOC    | Manitoba                        |
+|       1 | FP      | LOC    | West Coast                      |
+|       1 | FP      | LOC    | East Coast                      |
+|       1 | FP      | LOC    | WESTERN HEMISPHERE              |
+|       1 | FP      | ORG    | Danila                          |
+|       1 | FP      | MISC   | Thai                            |
+|       1 | FP      | MISC   | MEDITERRANEAN                   |
+|       1 | FP      | PER    | Lula I                          |
+|       1 | FP      | ORG    | Mesipia                         |
+|       1 | FP      | ORG    | Camaras Arbitrales              |
+|       1 | FP      | PER    | Flint                           |
+|       1 | FP      | PER    | Dent                            |
+|       1 | FP      | MISC   | NASS                            |
+|       1 | FP      | LOC    | CITY OF HARTFORD                |
+|       1 | FP      | PER    | Reuter                          |
+|       1 | FP      | ORG    | Canola                          |
+|       1 | FP      | MISC   | Lantau Peak                     |
+|       1 | FP      | ORG    | Royal Clipper                   |
+|       1 | FP      | MISC   | Sabr                            |
+|       1 | FP      | LOC    | Iran                            |
+|       1 | FP      | PER    | Princess of Loine               |
+|       1 | FP      | PER    | Myos Yang                       |
+|       1 | FP      | PER    | King Ace                        |
+|       1 | FP      | PER    | Tong Shun                       |
+|       1 | FP      | PER    | But                             |
+|       1 | FN      | LOC    | Kaohsiung                       |
+|       1 | FN      | LOC    | Dampier                         |
+|       1 | FN      | MISC   | Danila                          |
+|       1 | FN      | ORG    | Thai Resource                   |
+|       1 | FN      | LOC    | MEDITERRANEAN                   |
+|       1 | FN      | MISC   | Lula I                          |
+|       1 | FN      | LOC    | Spetses                         |
+|       1 | FN      | MISC   | Mesipia                         |
+|       1 | FN      | LOC    | Bahia Blanca                    |
+|       1 | FN      | LOC    | Rosario                         |
+|       1 | FN      | LOC    | Quequen                         |
+|       1 | FN      | ORG    | NASS                            |
+|       1 | FN      | LOC    | HARTFORD                        |
+|       1 | FN      | ORG    | USG                             |
+|       1 | FN      | ORG    | GeePee                          |
+|       1 | FN      | ORG    | Reuter                          |
+|       1 | FN      | LOC    | Lantau Peak                     |
+|       1 | FN      | ORG    | Coe and Clerici                 |
+|       1 | FN      | MISC   | Royal Clipper                   |
+|       1 | FN      | MISC   | IMC                             |
+|       1 | FN      | MISC   | TBN                             |
+|       1 | FN      | ORG    | Commerce Ministry               |
+|       1 | FN      | MISC   | Iran Sabr                       |
+|       1 | FN      | MISC   | Princess of Loine               |
+|       1 | FN      | MISC   | Myos Yang                       |
+|       1 | FN      | MISC   | King Ace                        |
+|       1 | FN      | MISC   | Tong Shun                       |
+|       1 | FN      | MISC   | But                             |

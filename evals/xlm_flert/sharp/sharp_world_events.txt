@@ -5,3 +5,71 @@
 | MISC   |       95.79 |    92.94 |  94.34 |         269 |         261 |       250 |
 | ORG    |       94.59 |    96.84 |  95.70 |         253 |         259 |       245 |
 | PER    |       98.61 |    98.89 |  98.75 |         359 |         360 |       355 |
+
+|   Count | Error   | Type   | Tokens                                  |
+|---------|---------|--------|-----------------------------------------|
+|       3 | FP      | PER    | Pope                                    |
+|       3 | FP      | MISC   | EST                                     |
+|       2 | FP      | LOC    | Jordan                                  |
+|       2 | FP      | ORG    | First                                   |
+|       2 | FP      | LOC    | NZ                                      |
+|       2 | FN      | PER    | Jordan                                  |
+|       2 | FN      | MISC   | Moslem                                  |
+|       2 | FN      | ORG    | NZ First                                |
+|       1 | FP      | ORG    | Democratic Convention                   |
+|       1 | FP      | ORG    | Social Democrats                        |
+|       1 | FP      | ORG    | Conservatives                           |
+|       1 | FP      | MISC   | Chapter                                 |
+|       1 | FP      | LOC    | Baya                                    |
+|       1 | FP      | LOC    | Patasse                                 |
+|       1 | FP      | MISC   | Mutineers                               |
+|       1 | FP      | PER    | Pope John Paul                          |
+|       1 | FP      | MISC   | Christian-Shi'ite Moslem                |
+|       1 | FP      | LOC    | Outagmie                                |
+|       1 | FP      | ORG    | County Circuit Court                    |
+|       1 | FP      | ORG    | Humane Society of the United States     |
+|       1 | FP      | LOC    | Glencoe Animal Hospital                 |
+|       1 | FP      | MISC   | German                                  |
+|       1 | FP      | MISC   | Basque                                  |
+|       1 | FP      | MISC   | Fascist                                 |
+|       1 | FP      | LOC    | Babri                                   |
+|       1 | FP      | ORG    | Exchequer                               |
+|       1 | FP      | PER    | Arafat-Netanyahu                        |
+|       1 | FP      | MISC   | Algerian Moslem                         |
+|       1 | FP      | LOC    | Viva Italia                             |
+|       1 | FP      | ORG    | Newsnight                               |
+|       1 | FP      | MISC   | Pro-European Conservative               |
+|       1 | FP      | ORG    | National and                            |
+|       1 | FP      | ORG    | Nat , Lab                               |
+|       1 | FP      | ORG    | Port Office                             |
+|       1 | FP      | ORG    | Business Policy                         |
+|       1 | FP      | ORG    | wise                                    |
+|       1 | FN      | MISC   | velvet revolution                       |
+|       1 | FN      | MISC   | Democratic Convention                   |
+|       1 | FN      | MISC   | Social Democrats                        |
+|       1 | FN      | MISC   | Conservatives                           |
+|       1 | FN      | MISC   | Chapter Seven                           |
+|       1 | FN      | MISC   | Baya                                    |
+|       1 | FN      | PER    | Patasse                                 |
+|       1 | FN      | PER    | John Paul                               |
+|       1 | FN      | MISC   | Christian-Shi'ite                       |
+|       1 | FN      | LOC    | Outagmie County                         |
+|       1 | FN      | ORG    | The Humane Society of the United States |
+|       1 | FN      | ORG    | Glencoe Animal Hospital                 |
+|       1 | FN      | MISC   | chow chows                              |
+|       1 | FN      | MISC   | cocker spaniels                         |
+|       1 | FN      | MISC   | German shepherds                        |
+|       1 | FN      | LOC    | Basque country                          |
+|       1 | FN      | MISC   | Babri                                   |
+|       1 | FN      | MISC   | Arafat-Netanyahu                        |
+|       1 | FN      | LOC    | N.M.                                    |
+|       1 | FN      | MISC   | Algerian                                |
+|       1 | FN      | LOC    | Italia                                  |
+|       1 | FN      | MISC   | Newsnight                               |
+|       1 | FN      | MISC   | Pro-European                            |
+|       1 | FN      | MISC   | Conservative                            |
+|       1 | FN      | ORG    | Foreign Affairs                         |
+|       1 | FN      | ORG    | National                                |
+|       1 | FN      | ORG    | Lab                                     |
+|       1 | FN      | ORG    | Nat                                     |
+|       1 | FN      | MISC   | then-U.S.                               |

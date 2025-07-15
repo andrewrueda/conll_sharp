@@ -5,3 +5,99 @@
 | MISC   |       84.55 |    77.50 |  80.87 |         120 |         110 |        93 |
 | ORG    |       92.99 |    96.52 |  94.72 |         316 |         328 |       305 |
 | PER    |       97.00 |    97.98 |  97.49 |          99 |         100 |        97 |
+
+|   Count | Error   | Type   | Tokens                               |
+|---------|---------|--------|--------------------------------------|
+|       2 | FP      | MISC   | One Global Depository Receipt        |
+|       2 | FP      | LOC    | mid-Mississippi                      |
+|       2 | FP      | ORG    | Ministry                             |
+|       2 | FP      | ORG    | Busang                               |
+|       2 | FN      | MISC   | German                               |
+|       2 | FN      | ORG    | Zywiec                               |
+|       2 | FN      | LOC    | UK                                   |
+|       2 | FN      | LOC    | Med                                  |
+|       2 | FN      | ORG    | NYMEX                                |
+|       2 | FN      | MISC   | Permian                              |
+|       2 | FN      | MISC   | mid-Mississippi                      |
+|       2 | FN      | MISC   | ACCESS                               |
+|       2 | FN      | LOC    | Busang                               |
+|       1 | FP      | MISC   | Polish Jews                          |
+|       1 | FP      | MISC   | Nazi German                          |
+|       1 | FP      | MISC   | INTERVIEW                            |
+|       1 | FP      | MISC   | CEFTA                                |
+|       1 | FP      | PER    | Zywiec                               |
+|       1 | FP      | MISC   | Zywiec Full Light                    |
+|       1 | FP      | ORG    | UK Department of Transport           |
+|       1 | FP      | ORG    | ADS                                  |
+|       1 | FP      | LOC    | London                               |
+|       1 | FP      | LOC    | Heathrow                             |
+|       1 | FP      | LOC    | London-to-Boston                     |
+|       1 | FP      | MISC   | Mediterranean                        |
+|       1 | FP      | ORG    | Genoa                                |
+|       1 | FP      | ORG    | Med                                  |
+|       1 | FP      | ORG    | NYC                                  |
+|       1 | FP      | LOC    | Santa Fe                             |
+|       1 | FP      | PER    | Russ Berrie                          |
+|       1 | FP      | MISC   | Jones                                |
+|       1 | FP      | MISC   | Dow                                  |
+|       1 | FP      | ORG    | ADRs                                 |
+|       1 | FP      | MISC   | Chilean                              |
+|       1 | FP      | ORG    | Congress                             |
+|       1 | FP      | MISC   | Sakakibara                           |
+|       1 | FP      | PER    | Mr Yen                               |
+|       1 | FP      | ORG    | NYMEX Henry Hub                      |
+|       1 | FP      | LOC    | Midcontinent                         |
+|       1 | FP      | LOC    | Permian                              |
+|       1 | FP      | ORG    | Permian                              |
+|       1 | FP      | LOC    | West                                 |
+|       1 | FP      | LOC    | East                                 |
+|       1 | FP      | LOC    | Southwest                            |
+|       1 | FP      | LOC    | Iowa-S Minn                          |
+|       1 | FP      | MISC   | Christmas                            |
+|       1 | FP      | ORG    | Treasuries                           |
+|       1 | FP      | MISC   | German Bunds                         |
+|       1 | FP      | ORG    | Bonny Light                          |
+|       1 | FP      | ORG    | Isthmus                              |
+|       1 | FP      | ORG    | Arabian Light                        |
+|       1 | FP      | ORG    | Blend                                |
+|       1 | FP      | ORG    | Tia Juana                            |
+|       1 | FP      | ORG    | Minas                                |
+|       1 | FP      | MISC   | Saharan                              |
+|       1 | FP      | ORG    | NYMEX ACCESS                         |
+|       1 | FP      | MISC   | Northeastern                         |
+|       1 | FP      | ORG    | John Lewis UK                        |
+|       1 | FP      | ORG    | Mines and Energy Ministry            |
+|       1 | FP      | MISC   | Indonesian                           |
+|       1 | FN      | MISC   | Jews                                 |
+|       1 | FN      | MISC   | Polish                               |
+|       1 | FN      | MISC   | Nazi                                 |
+|       1 | FN      | ORG    | CEFTA                                |
+|       1 | FN      | MISC   | Full Light                           |
+|       1 | FN      | ORG    | Department of Transport              |
+|       1 | FN      | LOC    | London Heathrow                      |
+|       1 | FN      | MISC   | London-to-Boston                     |
+|       1 | FN      | LOC    | Mediterranean                        |
+|       1 | FN      | LOC    | Genoa                                |
+|       1 | FN      | LOC    | NYC                                  |
+|       1 | FN      | ORG    | Santa Fe                             |
+|       1 | FN      | ORG    | Russ Berrie                          |
+|       1 | FN      | MISC   | Dow ( Jones industrial average )     |
+|       1 | FN      | MISC   | ADRs                                 |
+|       1 | FN      | ORG    | Chilean Congress                     |
+|       1 | FN      | PER    | Sakakibara                           |
+|       1 | FN      | PER    | Yen                                  |
+|       1 | FN      | LOC    | Henry Hub                            |
+|       1 | FN      | MISC   | Iowa-S Minn                          |
+|       1 | FN      | MISC   | WORLD WIDE WEB                       |
+|       1 | FN      | MISC   | world wide web                       |
+|       1 | FN      | MISC   | BTPs                                 |
+|       1 | FN      | MISC   | Treasuries                           |
+|       1 | FN      | MISC   | Saharan Blend                        |
+|       1 | FN      | MISC   | Bonny Light                          |
+|       1 | FN      | MISC   | Arabian Light                        |
+|       1 | FN      | MISC   | Isthmus                              |
+|       1 | FN      | MISC   | Tia Juana                            |
+|       1 | FN      | MISC   | Minas                                |
+|       1 | FN      | MISC   | NYMEX ACCESS                         |
+|       1 | FN      | ORG    | John Lewis                           |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry |

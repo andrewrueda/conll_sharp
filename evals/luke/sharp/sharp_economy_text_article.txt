@@ -1,7 +1,79 @@
 | Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
 |--------|-------------|----------|--------|-------------|-------------|-----------|
-| ALL    |       93.37 |    93.82 |  93.59 |         825 |         829 |       774 |
-| LOC    |       95.88 |    96.21 |  96.04 |         290 |         291 |       279 |
-| MISC   |       84.55 |    77.50 |  80.87 |         120 |         110 |        93 |
-| ORG    |       92.99 |    96.52 |  94.72 |         316 |         328 |       305 |
-| PER    |       97.00 |    97.98 |  97.49 |          99 |         100 |        97 |
+| ALL    |       95.49 |    95.03 |  95.26 |         825 |         821 |       784 |
+| LOC    |       97.59 |    97.59 |  97.59 |         290 |         290 |       283 |
+| MISC   |       89.09 |    81.67 |  85.22 |         120 |         110 |        98 |
+| ORG    |       95.05 |    97.15 |  96.09 |         316 |         323 |       307 |
+| PER    |       97.96 |    96.97 |  97.46 |          99 |          98 |        96 |
+
+|   Count | Error   | Type   | Tokens                               |
+|---------|---------|--------|--------------------------------------|
+|       3 | FN      | ORG    | NYMEX                                |
+|       2 | FP      | MISC   | GDR                                  |
+|       2 | FP      | LOC    | mid-Mississippi                      |
+|       2 | FP      | ORG    | Ministry                             |
+|       2 | FN      | LOC    | UK                                   |
+|       2 | FN      | MISC   | Permian                              |
+|       2 | FN      | MISC   | mid-Mississippi                      |
+|       2 | FN      | MISC   | ACCESS                               |
+|       1 | FP      | MISC   | POST-WAR SWISS                       |
+|       1 | FP      | MISC   | Nazi German                          |
+|       1 | FP      | MISC   | CEFTA                                |
+|       1 | FP      | MISC   | Zywiec Full Light                    |
+|       1 | FP      | ORG    | UK Department of Transport           |
+|       1 | FP      | ORG    | American                             |
+|       1 | FP      | ORG    | British Airways-American             |
+|       1 | FP      | LOC    | London-to-Boston                     |
+|       1 | FP      | MISC   | Mediterranean                        |
+|       1 | FP      | ORG    | Newmont-Santa Fe                     |
+|       1 | FP      | MISC   | Jones                                |
+|       1 | FP      | MISC   | Dow                                  |
+|       1 | FP      | ORG    | Congress                             |
+|       1 | FP      | MISC   | Chilean                              |
+|       1 | FP      | ORG    | Asia Rubber Markets                  |
+|       1 | FP      | PER    | Robert ) Rubin                       |
+|       1 | FP      | PER    | Note                                 |
+|       1 | FP      | ORG    | NYMEX Henry Hub                      |
+|       1 | FP      | LOC    | Midcontinent                         |
+|       1 | FP      | ORG    | Hub                                  |
+|       1 | FP      | ORG    | NYMEX Alberta                        |
+|       1 | FP      | ORG    | NYMEX Permian                        |
+|       1 | FP      | LOC    | Permian                              |
+|       1 | FP      | MISC   | East / West                          |
+|       1 | FP      | LOC    | Southwest                            |
+|       1 | FP      | ORG    | Treasuries                           |
+|       1 | FP      | LOC    | Northeastern                         |
+|       1 | FP      | ORG    | GREECE                               |
+|       1 | FP      | ORG    | John Lewis UK                        |
+|       1 | FP      | MISC   | Indonesian                           |
+|       1 | FP      | ORG    | Mines and Energy Ministry            |
+|       1 | FN      | MISC   | SWISS                                |
+|       1 | FN      | MISC   | Nazi                                 |
+|       1 | FN      | MISC   | German                               |
+|       1 | FN      | ORG    | CEFTA                                |
+|       1 | FN      | ORG    | Zywiec                               |
+|       1 | FN      | MISC   | Full Light                           |
+|       1 | FN      | ORG    | Department of Transport              |
+|       1 | FN      | MISC   | American                             |
+|       1 | FN      | MISC   | British Airways-American             |
+|       1 | FN      | MISC   | London-to-Boston                     |
+|       1 | FN      | LOC    | Mediterranean                        |
+|       1 | FN      | LOC    | Kazakstan                            |
+|       1 | FN      | MISC   | Newmont-Santa Fe                     |
+|       1 | FN      | MISC   | Dow ( Jones industrial average )     |
+|       1 | FN      | MISC   | ADRs                                 |
+|       1 | FN      | ORG    | Chilean Congress                     |
+|       1 | FN      | MISC   | Asia Rubber Markets                  |
+|       1 | FN      | PER    | Rubin                                |
+|       1 | FN      | PER    | Robert                               |
+|       1 | FN      | PER    | Yen                                  |
+|       1 | FN      | LOC    | Henry Hub                            |
+|       1 | FN      | LOC    | Alberta                              |
+|       1 | FN      | MISC   | WORLD WIDE WEB                       |
+|       1 | FN      | MISC   | world wide web                       |
+|       1 | FN      | MISC   | BTPs                                 |
+|       1 | FN      | MISC   | Treasuries                           |
+|       1 | FN      | MISC   | NYMEX ACCESS                         |
+|       1 | FN      | LOC    | GREECE                               |
+|       1 | FN      | ORG    | John Lewis                           |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry |

@@ -5,3 +5,83 @@
 | MISC   |       78.99 |    91.26 |  84.68 |         103 |         119 |        94 |
 | ORG    |       91.41 |    90.00 |  90.70 |         130 |         128 |       117 |
 | PER    |       98.82 |    98.43 |  98.62 |         255 |         254 |       251 |
+
+|   Count | Error   | Type   | Tokens                          |
+|---------|---------|--------|---------------------------------|
+|       2 | FP      | MISC   | World Cup                       |
+|       2 | FP      | ORG    | Philadelphia                    |
+|       2 | FP      | MISC   | NFC                             |
+|       2 | FN      | LOC    | Philadelphia                    |
+|       1 | FP      | LOC    | CHINA                           |
+|       1 | FP      | ORG    | Bitar                           |
+|       1 | FP      | ORG    | Yorkshire                       |
+|       1 | FP      | MISC   | AUSTRALIAN TOUR                 |
+|       1 | FP      | MISC   | Tour                            |
+|       1 | FP      | MISC   | AMERICAN                        |
+|       1 | FP      | MISC   | AFC                             |
+|       1 | FP      | ORG    | Indianapolis                    |
+|       1 | FP      | MISC   | NFC East                        |
+|       1 | FP      | MISC   | AMERICAN FOOTBALL-OHIO          |
+|       1 | FP      | LOC    | STATE                           |
+|       1 | FP      | ORG    | Rotary Club of Houston          |
+|       1 | FP      | LOC    | Nebraska                        |
+|       1 | FP      | ORG    | Real Madrid-Barcelona           |
+|       1 | FP      | LOC    | Santiago Bernabeu               |
+|       1 | FP      | MISC   | UNCAPPED                        |
+|       1 | FP      | MISC   | Fair Play                       |
+|       1 | FP      | ORG    | Mercedes                        |
+|       1 | FP      | MISC   | WORLD CUP SUPER G               |
+|       1 | FP      | PER    | ALPINE SKIING-GLADISHIVA        |
+|       1 | FP      | MISC   | Super G                         |
+|       1 | FP      | MISC   | THIRD                           |
+|       1 | FP      | MISC   | LPGA Tours                      |
+|       1 | FP      | MISC   | PGA                             |
+|       1 | FP      | PER    | ALPINE                          |
+|       1 | FP      | LOC    | Canada                          |
+|       1 | FP      | LOC    | USA I                           |
+|       1 | FP      | MISC   | SKIING-OFFICIALS                |
+|       1 | FP      | MISC   | ALPINE                          |
+|       1 | FP      | LOC    | New South Wales                 |
+|       1 | FP      | MISC   | Super 12                        |
+|       1 | FP      | LOC    | Sunderland                      |
+|       1 | FP      | LOC    | Tasmania                        |
+|       1 | FP      | ORG    | Victoria                        |
+|       1 | FP      | PER    | RW                              |
+|       1 | FP      | MISC   | NHL                             |
+|       1 | FP      | MISC   | National Hockey League          |
+|       1 | FP      | MISC   | International Boxing Federation |
+|       1 | FP      | ORG    | Super Peasants                  |
+|       1 | FP      | ORG    | The                             |
+|       1 | FP      | MISC   | 1988                            |
+|       1 | FP      | MISC   | European championship           |
+|       1 | FN      | PER    | CHINA                           |
+|       1 | FN      | PER    | Bitar                           |
+|       1 | FN      | MISC   | 1995 World Cup                  |
+|       1 | FN      | LOC    | Yorkshire                       |
+|       1 | FN      | LOC    | Indianapolis                    |
+|       1 | FN      | MISC   | FOOTBALL-OHIO STATE             |
+|       1 | FN      | LOC    | Houston                         |
+|       1 | FN      | ORG    | Rotary Club                     |
+|       1 | FN      | ORG    | Nebraska                        |
+|       1 | FN      | LOC    | Santiago Bernabeu stadium       |
+|       1 | FN      | MISC   | Real Madrid-Barcelona           |
+|       1 | FN      | MISC   | Mercedes                        |
+|       1 | FN      | PER    | EYLES                           |
+|       1 | FN      | MISC   | WORLD CUP                       |
+|       1 | FN      | MISC   | SKIING-GLADISHIVA               |
+|       1 | FN      | ORG    | PGA                             |
+|       1 | FN      | ORG    | LPGA                            |
+|       1 | FN      | MISC   | BOBSLEIGH-SHIMER                |
+|       1 | FN      | ORG    | Canada I                        |
+|       1 | FN      | ORG    | USA I                           |
+|       1 | FN      | ORG    | New South Wales                 |
+|       1 | FN      | ORG    | Sunderland                      |
+|       1 | FN      | ORG    | Tasmania                        |
+|       1 | FN      | LOC    | Victoria                        |
+|       1 | FN      | PER    | Pace                            |
+|       1 | FN      | ORG    | NHL                             |
+|       1 | FN      | ORG    | National Hockey League          |
+|       1 | FN      | ORG    | International Boxing Federation |
+|       1 | FN      | ORG    | The Super Peasants              |
+|       1 | FN      | MISC   | European                        |
+|       1 | FN      | MISC   | 1966 World Cup                  |

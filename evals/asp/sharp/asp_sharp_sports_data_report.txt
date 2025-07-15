@@ -1,0 +1,78 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       97.92 |    97.92 |  97.92 |        2111 |        2111 |      2067 |
+| LOC    |       97.64 |    99.60 |  98.61 |         498 |         508 |       496 |
+| MISC   |       84.85 |    95.89 |  90.03 |         146 |         165 |       140 |
+| ORG    |       99.39 |    95.99 |  97.66 |         848 |         819 |       814 |
+| PER    |       99.68 |    99.68 |  99.68 |         619 |         619 |       617 |
+
+|   Count | Error   | Type   | Tokens                          |
+|---------|---------|--------|---------------------------------|
+|       4 | FP      | MISC   | National Hockey League          |
+|       4 | FN      | ORG    | Barcelona                       |
+|       4 | FN      | ORG    | National Hockey League          |
+|       3 | FN      | ORG    | Real Madrid                     |
+|       2 | FP      | MISC   | National Football League        |
+|       2 | FP      | MISC   | CUP                             |
+|       2 | FP      | LOC    | Austria                         |
+|       2 | FP      | LOC    | United States                   |
+|       2 | FP      | MISC   | NHL                             |
+|       2 | FP      | MISC   | Barbarians                      |
+|       2 | FN      | ORG    | National Football League        |
+|       2 | FN      | ORG    | NHL                             |
+|       2 | FN      | ORG    | Barbarians                      |
+|       1 | FP      | ORG    | Barcelona Barcelona             |
+|       1 | FP      | MISC   | F.A. Challenge Cup              |
+|       1 | FP      | MISC   | BRAZILIAN                       |
+|       1 | FP      | PER    | Sun Hong                        |
+|       1 | FP      | MISC   | World Cup                       |
+|       1 | FP      | MISC   | NBA                             |
+|       1 | FP      | LOC    | Germany                         |
+|       1 | FP      | PER    | Hwang                           |
+|       1 | FP      | LOC    | National                        |
+|       1 | FP      | MISC   | British                         |
+|       1 | FP      | MISC   | BARBARIANS                      |
+|       1 | FP      | MISC   | German                          |
+|       1 | FP      | ORG    | Dundee                          |
+|       1 | FP      | MISC   | F.A. CUP                        |
+|       1 | FP      | LOC    | Britain                         |
+|       1 | FP      | ORG    | Barcelona 5-1 Draw Real Madrid  |
+|       1 | FP      | MISC   | National Basketball Association |
+|       1 | FP      | LOC    | Canada                          |
+|       1 | FP      | ORG    | FC Cologne                      |
+|       1 | FP      | MISC   | English                         |
+|       1 | FP      | MISC   | ENGLISH                         |
+|       1 | FP      | ORG    | Real Madrid Barcelona           |
+|       1 | FP      | LOC    | Italy                           |
+|       1 | FP      | MISC   | AMERICAN FOOTBALL               |
+|       1 | FP      | LOC    | Czech Republic                  |
+|       1 | FP      | MISC   | NFL                             |
+|       1 | FP      | LOC    | OAKLAND                         |
+|       1 | FP      | LOC    | Switzerland                     |
+|       1 | FN      | MISC   | AMERICAN                        |
+|       1 | FN      | ORG    | United States III               |
+|       1 | FN      | MISC   | ENGLISH F.A. CUP                |
+|       1 | FN      | ORG    | Germany III                     |
+|       1 | FN      | LOC    | SEATTLE                         |
+|       1 | FN      | ORG    | German I                        |
+|       1 | FN      | ORG    | 1. FC Cologne                   |
+|       1 | FN      | MISC   | BRAZILIAN CHAMPIONSHIP          |
+|       1 | FN      | ORG    | National Basketball Association |
+|       1 | FN      | ORG    | Switzerland I                   |
+|       1 | FN      | ORG    | Britain I                       |
+|       1 | FN      | LOC    | National stadium                |
+|       1 | FN      | ORG    | NBA                             |
+|       1 | FN      | MISC   | 1993 World Cup                  |
+|       1 | FN      | ORG    | Italy I                         |
+|       1 | FN      | MISC   | English F.A. Challenge Cup      |
+|       1 | FN      | MISC   | Super G                         |
+|       1 | FN      | PER    | Hwang Sun Hong                  |
+|       1 | FN      | ORG    | Austria III                     |
+|       1 | FN      | ORG    | BARBARIANS                      |
+|       1 | FN      | PER    | Dundee                          |
+|       1 | FN      | ORG    | British rugby union             |
+|       1 | FN      | ORG    | Czech Republic I                |
+|       1 | FN      | ORG    | United States I                 |
+|       1 | FN      | ORG    | Austria I                       |
+|       1 | FN      | ORG    | NFL                             |
+|       1 | FN      | ORG    | Canada I                        |

@@ -5,3 +5,141 @@
 | MISC   |       89.74 |    92.73 |  91.21 |         330 |         341 |       306 |
 | ORG    |       97.99 |    95.34 |  96.65 |        1073 |        1044 |      1023 |
 | PER    |       99.74 |    99.56 |  99.65 |        1135 |        1133 |      1130 |
+
+|   Count | Error   | Type   | Tokens                          |
+|---------|---------|--------|---------------------------------|
+|       7 | FP      | LOC    | ALPINE                          |
+|       5 | FP      | MISC   | National Hockey League          |
+|       5 | FN      | ORG    | National Hockey League          |
+|       5 | FN      | ORG    | Barcelona                       |
+|       4 | FP      | MISC   | NHL                             |
+|       4 | FP      | LOC    | Victoria                        |
+|       4 | FN      | ORG    | NHL                             |
+|       4 | FN      | ORG    | Victoria                        |
+|       3 | FP      | MISC   | World Cup                       |
+|       3 | FP      | LOC    | Tasmania                        |
+|       3 | FN      | ORG    | Real Madrid                     |
+|       3 | FN      | ORG    | Tasmania                        |
+|       2 | FP      | LOC    | NY                              |
+|       2 | FP      | MISC   | National Football League        |
+|       2 | FP      | ORG    | Real Madrid Barcelona           |
+|       2 | FP      | LOC    | Italy                           |
+|       2 | FP      | LOC    | Canada                          |
+|       2 | FP      | LOC    | United States                   |
+|       2 | FP      | LOC    | Austria                         |
+|       2 | FP      | ORG    | RUGBY UNION                     |
+|       2 | FP      | ORG    | Ironi Rishon                    |
+|       2 | FN      | ORG    | National Football League        |
+|       2 | FN      | MISC   | WORLD CUP                       |
+|       2 | FN      | MISC   | Italy I                         |
+|       2 | FN      | ORG    | Ironi Rishon Lezion             |
+|       1 | FP      | ORG    | Bitar                           |
+|       1 | FP      | ORG    | Yorkshire                       |
+|       1 | FP      | LOC    | CAMPESE                         |
+|       1 | FP      | ORG    | Twickenham                      |
+|       1 | FP      | ORG    | Pontypridd                      |
+|       1 | FP      | ORG    | Leicester                       |
+|       1 | FP      | PER    | REUTER                          |
+|       1 | FP      | MISC   | BRAZILIAN                       |
+|       1 | FP      | MISC   | AUSTRALIAN TOUR                 |
+|       1 | FP      | MISC   | Tour                            |
+|       1 | FP      | MISC   | ARAB                            |
+|       1 | FP      | ORG    | RANGERS                         |
+|       1 | FP      | LOC    | LA LAKERS                       |
+|       1 | FP      | MISC   | NFL AMERICAN                    |
+|       1 | FP      | LOC    | Nebraska                        |
+|       1 | FP      | ORG    | FC Cologne                      |
+|       1 | FP      | PER    | Makelele                        |
+|       1 | FP      | ORG    | Dundee                          |
+|       1 | FP      | LOC    | Salamanca                       |
+|       1 | FP      | ORG    | Barcelona Real Madrid           |
+|       1 | FP      | ORG    | Barcelona Barcelona             |
+|       1 | FP      | LOC    | Santiago Bernabeu               |
+|       1 | FP      | ORG    | Real Madrid-Barcelona           |
+|       1 | FP      | MISC   | UNCAPPED                        |
+|       1 | FP      | MISC   | Fair Play                       |
+|       1 | FP      | ORG    | Mercedes                        |
+|       1 | FP      | MISC   | G                               |
+|       1 | FP      | MISC   | 1991 World Championships        |
+|       1 | FP      | MISC   | WORLD CUP SUPER G               |
+|       1 | FP      | MISC   | Super G                         |
+|       1 | FP      | MISC   | THIRD                           |
+|       1 | FP      | MISC   | PGA                             |
+|       1 | FP      | MISC   | LPGA Tours                      |
+|       1 | FP      | MISC   | ALPINE                          |
+|       1 | FP      | MISC   | Super G standings               |
+|       1 | FP      | LOC    | USA I                           |
+|       1 | FP      | MISC   | German                          |
+|       1 | FP      | LOC    | Switzerland                     |
+|       1 | FP      | LOC    | Germany                         |
+|       1 | FP      | LOC    | Czech Republic                  |
+|       1 | FP      | LOC    | Britain                         |
+|       1 | FP      | MISC   | CUP                             |
+|       1 | FP      | LOC    | TEMBAU                          |
+|       1 | FP      | LOC    | DENPASAR                        |
+|       1 | FP      | LOC    | New South Wales                 |
+|       1 | FP      | LOC    | Sunderland                      |
+|       1 | FP      | LOC    | WALLABY                         |
+|       1 | FP      | LOC    | BARBARIANS                      |
+|       1 | FP      | ORG    | ISLANDERS                       |
+|       1 | FP      | PER    | RW                              |
+|       1 | FP      | MISC   | International Boxing Federation |
+|       1 | FP      | LOC    | BALKAN                          |
+|       1 | FP      | LOC    | Balkan                          |
+|       1 | FP      | ORG    | Super Peasants                  |
+|       1 | FP      | ORG    | The                             |
+|       1 | FP      | MISC   | 1988                            |
+|       1 | FP      | MISC   | European championship           |
+|       1 | FN      | PER    | Bitar                           |
+|       1 | FN      | MISC   | 1995 World Cup                  |
+|       1 | FN      | LOC    | Yorkshire                       |
+|       1 | FN      | PER    | CAMPESE                         |
+|       1 | FN      | LOC    | Twickenham                      |
+|       1 | FN      | LOC    | Pontypridd                      |
+|       1 | FN      | LOC    | Leicester                       |
+|       1 | FN      | ORG    | REUTER                          |
+|       1 | FN      | MISC   | BRAZILIAN CHAMPIONSHIP          |
+|       1 | FN      | MISC   | AUSTRALIAN                      |
+|       1 | FN      | ORG    | ARAB CONTRACTORS                |
+|       1 | FN      | ORG    | NY RANGERS                      |
+|       1 | FN      | ORG    | LA LAKERS                       |
+|       1 | FN      | MISC   | AMERICAN                        |
+|       1 | FN      | ORG    | NFL                             |
+|       1 | FN      | ORG    | Nebraska                        |
+|       1 | FN      | ORG    | 1. FC Cologne                   |
+|       1 | FN      | PER    | Claude Makelele                 |
+|       1 | FN      | PER    | Dundee                          |
+|       1 | FN      | ORG    | Salamanca                       |
+|       1 | FN      | MISC   | Real Madrid-Barcelona           |
+|       1 | FN      | LOC    | Santiago Bernabeu stadium       |
+|       1 | FN      | MISC   | Mercedes                        |
+|       1 | FN      | PER    | EYLES                           |
+|       1 | FN      | MISC   | World Championships             |
+|       1 | FN      | ORG    | PGA                             |
+|       1 | FN      | ORG    | LPGA                            |
+|       1 | FN      | MISC   | 1993 World Cup                  |
+|       1 | FN      | MISC   | Super G                         |
+|       1 | FN      | ORG    | Canada I                        |
+|       1 | FN      | ORG    | USA I                           |
+|       1 | FN      | ORG    | United States III               |
+|       1 | FN      | MISC   | Canada I                        |
+|       1 | FN      | MISC   | German I                        |
+|       1 | FN      | ORG    | Switzerland I                   |
+|       1 | FN      | MISC   | Germany III                     |
+|       1 | FN      | MISC   | Czech Republic I                |
+|       1 | FN      | MISC   | Austria I                       |
+|       1 | FN      | ORG    | Britain I                       |
+|       1 | FN      | MISC   | United States I                 |
+|       1 | FN      | MISC   | Austria III                     |
+|       1 | FN      | LOC    | TEMBAU DENPASAR                 |
+|       1 | FN      | ORG    | New South Wales                 |
+|       1 | FN      | ORG    | Sunderland                      |
+|       1 | FN      | ORG    | WALLABY                         |
+|       1 | FN      | ORG    | BARBARIANS                      |
+|       1 | FN      | ORG    | NY ISLANDERS                    |
+|       1 | FN      | ORG    | International Boxing Federation |
+|       1 | FN      | MISC   | BALKAN                          |
+|       1 | FN      | MISC   | Balkan                          |
+|       1 | FN      | ORG    | The Super Peasants              |
+|       1 | FN      | MISC   | European                        |
+|       1 | FN      | MISC   | 1966 World Cup                  |

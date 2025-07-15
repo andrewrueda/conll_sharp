@@ -1,0 +1,91 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       92.67 |    94.02 |  93.34 |         686 |         696 |       645 |
+| LOC    |       94.94 |    93.89 |  94.41 |         180 |         178 |       169 |
+| MISC   |       78.46 |    91.89 |  84.65 |         111 |         130 |       102 |
+| ORG    |       94.70 |    89.93 |  92.25 |         139 |         132 |       125 |
+| PER    |       97.27 |    97.27 |  97.27 |         256 |         256 |       249 |
+
+|   Count | Error   | Type   | Tokens                                                                                                                                          |
+|---------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|       3 | FP      | MISC   | Wallaby                                                                                                                                         |
+|       3 | FN      | ORG    | Wallaby                                                                                                                                         |
+|       3 | FN      | PER    | Charlton                                                                                                                                        |
+|       2 | FP      | MISC   | finals                                                                                                                                          |
+|       2 | FN      | ORG    | NFL                                                                                                                                             |
+|       2 | FN      | LOC    | Ireland                                                                                                                                         |
+|       2 | FN      | LOC    | England                                                                                                                                         |
+|       2 | FN      | MISC   | AMERICAN                                                                                                                                        |
+|       1 | FP      | PER    | he                                                                                                                                              |
+|       1 | FP      | MISC   | SUPER G                                                                                                                                         |
+|       1 | FP      | MISC   | Super G                                                                                                                                         |
+|       1 | FP      | MISC   | they formally received Irish                                                                                                                    |
+|       1 | FP      | MISC   | U.S. Amateur                                                                                                                                    |
+|       1 | FP      | PER    | 1996-12-07 Jack Charlton                                                                                                                        |
+|       1 | FP      | MISC   | fact that                                                                                                                                       |
+|       1 | FP      | MISC   | National Hockey League                                                                                                                          |
+|       1 | FP      | MISC   | Group A                                                                                                                                         |
+|       1 | FP      | LOC    | MANCHESTER UNITED                                                                                                                               |
+|       1 | FP      | PER    | honour had been made in recognition of Charlton                                                                                                 |
+|       1 | FP      | LOC    | the people of Ireland                                                                                                                           |
+|       1 | FP      | PER    | his wife                                                                                                                                        |
+|       1 | FP      | LOC    | Ireland                                                                                                                                         |
+|       1 | FP      | LOC    | managed Ireland                                                                                                                                 |
+|       1 | FP      | ORG    | the Republic                                                                                                                                    |
+|       1 | FP      | MISC   | World Cup                                                                                                                                       |
+|       1 | FP      | PER    | " It was the joy that we all had over the period , that I shared with people that I grew to love , that I treasure most , " he added . Charlton |
+|       1 | FP      | LOC    | Balkan                                                                                                                                          |
+|       1 | FP      | ORG    | United Province                                                                                                                                 |
+|       1 | FP      | MISC   | 's achievements as the                                                                                                                          |
+|       1 | FP      | PER    | , Bobby                                                                                                                                         |
+|       1 | FP      | MISC   | successive                                                                                                                                      |
+|       1 | FP      | ORG    | Cincinnati                                                                                                                                      |
+|       1 | FP      | MISC   | NCAA AMERICAN                                                                                                                                   |
+|       1 | FP      | MISC   | me                                                                                                                                              |
+|       1 | FP      | MISC   | NFL                                                                                                                                             |
+|       1 | FP      | MISC   | WALLABY                                                                                                                                         |
+|       1 | FP      | MISC   | USA III                                                                                                                                         |
+|       1 | FP      | LOC    | Tasmania                                                                                                                                        |
+|       1 | FP      | ORG    | Yorkshire                                                                                                                                       |
+|       1 | FP      | ORG    | Mercedes                                                                                                                                        |
+|       1 | FP      | MISC   | Group C                                                                                                                                         |
+|       1 | FP      | LOC    | a well-fancied England                                                                                                                          |
+|       1 | FP      | LOC    | Santiago Bernabeu                                                                                                                               |
+|       1 | FP      | MISC   | Fair Play                                                                                                                                       |
+|       1 | FP      | MISC   | 1988                                                                                                                                            |
+|       1 | FP      | MISC   | LPGA Tours                                                                                                                                      |
+|       1 | FP      | MISC   | PGA                                                                                                                                             |
+|       1 | FP      | MISC   | their own                                                                                                                                       |
+|       1 | FP      | MISC   | NFL AMERICAN                                                                                                                                    |
+|       1 | FP      | ORG    | Real Madrid-Barcelona                                                                                                                           |
+|       1 | FP      | MISC   | European championship                                                                                                                           |
+|       1 | FP      | LOC    | team 1-0 in their group qualifier . The lanky former Leeds United defender did not make his England                                             |
+|       1 | FP      | ORG    | Uttar Pradesh                                                                                                                                   |
+|       1 | FP      | PER    | " Charlton                                                                                                                                      |
+|       1 | FN      | ORG    | PGA                                                                                                                                             |
+|       1 | FN      | LOC    | Yorkshire                                                                                                                                       |
+|       1 | FN      | ORG    | Tasmania                                                                                                                                        |
+|       1 | FN      | PER    | CHARLTON                                                                                                                                        |
+|       1 | FN      | PER    | Bobby                                                                                                                                           |
+|       1 | FN      | ORG    | Leeds United                                                                                                                                    |
+|       1 | FN      | LOC    | Uttar Pradesh                                                                                                                                   |
+|       1 | FN      | MISC   | Mercedes                                                                                                                                        |
+|       1 | FN      | PER    | Dick Spring                                                                                                                                     |
+|       1 | FN      | PER    | Jack Charlton                                                                                                                                   |
+|       1 | FN      | ORG    | National Hockey League                                                                                                                          |
+|       1 | FN      | MISC   | 1995 World Cup                                                                                                                                  |
+|       1 | FN      | MISC   | Balkan                                                                                                                                          |
+|       1 | FN      | ORG    | MANCHESTER UNITED                                                                                                                               |
+|       1 | FN      | LOC    | U.S.                                                                                                                                            |
+|       1 | FN      | MISC   | Real Madrid-Barcelona                                                                                                                           |
+|       1 | FN      | MISC   | European                                                                                                                                        |
+|       1 | FN      | MISC   | Irish                                                                                                                                           |
+|       1 | FN      | MISC   | IRISHMAN                                                                                                                                        |
+|       1 | FN      | ORG    | WALLABY                                                                                                                                         |
+|       1 | FN      | ORG    | LPGA                                                                                                                                            |
+|       1 | FN      | LOC    | United Province                                                                                                                                 |
+|       1 | FN      | ORG    | USA III                                                                                                                                         |
+|       1 | FN      | LOC    | Cincinnati                                                                                                                                      |
+|       1 | FN      | LOC    | Republic of Ireland                                                                                                                             |
+|       1 | FN      | ORG    | NCAA                                                                                                                                            |
+|       1 | FN      | LOC    | Santiago Bernabeu stadium                                                                                                                       |

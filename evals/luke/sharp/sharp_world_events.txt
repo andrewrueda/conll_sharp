@@ -1,7 +1,73 @@
 | Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
 |--------|-------------|----------|--------|-------------|-------------|-----------|
-| ALL    |       96.99 |    97.36 |  97.18 |        1325 |        1330 |      1290 |
-| LOC    |       97.78 |    99.10 |  98.43 |         444 |         450 |       440 |
-| MISC   |       95.79 |    92.94 |  94.34 |         269 |         261 |       250 |
-| ORG    |       94.59 |    96.84 |  95.70 |         253 |         259 |       245 |
-| PER    |       98.61 |    98.89 |  98.75 |         359 |         360 |       355 |
+| ALL    |       97.66 |    97.43 |  97.54 |        1325 |        1322 |      1291 |
+| LOC    |       98.44 |    99.32 |  98.88 |         444 |         448 |       441 |
+| MISC   |       97.25 |    92.19 |  94.66 |         269 |         255 |       248 |
+| ORG    |       94.98 |    97.23 |  96.09 |         253 |         259 |       246 |
+| PER    |       98.89 |    99.16 |  99.03 |         359 |         360 |       356 |
+
+|   Count | Error   | Type   | Tokens                                  |
+|---------|---------|--------|-----------------------------------------|
+|       2 | FP      | ORG    | Parliament                              |
+|       2 | FN      | MISC   | Moslem                                  |
+|       1 | FP      | LOC    | ZULU                                    |
+|       1 | FP      | ORG    | Democratic Convention                   |
+|       1 | FP      | ORG    | Social Democrats                        |
+|       1 | FP      | ORG    | NGOs                                    |
+|       1 | FP      | LOC    | Baya                                    |
+|       1 | FP      | ORG    | State                                   |
+|       1 | FP      | PER    | Kenda                                   |
+|       1 | FP      | PER    | Pope                                    |
+|       1 | FP      | ORG    | Ranyon                                  |
+|       1 | FP      | LOC    | Rangoon                                 |
+|       1 | FP      | MISC   | Christian-Shi'ite Moslem                |
+|       1 | FP      | ORG    | Outagmie County Circuit Court           |
+|       1 | FP      | ORG    | Humane Society of the United States     |
+|       1 | FP      | LOC    | Glencoe Animal Hospital                 |
+|       1 | FP      | MISC   | German                                  |
+|       1 | FP      | MISC   | Basque                                  |
+|       1 | FP      | PER    | Herri Batasuna                          |
+|       1 | FP      | MISC   | Fascist                                 |
+|       1 | FP      | PER    | Duce                                    |
+|       1 | FP      | LOC    | Babri                                   |
+|       1 | FP      | LOC    | Karabuluts                              |
+|       1 | FP      | ORG    | Kesers                                  |
+|       1 | FP      | LOC    | St Pius X High School                   |
+|       1 | FP      | MISC   | Algerian Moslem                         |
+|       1 | FP      | MISC   | Viva Italia                             |
+|       1 | FP      | MISC   | Belgian Franc                           |
+|       1 | FP      | ORG    | Conservatives                           |
+|       1 | FP      | ORG    | Newsnight                               |
+|       1 | FP      | ORG    | State Council 's Port Office            |
+|       1 | FN      | MISC   | ZULU                                    |
+|       1 | FN      | MISC   | velvet revolution                       |
+|       1 | FN      | MISC   | Democratic Convention                   |
+|       1 | FN      | MISC   | Social Democrats                        |
+|       1 | FN      | MISC   | Chapter Seven                           |
+|       1 | FN      | MISC   | Baya                                    |
+|       1 | FN      | MISC   | Russian-U.S.                            |
+|       1 | FN      | MISC   | Kenda                                   |
+|       1 | FN      | MISC   | Roman Catholic                          |
+|       1 | FN      | ORG    | Ranyon ( Rangoon ) University           |
+|       1 | FN      | MISC   | Christian-Shi'ite                       |
+|       1 | FN      | LOC    | Outagmie County                         |
+|       1 | FN      | ORG    | The Humane Society of the United States |
+|       1 | FN      | ORG    | Glencoe Animal Hospital                 |
+|       1 | FN      | MISC   | cocker spaniels                         |
+|       1 | FN      | MISC   | German shepherds                        |
+|       1 | FN      | MISC   | chow chows                              |
+|       1 | FN      | LOC    | Basque country                          |
+|       1 | FN      | ORG    | Herri Batasuna                          |
+|       1 | FN      | PER    | Santa                                   |
+|       1 | FN      | MISC   | Babri                                   |
+|       1 | FN      | PER    | Karabuluts                              |
+|       1 | FN      | PER    | Kesers                                  |
+|       1 | FN      | ORG    | St Pius X High School                   |
+|       1 | FN      | MISC   | Algerian                                |
+|       1 | FN      | LOC    | Italia                                  |
+|       1 | FN      | MISC   | Belgian                                 |
+|       1 | FN      | MISC   | Conservatives                           |
+|       1 | FN      | MISC   | Newsnight                               |
+|       1 | FN      | ORG    | General Administration of Customs       |
+|       1 | FN      | ORG    | State Council                           |
+|       1 | FN      | MISC   | then-U.S.                               |

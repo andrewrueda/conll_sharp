@@ -1,0 +1,128 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       96.77 |    96.98 |  96.88 |        2255 |        2260 |      2187 |
+| LOC    |       96.06 |    99.12 |  97.57 |         566 |         584 |       561 |
+| MISC   |       84.07 |    86.93 |  85.47 |         176 |         182 |       153 |
+| ORG    |       97.83 |    95.74 |  96.77 |         893 |         874 |       855 |
+| PER    |       99.68 |    99.68 |  99.68 |         620 |         620 |       618 |
+
+|   Count | Error   | Type   | Tokens                          |
+|---------|---------|--------|---------------------------------|
+|       4 | FP      | MISC   | National Hockey League          |
+|       4 | FN      | ORG    | Barcelona                       |
+|       4 | FN      | ORG    | National Hockey League          |
+|       3 | FN      | ORG    | Real Madrid                     |
+|       2 | FP      | LOC    | Austria                         |
+|       2 | FP      | MISC   | Barbarians                      |
+|       2 | FP      | MISC   | National Football League        |
+|       2 | FP      | MISC   | CUP                             |
+|       2 | FP      | LOC    | Canadian West Coast             |
+|       2 | FP      | MISC   | NHL                             |
+|       2 | FP      | LOC    | United States                   |
+|       2 | FN      | ORG    | Manitoba                        |
+|       2 | FN      | ORG    | Barbarians                      |
+|       2 | FN      | MISC   | Canadian                        |
+|       2 | FN      | ORG    | National Football League        |
+|       2 | FN      | ORG    | NHL                             |
+|       1 | FP      | ORG    | Lantau Peak                     |
+|       1 | FP      | LOC    | Manitoba                        |
+|       1 | FP      | MISC   | BRAZILIAN                       |
+|       1 | FP      | MISC   | German                          |
+|       1 | FP      | MISC   | National Basketball Association |
+|       1 | FP      | LOC    | Czech Republic                  |
+|       1 | FP      | MISC   | USG                             |
+|       1 | FP      | MISC   | British                         |
+|       1 | FP      | MISC   | World Cup                       |
+|       1 | FP      | LOC    | West Coast                      |
+|       1 | FP      | ORG    | Barcelona Barcelona             |
+|       1 | FP      | ORG    | Barcelona 5-1 Draw Real Madrid  |
+|       1 | FP      | LOC    | East Coast                      |
+|       1 | FP      | LOC    | OAKLAND                         |
+|       1 | FP      | ORG    | King Ace                        |
+|       1 | FP      | ORG    | Lucky Emdldm                    |
+|       1 | FP      | MISC   | F.A. Challenge Cup              |
+|       1 | FP      | ORG    | But 2                           |
+|       1 | FP      | ORG    | Real Madrid Barcelona           |
+|       1 | FP      | MISC   | ENGLISH                         |
+|       1 | FP      | ORG    | FC Cologne                      |
+|       1 | FP      | LOC    | CITY OF HARTFORD                |
+|       1 | FP      | ORG    | Sangthai Glory                  |
+|       1 | FP      | LOC    | Britain                         |
+|       1 | FP      | ORG    | Camaras Arbitrales              |
+|       1 | FP      | MISC   | CAN                             |
+|       1 | FP      | LOC    | Lula I                          |
+|       1 | FP      | MISC   | NBA                             |
+|       1 | FP      | ORG    | Danila                          |
+|       1 | FP      | MISC   | English                         |
+|       1 | FP      | ORG    | Mana                            |
+|       1 | FP      | LOC    | National                        |
+|       1 | FP      | ORG    | Dundee                          |
+|       1 | FP      | LOC    | Mesipia                         |
+|       1 | FP      | ORG    | Budisuryana                     |
+|       1 | FP      | MISC   | Cwt                             |
+|       1 | FP      | LOC    | Iran                            |
+|       1 | FP      | ORG    | Algoa Day                       |
+|       1 | FP      | LOC    | Switzerland                     |
+|       1 | FP      | LOC    | WESTERN HEMISPHERE              |
+|       1 | FP      | MISC   | NFL                             |
+|       1 | FP      | ORG    | Tong Shun                       |
+|       1 | FP      | LOC    | Sabr                            |
+|       1 | FP      | MISC   | BARBARIANS                      |
+|       1 | FP      | MISC   | Manitoba Government Price Index |
+|       1 | FP      | PER    | Hwang                           |
+|       1 | FP      | ORG    | Seagramd ace                    |
+|       1 | FP      | ORG    | IMC TBN                         |
+|       1 | FP      | LOC    | Germany                         |
+|       1 | FP      | MISC   | F.A. CUP                        |
+|       1 | FP      | LOC    | Canada                          |
+|       1 | FP      | ORG    | Myos Yang 5                     |
+|       1 | FP      | PER    | Sun Hong                        |
+|       1 | FP      | MISC   | AMERICAN FOOTBALL               |
+|       1 | FP      | LOC    | Italy                           |
+|       1 | FN      | LOC    | Lantau Peak                     |
+|       1 | FN      | MISC   | BRAZILIAN CHAMPIONSHIP          |
+|       1 | FN      | LOC    | National stadium                |
+|       1 | FN      | ORG    | National Basketball Association |
+|       1 | FN      | MISC   | ENGLISH F.A. CUP                |
+|       1 | FN      | ORG    | USG                             |
+|       1 | FN      | MISC   | King Ace                        |
+|       1 | FN      | MISC   | Lucky Emdldm                    |
+|       1 | FN      | ORG    | Switzerland I                   |
+|       1 | FN      | ORG    | Britain I                       |
+|       1 | FN      | LOC    | SEATTLE                         |
+|       1 | FN      | MISC   | Sangthai Glory                  |
+|       1 | FN      | ORG    | Austria III                     |
+|       1 | FN      | ORG    | Czech Republic I                |
+|       1 | FN      | MISC   | Lula I                          |
+|       1 | FN      | MISC   | But                             |
+|       1 | FN      | MISC   | TBN                             |
+|       1 | FN      | MISC   | 1993 World Cup                  |
+|       1 | FN      | MISC   | Danila                          |
+|       1 | FN      | PER    | Hwang Sun Hong                  |
+|       1 | FN      | MISC   | IMC                             |
+|       1 | FN      | ORG    | Germany III                     |
+|       1 | FN      | ORG    | German I                        |
+|       1 | FN      | MISC   | Mesipia                         |
+|       1 | FN      | ORG    | British rugby union             |
+|       1 | FN      | ORG    | 1. FC Cologne                   |
+|       1 | FN      | MISC   | Iran Sabr                       |
+|       1 | FN      | ORG    | NBA                             |
+|       1 | FN      | LOC    | CAN                             |
+|       1 | FN      | MISC   | Budisuryana                     |
+|       1 | FN      | MISC   | Algoa Day                       |
+|       1 | FN      | MISC   | English F.A. Challenge Cup      |
+|       1 | FN      | MISC   | AMERICAN                        |
+|       1 | FN      | MISC   | Super G                         |
+|       1 | FN      | MISC   | Tong Shun                       |
+|       1 | FN      | ORG    | United States I                 |
+|       1 | FN      | MISC   | Seagramd ace                    |
+|       1 | FN      | PER    | Dundee                          |
+|       1 | FN      | ORG    | NFL                             |
+|       1 | FN      | MISC   | Myos Yang                       |
+|       1 | FN      | ORG    | GeePee                          |
+|       1 | FN      | ORG    | BARBARIANS                      |
+|       1 | FN      | LOC    | HARTFORD                        |
+|       1 | FN      | ORG    | Canada I                        |
+|       1 | FN      | ORG    | United States III               |
+|       1 | FN      | ORG    | Italy I                         |
+|       1 | FN      | ORG    | Austria I                       |

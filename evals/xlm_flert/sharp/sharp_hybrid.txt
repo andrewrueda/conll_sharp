@@ -5,3 +5,39 @@
 | MISC   |       92.86 |    97.01 |  94.89 |          67 |          70 |        65 |
 | ORG    |       87.72 |    93.46 |  90.50 |         107 |         114 |       100 |
 | PER    |       99.61 |    99.61 |  99.61 |         257 |         257 |       256 |
+
+|   Count | Error   | Type   | Tokens            |
+|---------|---------|--------|-------------------|
+|       3 | FP      | MISC   | Select            |
+|       3 | FP      | ORG    | Chicago           |
+|       3 | FN      | LOC    | Chicago           |
+|       2 | FP      | ORG    | St. Louis         |
+|       2 | FP      | ORG    | Toledo            |
+|       2 | FP      | MISC   | Choice            |
+|       2 | FP      | LOC    | Tasmania          |
+|       2 | FP      | LOC    | Victoria          |
+|       2 | FN      | LOC    | St. Louis         |
+|       2 | FN      | LOC    | Toledo            |
+|       2 | FN      | ORG    | Tasmania          |
+|       2 | FN      | ORG    | Victoria          |
+|       1 | FP      | LOC    | CAMPESE           |
+|       1 | FP      | ORG    | Twickenham        |
+|       1 | FP      | ORG    | Pontypridd        |
+|       1 | FP      | ORG    | Leicester         |
+|       1 | FP      | PER    | REUTER            |
+|       1 | FP      | LOC    | Salamanca         |
+|       1 | FP      | ORG    | Slaughter Heifers |
+|       1 | FP      | ORG    | Select and Choice |
+|       1 | FP      | ORG    | USDA              |
+|       1 | FP      | LOC    | Iowa-S Minn       |
+|       1 | FP      | ORG    | Minneapolis       |
+|       1 | FN      | PER    | CAMPESE           |
+|       1 | FN      | LOC    | Twickenham        |
+|       1 | FN      | LOC    | Leicester         |
+|       1 | FN      | LOC    | Pontypridd        |
+|       1 | FN      | ORG    | REUTER            |
+|       1 | FN      | ORG    | Salamanca         |
+|       1 | FN      | MISC   | USDA              |
+|       1 | FN      | MISC   | Iowa-S Minn       |
+|       1 | FN      | ORG    | CBOT              |
+|       1 | FN      | LOC    | Minneapolis       |

@@ -1,0 +1,30 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       97.30 |    97.63 |  97.46 |         590 |         592 |       576 |
+| LOC    |       94.81 |    96.69 |  95.74 |         151 |         154 |       146 |
+| MISC   |       95.71 |    97.10 |  96.40 |          69 |          70 |        67 |
+| ORG    |       95.37 |    93.64 |  94.50 |         110 |         108 |       103 |
+| PER    |      100.00 |   100.00 | 100.00 |         260 |         260 |       260 |
+
+|   Count | Error   | Type   | Tokens         |
+|---------|---------|--------|----------------|
+|       4 | FP      | LOC    | Tasmania       |
+|       4 | FN      | ORG    | Tasmania       |
+|       2 | FP      | LOC    | Victoria       |
+|       2 | FP      | ORG    | Toledo         |
+|       2 | FN      | LOC    | Toledo         |
+|       2 | FN      | ORG    | Victoria       |
+|       1 | FP      | ORG    | USDA           |
+|       1 | FP      | MISC   | Holsteins      |
+|       1 | FP      | ORG    | Pontypridd     |
+|       1 | FP      | LOC    | gone Indonesia |
+|       1 | FP      | ORG    | Leicester      |
+|       1 | FP      | MISC   | Group A        |
+|       1 | FP      | LOC    | Iowa-S Minn    |
+|       1 | FP      | MISC   | Holstein       |
+|       1 | FN      | LOC    | Pontypridd     |
+|       1 | FN      | ORG    | CBOT           |
+|       1 | FN      | LOC    | Leicester      |
+|       1 | FN      | LOC    | Indonesia      |
+|       1 | FN      | MISC   | Iowa-S Minn    |
+|       1 | FN      | MISC   | USDA           |

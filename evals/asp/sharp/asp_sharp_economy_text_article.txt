@@ -1,0 +1,76 @@
+| Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
+|--------|-------------|----------|--------|-------------|-------------|-----------|
+| ALL    |       95.26 |    95.38 |  95.32 |         822 |         823 |       784 |
+| LOC    |       97.94 |    98.62 |  98.28 |         289 |         291 |       285 |
+| MISC   |       84.75 |    83.33 |  84.03 |         120 |         118 |       100 |
+| ORG    |       95.54 |    95.54 |  95.54 |         314 |         314 |       300 |
+| PER    |       99.00 |   100.00 |  99.50 |          99 |         100 |        99 |
+
+|   Count | Error   | Type   | Tokens                               |
+|---------|---------|--------|--------------------------------------|
+|       4 | FN      | MISC   | trans-Atlantic                       |
+|       3 | FN      | ORG    | NYMEX                                |
+|       2 | FP      | MISC   | NYMEX                                |
+|       2 | FP      | ORG    | ACCESS                               |
+|       2 | FP      | LOC    | mid-Mississippi                      |
+|       2 | FN      | MISC   | mid-Mississippi                      |
+|       2 | FN      | MISC   | ACCESS                               |
+|       2 | FN      | LOC    | UK                                   |
+|       1 | FP      | MISC   | Bunds                                |
+|       1 | FP      | MISC   | Nazi German                          |
+|       1 | FP      | ORG    | Asia Rubber Markets                  |
+|       1 | FP      | MISC   | Northeastern                         |
+|       1 | FP      | ORG    | Treasuries                           |
+|       1 | FP      | MISC   | Dow                                  |
+|       1 | FP      | MISC   | CEFTA                                |
+|       1 | FP      | MISC   | East / West                          |
+|       1 | FP      | ORG    | NYMEX Henry Hub                      |
+|       1 | FP      | LOC    | London-to-Boston                     |
+|       1 | FP      | ORG    | Mines and Energy Ministry            |
+|       1 | FP      | MISC   | Chilean                              |
+|       1 | FP      | MISC   | INTERVIEW                            |
+|       1 | FP      | ORG    | British Airways / American           |
+|       1 | FP      | MISC   | KCBT                                 |
+|       1 | FP      | ORG    | Hub                                  |
+|       1 | FP      | ORG    | Congress                             |
+|       1 | FP      | LOC    | Midcontinent                         |
+|       1 | FP      | MISC   | Heineken                             |
+|       1 | FP      | MISC   | Jones                                |
+|       1 | FP      | ORG    | UK Department of Transport           |
+|       1 | FP      | MISC   | Indonesian                           |
+|       1 | FP      | MISC   | Christmas                            |
+|       1 | FP      | MISC   | ADS                                  |
+|       1 | FP      | MISC   | Zywiec Full Light                    |
+|       1 | FP      | LOC    | Iowa-S Minn                          |
+|       1 | FP      | PER    | Note                                 |
+|       1 | FP      | MISC   | Mediterranean                        |
+|       1 | FP      | ORG    | Honda RV                             |
+|       1 | FP      | ORG    | Newmont-Santa Fe                     |
+|       1 | FP      | ORG    | Ministry                             |
+|       1 | FP      | ORG    | John Lewis UK                        |
+|       1 | FP      | LOC    | Southwest                            |
+|       1 | FN      | ORG    | Indonesian Mines and Energy Ministry |
+|       1 | FN      | MISC   | world wide web                       |
+|       1 | FN      | LOC    | Henry Hub                            |
+|       1 | FN      | MISC   | Nazi                                 |
+|       1 | FN      | ORG    | Chilean Congress                     |
+|       1 | FN      | ORG    | Zywiec                               |
+|       1 | FN      | ORG    | British Airways                      |
+|       1 | FN      | MISC   | London-to-Boston                     |
+|       1 | FN      | ORG    | Department of Transport              |
+|       1 | FN      | MISC   | Treasuries                           |
+|       1 | FN      | MISC   | German                               |
+|       1 | FN      | MISC   | Honda RV                             |
+|       1 | FN      | MISC   | Full Light                           |
+|       1 | FN      | MISC   | Newmont-Santa Fe                     |
+|       1 | FN      | MISC   | WORLD WIDE WEB                       |
+|       1 | FN      | ORG    | American                             |
+|       1 | FN      | ORG    | KCBT                                 |
+|       1 | FN      | ORG    | CEFTA                                |
+|       1 | FN      | MISC   | Iowa-S Minn                          |
+|       1 | FN      | ORG    | Trade and Industry                   |
+|       1 | FN      | ORG    | Heineken                             |
+|       1 | FN      | MISC   | Asia Rubber Markets                  |
+|       1 | FN      | LOC    | Mediterranean                        |
+|       1 | FN      | ORG    | John Lewis                           |
+|       1 | FN      | MISC   | Dow ( Jones industrial average )     |

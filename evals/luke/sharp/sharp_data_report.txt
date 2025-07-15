@@ -1,7 +1,125 @@
 | Type   |   Precision |   Recall |     F1 |   Reference |   Predicted |   Correct |
 |--------|-------------|----------|--------|-------------|-------------|-----------|
-| ALL    |       96.19 |    96.74 |  96.46 |        2268 |        2281 |      2194 |
-| LOC    |       95.08 |    98.25 |  96.64 |         571 |         590 |       561 |
-| MISC   |       85.87 |    84.49 |  85.18 |         187 |         184 |       158 |
-| ORG    |       96.61 |    96.28 |  96.44 |         887 |         884 |       854 |
-| PER    |       99.68 |    99.68 |  99.68 |         623 |         623 |       621 |
+| ALL    |       97.05 |    97.05 |  97.05 |        2268 |        2268 |      2201 |
+| LOC    |       96.22 |    98.07 |  97.14 |         571 |         582 |       560 |
+| MISC   |       86.81 |    84.49 |  85.64 |         187 |         182 |       158 |
+| ORG    |       98.62 |    96.96 |  97.78 |         887 |         872 |       860 |
+| PER    |       98.58 |   100.00 |  99.28 |         623 |         632 |       623 |
+
+|   Count | Error   | Type   | Tokens                          |
+|---------|---------|--------|---------------------------------|
+|       4 | FP      | MISC   | National Hockey League          |
+|       4 | FN      | ORG    | National Hockey League          |
+|       2 | FP      | MISC   | National Football League        |
+|       2 | FP      | LOC    | Canadian West Coast             |
+|       2 | FP      | ORG    | ORE                             |
+|       2 | FP      | ORG    | Durum                           |
+|       2 | FP      | LOC    | United States                   |
+|       2 | FP      | LOC    | Austria                         |
+|       2 | FP      | MISC   | CUP                             |
+|       2 | FN      | MISC   | AMERICAN                        |
+|       2 | FN      | ORG    | NFL                             |
+|       2 | FN      | ORG    | National Football League        |
+|       2 | FN      | ORG    | Manitoba Pork                   |
+|       2 | FN      | ORG    | Manitoba                        |
+|       2 | FN      | MISC   | Canadian                        |
+|       1 | FP      | MISC   | ENGLISH                         |
+|       1 | FP      | MISC   | F.A. CUP                        |
+|       1 | FP      | MISC   | English                         |
+|       1 | FP      | MISC   | F.A. Challenge Cup              |
+|       1 | FP      | MISC   | BRAZILIAN                       |
+|       1 | FP      | LOC    | Tasmania                        |
+|       1 | FP      | LOC    | National                        |
+|       1 | FP      | LOC    | LA LAKERS                       |
+|       1 | FP      | MISC   | CLINCHED DIVISION               |
+|       1 | FP      | ORG    | FC Cologne                      |
+|       1 | FP      | ORG    | Schalke                         |
+|       1 | FP      | MISC   | CST                             |
+|       1 | FP      | MISC   | Manitoba Government Price Index |
+|       1 | FP      | LOC    | Manitoba                        |
+|       1 | FP      | LOC    | West Coast                      |
+|       1 | FP      | LOC    | East Coast                      |
+|       1 | FP      | LOC    | WESTERN HEMISPHERE              |
+|       1 | FP      | ORG    | Danila                          |
+|       1 | FP      | MISC   | Thai                            |
+|       1 | FP      | MISC   | MEDITERRANEAN                   |
+|       1 | FP      | PER    | Lula I                          |
+|       1 | FP      | ORG    | Mesipia                         |
+|       1 | FP      | ORG    | Camaras Arbitrales              |
+|       1 | FP      | PER    | Flint                           |
+|       1 | FP      | PER    | Dent                            |
+|       1 | FP      | MISC   | NASS                            |
+|       1 | FP      | LOC    | CITY OF HARTFORD                |
+|       1 | FP      | PER    | Reuter                          |
+|       1 | FP      | ORG    | Canola                          |
+|       1 | FP      | MISC   | Lantau Peak                     |
+|       1 | FP      | ORG    | Royal Clipper                   |
+|       1 | FP      | MISC   | Sabr                            |
+|       1 | FP      | LOC    | Iran                            |
+|       1 | FP      | PER    | Princess of Loine               |
+|       1 | FP      | PER    | Myos Yang                       |
+|       1 | FP      | PER    | King Ace                        |
+|       1 | FP      | PER    | Tong Shun                       |
+|       1 | FP      | PER    | But                             |
+|       1 | FP      | MISC   | Lillehammer Winter Olympics     |
+|       1 | FP      | MISC   | World Cup                       |
+|       1 | FP      | LOC    | Italy                           |
+|       1 | FP      | LOC    | Canada                          |
+|       1 | FP      | MISC   | German                          |
+|       1 | FP      | LOC    | Switzerland                     |
+|       1 | FP      | LOC    | Germany                         |
+|       1 | FP      | LOC    | Czech Republic                  |
+|       1 | FP      | LOC    | Britain                         |
+|       1 | FP      | ORG    | RUGBY UNION                     |
+|       1 | FP      | LOC    | NY ISLANDERS                    |
+|       1 | FN      | MISC   | ENGLISH F.A. CUP                |
+|       1 | FN      | MISC   | English F.A. Challenge Cup      |
+|       1 | FN      | MISC   | BRAZILIAN CHAMPIONSHIP          |
+|       1 | FN      | ORG    | Tasmania                        |
+|       1 | FN      | LOC    | National stadium                |
+|       1 | FN      | ORG    | LA LAKERS                       |
+|       1 | FN      | ORG    | 1. FC Cologne                   |
+|       1 | FN      | ORG    | Schalke 04                      |
+|       1 | FN      | LOC    | Kaohsiung                       |
+|       1 | FN      | LOC    | Dampier                         |
+|       1 | FN      | MISC   | Danila                          |
+|       1 | FN      | ORG    | Thai Resource                   |
+|       1 | FN      | LOC    | MEDITERRANEAN                   |
+|       1 | FN      | MISC   | Lula I                          |
+|       1 | FN      | LOC    | Spetses                         |
+|       1 | FN      | MISC   | Mesipia                         |
+|       1 | FN      | LOC    | Rosario                         |
+|       1 | FN      | LOC    | Quequen                         |
+|       1 | FN      | LOC    | Bahia Blanca                    |
+|       1 | FN      | ORG    | NASS                            |
+|       1 | FN      | LOC    | HARTFORD                        |
+|       1 | FN      | ORG    | USG                             |
+|       1 | FN      | ORG    | GeePee                          |
+|       1 | FN      | ORG    | Reuter                          |
+|       1 | FN      | LOC    | Lantau Peak                     |
+|       1 | FN      | MISC   | Royal Clipper                   |
+|       1 | FN      | ORG    | Coe and Clerici                 |
+|       1 | FN      | MISC   | TBN                             |
+|       1 | FN      | MISC   | IMC                             |
+|       1 | FN      | ORG    | Commerce Ministry               |
+|       1 | FN      | MISC   | Iran Sabr                       |
+|       1 | FN      | MISC   | Princess of Loine               |
+|       1 | FN      | MISC   | Myos Yang                       |
+|       1 | FN      | MISC   | King Ace                        |
+|       1 | FN      | MISC   | Tong Shun                       |
+|       1 | FN      | MISC   | But                             |
+|       1 | FN      | MISC   | Winter Olympics                 |
+|       1 | FN      | LOC    | Lillehammer                     |
+|       1 | FN      | MISC   | 1993 World Cup                  |
+|       1 | FN      | ORG    | United States III               |
+|       1 | FN      | MISC   | Italy I                         |
+|       1 | FN      | MISC   | Canada I                        |
+|       1 | FN      | MISC   | German I                        |
+|       1 | FN      | ORG    | Switzerland I                   |
+|       1 | FN      | MISC   | Germany III                     |
+|       1 | FN      | MISC   | Czech Republic I                |
+|       1 | FN      | MISC   | Austria I                       |
+|       1 | FN      | ORG    | Britain I                       |
+|       1 | FN      | MISC   | United States I                 |
+|       1 | FN      | MISC   | Austria III                     |
+|       1 | FN      | ORG    | NY ISLANDERS                    |

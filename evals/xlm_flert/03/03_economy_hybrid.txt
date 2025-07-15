@@ -4,3 +4,22 @@
 | LOC    |       96.67 |    74.36 |  84.06 |          39 |          30 |        29 |
 | MISC   |       44.44 |   100.00 |  61.54 |           4 |           9 |         4 |
 | ORG    |       56.52 |    92.86 |  70.27 |          14 |          23 |        13 |
+
+|   Count | Error   | Type   | Tokens            |
+|---------|---------|--------|-------------------|
+|       3 | FP      | MISC   | Select            |
+|       3 | FP      | ORG    | Chicago           |
+|       3 | FN      | LOC    | Chicago           |
+|       2 | FP      | ORG    | St. Louis         |
+|       2 | FP      | ORG    | Toledo            |
+|       2 | FP      | MISC   | Choice            |
+|       2 | FN      | LOC    | St. Louis         |
+|       2 | FN      | LOC    | Toledo            |
+|       1 | FP      | ORG    | Select and Choice |
+|       1 | FP      | ORG    | Slaughter Heifers |
+|       1 | FP      | LOC    | Iowa-S Minn       |
+|       1 | FP      | ORG    | Minneapolis       |
+|       1 | FN      | LOC    | Minn              |
+|       1 | FN      | LOC    | Iowa-S            |
+|       1 | FN      | ORG    | CBOT              |
+|       1 | FN      | LOC    | Minneapolis       |

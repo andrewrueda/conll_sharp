@@ -5,3 +5,76 @@
 | MISC   |       88.27 |    91.08 |  89.66 |         157 |         162 |       143 |
 | ORG    |       98.67 |    96.56 |  97.60 |         842 |         824 |       813 |
 | PER    |       99.84 |    99.68 |  99.76 |         622 |         621 |       620 |
+
+|   Count | Error   | Type   | Tokens                   |
+|---------|---------|--------|--------------------------|
+|       5 | FN      | ORG    | Barcelona                |
+|       4 | FP      | MISC   | National Hockey League   |
+|       4 | FP      | LOC    | ALPINE                   |
+|       4 | FN      | ORG    | National Hockey League   |
+|       3 | FP      | MISC   | NHL                      |
+|       3 | FN      | ORG    | NHL                      |
+|       3 | FN      | ORG    | Real Madrid              |
+|       2 | FP      | LOC    | NY                       |
+|       2 | FP      | MISC   | National Football League |
+|       2 | FP      | ORG    | Real Madrid Barcelona    |
+|       2 | FP      | LOC    | United States            |
+|       2 | FP      | LOC    | Austria                  |
+|       2 | FP      | ORG    | Ironi Rishon             |
+|       2 | FN      | ORG    | National Football League |
+|       2 | FN      | ORG    | Ironi Rishon Lezion      |
+|       1 | FP      | MISC   | BRAZILIAN                |
+|       1 | FP      | MISC   | ARAB                     |
+|       1 | FP      | ORG    | RANGERS                  |
+|       1 | FP      | LOC    | LA LAKERS                |
+|       1 | FP      | MISC   | NFL AMERICAN             |
+|       1 | FP      | ORG    | FC Cologne               |
+|       1 | FP      | PER    | Makelele                 |
+|       1 | FP      | ORG    | Dundee                   |
+|       1 | FP      | ORG    | Barcelona Real Madrid    |
+|       1 | FP      | ORG    | Barcelona Barcelona      |
+|       1 | FP      | MISC   | G                        |
+|       1 | FP      | MISC   | 1991 World Championships |
+|       1 | FP      | MISC   | ALPINE                   |
+|       1 | FP      | MISC   | World Cup                |
+|       1 | FP      | MISC   | Super G standings        |
+|       1 | FP      | LOC    | Italy                    |
+|       1 | FP      | LOC    | Canada                   |
+|       1 | FP      | MISC   | German                   |
+|       1 | FP      | LOC    | Switzerland              |
+|       1 | FP      | LOC    | Germany                  |
+|       1 | FP      | LOC    | Czech Republic           |
+|       1 | FP      | LOC    | Britain                  |
+|       1 | FP      | MISC   | CUP                      |
+|       1 | FP      | LOC    | DENPASAR                 |
+|       1 | FP      | LOC    | TEMBAU                   |
+|       1 | FP      | ORG    | RUGBY UNION              |
+|       1 | FP      | LOC    | BARBARIANS               |
+|       1 | FP      | ORG    | ISLANDERS                |
+|       1 | FN      | MISC   | BRAZILIAN CHAMPIONSHIP   |
+|       1 | FN      | ORG    | ARAB CONTRACTORS         |
+|       1 | FN      | ORG    | NY RANGERS               |
+|       1 | FN      | ORG    | LA LAKERS                |
+|       1 | FN      | ORG    | NFL                      |
+|       1 | FN      | MISC   | AMERICAN                 |
+|       1 | FN      | ORG    | 1. FC Cologne            |
+|       1 | FN      | PER    | Claude Makelele          |
+|       1 | FN      | PER    | Dundee                   |
+|       1 | FN      | MISC   | World Championships      |
+|       1 | FN      | MISC   | 1993 World Cup           |
+|       1 | FN      | MISC   | Super G                  |
+|       1 | FN      | ORG    | United States III        |
+|       1 | FN      | MISC   | Italy I                  |
+|       1 | FN      | MISC   | Canada I                 |
+|       1 | FN      | MISC   | German I                 |
+|       1 | FN      | ORG    | Switzerland I            |
+|       1 | FN      | MISC   | Germany III              |
+|       1 | FN      | MISC   | Czech Republic I         |
+|       1 | FN      | MISC   | Austria I                |
+|       1 | FN      | ORG    | Britain I                |
+|       1 | FN      | MISC   | United States I          |
+|       1 | FN      | MISC   | Austria III              |
+|       1 | FN      | MISC   | WORLD CUP                |
+|       1 | FN      | LOC    | TEMBAU DENPASAR          |
+|       1 | FN      | ORG    | BARBARIANS               |
+|       1 | FN      | ORG    | NY ISLANDERS             |
